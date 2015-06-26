@@ -1,7 +1,7 @@
 # Localization Resources
 
 ## Making Submissions
-Submissions of updates or new languages can be made as a pull-request or submitted via the community site (community.unifiedremote.com).
+Submissions of updates or new languages can be made as a pull-request or submitted via the community site (http://community.unifiedremote.com).
 
 ## Important
 * Do not make changes to English (US), except for typos or grammatical errors.
