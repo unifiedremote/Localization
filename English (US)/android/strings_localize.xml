@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Rate -->
+    <string name="rate_message">You\'ve used this app for a while now. Would you give it 5 stars? Don\'t worry, we will only ask you once.</string>
+    <string name="rate_help">Feel free to give us feedback via our web site, Facebook or Twitter. Thanks!</string>
+
+    <!-- Titles -->
+    <string name="title_welcome">Welcome</string>
+    <string name="title_remotes">Remotes</string>
+    <string name="title_remote">Remote</string>
+    <string name="title_preferences">Preferences</string>
+    <string name="title_diagnostics">Diagnostics</string>
+    <string name="title_servers">Servers</string>
+    <string name="title_scan">Scanning</string>
+    <string name="title_server">Server</string>
+    <string name="title_mouse_preferences">Mouse Preferences</string>
+    <string name="title_input">Basic Input</string>
+    <string name="title_uri">URI</string>
+    <string name="title_share_uri">URI Builder</string>
+    <string name="title_share_nfc">Write to NFC</string>
+    <string name="title_share_qr">Share with QR</string>
+    <string name="title_widget_config">Widget</string>
+    <string name="title_quick_actions">Quick Actions</string>
+    <string name="title_ir_select">Select IR Device</string>
+    <string name="title_ir_learn">Input IR Code</string>
+    <string name="title_upgrade">Upgrade</string>
+    <string name="title_all_remotes">All</string>
+    <string name="title_most_used_remotes">Most Used</string>
+    <string name="title_recent_remotes">Recent</string>
+    <string name="title_recent_actions">Recent Actions</string>
+
+    <!-- License Status -->
+    <string name="license_status_free">Free Version</string>
+    <string name="license_status_full">Full Version</string>
+    <string name="license_status_eval">Evaluation Version</string>
+    <string name="license_status_unlocked">Full Version</string>
+    <string name="license_status_locked">License Locked</string>
+
+    <!-- License Description -->
+    <string name="license_description_free">Licensed for free version only.</string>
+    <string name="license_description_full">All features are unlocked.</string>
+    <string name="license_description_eval">Unlocked for limited time only.</string>
+    <string name="license_description_unlocked">All features are unlocked.</string>
+    <string name="license_description_locked">License locked. Press to check again…</string>
+    <string name="license_description_checking">Checking license…</string>
+    <string name="license_description_error">Unknown error.</string>
+
+    <!-- Status Screen -->
+    <string name="status_general">General</string>
+    <string name="status_connection">Connection</string>
+    <string name="status_misc">Misc</string>
+    <string name="status_version">Version</string>
+    <string name="status_time">Time</string>
+    <string name="status_host">Host</string>
+    <string name="status_status">Status</string>
+    <string name="status_authenticated">Authenticated</string>
+    <string name="status_encrypted">Encrypted</string>
+    <string name="status_fast">Fast Connection</string>
+    <string name="status_reset">Reset First Start</string>
+    <string name="status_reset_info">Show welcome guide again.</string>
+    <string name="status_last_error">Last Error</string>
+    <string name="status_clear_cache">Clear Cache</string>
+    <string name="status_clear_cache_info">Delete all local cache.</string>
+    <string name="status_cache_size">Cache Size</string>
+    <string name="status_connect">Force Connect</string>
+    <string name="status_connect_info">Force the client to connect.</string>
+    <string name="status_disconnect">Force Disconnect</string>
+    <string name="status_disconnect_info">Forces the client to disconnect.</string>
+    <string name="status_yes">Yes</string>
+    <string name="status_no">No</string>
+    <string name="status_compat">Compatibility Mode</string>
+    <string name="status_platform">Server Platform</string>
+    <string name="status_open_source">Open-Source Licenses</string>
+    <string name="status_open_source_info">License details for open-source software.</string>
+
+    <!-- Evaluation -->
+    <string name="eval_expired">Evaluation Expired</string>
+    <string name="eval_expired_message">The evaluation time for this release has now expired. Only features in the free version will be available from now on. Please contact us at www.unifiedremote.com if you would like a new evaluation release.</string>
+
+    <!-- Shortcut -->
+    <string name="shortcut_select">Unified Remote Shortcut</string>
+    <string name="shortcut_title">Select Remote</string>
+
+    <!-- Coach -->
+    <string name="coach_navigate">Swipe from left\nto navigate</string>
+    <string name="coach_navigate_tablet">Tablet layout can be disabled in the preferences</string>
+    <string name="coach_quickswitch">Swipe from right for\nQuick Switch</string>
+    <string name="coach_gotit">Got It!</string>
+
+    <!-- Welcome -->
+    <string name="welcome2_login_title">Unified Remote</string>
+    <string name="welcome2_login_text">Signing in will make it easier for you\nto get started with Unified Remote\nMore benefits coming soon!</string>
+    <string name="welcome2_login_google">Sign in with Google</string>
+    <string name="welcome2_login_email">Sign in with email</string>
+    <string name="welcome2_login_skip">Skip this step</string>
+
+    <string name="welcome2_email">Email</string>
+    <string name="welcome2_email_continue">Continue</string>
+    <string name="welcome2_password">Password</string>
+    <string name="welcome2_create_account">Create Account</string>
+
+    <!-- Welcome - Network -->
+    <string name="welcome2_network_title">WiFi / Bluetooth</string>
+    <string name="welcome2_network_continue">Continue</string>
+    <string name="welcome2_network_enable_data">Enable Data</string>
+    <string name="welcome2_network_enable_data_text">For Mobile Data, make sure you configure the server to allow external connections.</string>
+    <string name="welcome2_network_enable_bluetooth">Enable Bluetooth</string>
+    <string name="welcome2_network_enable_bluetooth_text">For Bluetooth, make sure your device and computer are paired.</string>
+    <string name="welcome2_network_enable_wifi">Enable WiFi</string>
+    <string name="welcome2_network_enable_wifi_text">For WiFi, make sure you\'re connected to the same network as your computer.</string>
+
+    <!-- Welcome - Install -->
+    <string name="welcome2_install_title">Install Server</string>
+    <string name="welcome2_install_text">Now go ahead and install\nUnified Remote Server\non your computer</string>
+    <string name="welcome2_install_check_inbox">Check your inbox</string>
+    <string name="welcome2_install_instructions">Instructions sent to:</string>
+    <string name="welcome2_install_installed">I\'ve installed the server</string>
+    <string name="welcome2_install_later">Install Later</string>
+    <string name="welcome2_install_download">Download available at:</string>
+    <string name="welcome2_install_url">www.unifiedremote.com</string>
+
+    <!-- Welcome - Scan -->
+    <string name="welcome2_scan_text">Looking for computers…</string>
+
+    <!-- Welcome - Trouble -->
+    <string name="welcome2_trouble_title">Troubleshoot</string>
+    <string name="welcome2_trouble_wifi">For WiFi, make sure you\'re connected to the same network as your computer.</string>
+    <string name="welcome2_trouble_bluetooth">For Bluetooth, make sure your device and computer are paired.</string>
+    <string name="welcome2_trouble_data">For Mobile Data, make sure you configure the server to allow external connections.</string>
+    <string name="welcome2_trouble_help_url">www.unifiedremote.com/help</string>
+    <string name="welcome2_trouble_try_again">Try Again</string>
+    <string name="welcome2_trouble_continue">Continue Anyway</string>
+
+    <!-- Welcome - Done -->
+    <string name="welcome2_done_connected_to">Connected to</string>
+    <string name="welcome2_done_get_started">Let\'s get started!</string>
+    <string name="welcome2_done_not_connected">Not connected</string>
+    <string name="welcome2_done_no_server">No server</string>
+    <string name="welcome2_done_continue">Continue Anyway</string>
+
+    <!-- Welcome (old) -->
+    <string name="welcome_login_title">Login</string>
+    <string name="welcome_login_skip">Skip Login</string>
+    <string name="welcome_aotd"><b>Full Version features</b>\nunlocked thanks to\nApp of the Day.</string>
+    <string name="welcome_aotd_note"><b>This is a one-time offer</b>\nThe offer resets if you\nreinstall the app.</string>
+    <string name="welcome_first">First install the latest\n<b>Unified Remote Server</b>\non your computer.\n\nDownload available at:\n<b>www.unifiedremote.com</b></string>
+    <string name="welcome_update">Please update to the latest\n<b>Unified Remote Server</b>\non your computer.\n\nDownload available at:\n<b>www.unifiedremote.com</b></string>
+    <string name="welcome_button">I have installed the new server!</string>
+    <string name="welcome_connect_title"><b>Connect to Server</b></string>
+    <string name="welcome_connect">Make sure that Unified Remote Server is running on your computer. Also ensure that Windows Firewall or any other software isn\'t blocking the server. For more information or if you are having difficulties finding a server visit our <a href="http://www.unifiedremote.com/support">support</a> page.</string>
+    <string name="welcome_add_server_later">I\'ll add a server later</string>
+    <string name="welcome_no_servers">No Servers</string>
+    <string name="welcome_help_title"><b>Feature Guides</b></string>
+    <string name="welcome_help">The guides library on our web site provides useful information and step-by-step instructions on how to use some of the features in Unified Remote.
+Use the links below to access some popular guides. You can also access the guides page by pressing Help in the app dashboard.
+\n
+\n• <a href="http://www.unifiedremote.com/guide/ir-actions">IR Actions</a> (new!)
+\n• <a href="http://www.unifiedremote.com/guide/quick-actions">Quick Actions</a>
+\n• <a href="http://www.unifiedremote.com/guide/getting-started-with-nfc">NFC Actions</a>
+\n• <a href="http://www.unifiedremote.com/guide/voice-actions">Voice Actions</a>
+\n• <a href="http://www.unifiedremote.com/guide/android-widgets">Widgets</a>
+    </string>
+    <string name="welcome_get_full">Learn more…</string>
+    <string name="welcome_scanning">Scanning…</string>
+    <string name="welcome_add_manually">Add server manually</string>
+    <string name="welcome_news_title">What\'s New</string>
+    <string name="welcome_full_title">Full Version</string>
+    <string name="welcome_full">&#10003; One-time upgrade
+\n&#10003; Includes all future updates
+\n&#10003; No ads
+\n&#10003; Screen mirroring
+\n&#10003; Extended keyboard
+\n&#10003; 70+ remotes
+\n&#10003; Android Wear
+\n&#10003; Widgets &amp; Quick Actions
+\n&#10003; Voice commands
+\n&#10003; Custom remotes
+\n&#10003; IR actions
+\n&#10003; NFC actions
+    </string>
+
+    <!-- Home / Menu -->
+    <string name="home_remotes">Remotes</string>
+    <string name="home_servers">Servers</string>
+    <string name="home_preferences">Preferences</string>
+    <string name="home_diagnostics">Diagnostics</string>
+    <string name="home_editor">Editor</string>
+    <string name="home_widgets">Widgets</string>
+    <string name="home_quick_actions">Quick Actions</string>
+    <string name="home_help">Help</string>
+    <string name="home_exit">Exit</string>
+    <string name="home_upgrade">Upgrade</string>
+    <string name="home_status">Status</string>
+
+    <!-- Menus -->
+    <string name="menu_left_customize">Customize</string>
+    <string name="menu_left_servers">Saved Servers</string>
+    <string name="menu_left_servers_none">No servers added</string>
+
+    <!-- Buttons -->
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_add">Add</string>
+    <string name="button_remove">Remove</string>
+    <string name="button_toggle">Toggle</string>
+    <string name="button_homepage">Website</string>
+    <string name="button_donate">Donate</string>
+    <string name="button_close">Close</string>
+    <string name="button_save">Save</string>
+    <string name="button_prev">Previous</string>
+    <string name="button_next">Next</string>
+    <string name="button_yes">Yes</string>
+    <string name="button_no">No</string>
+    <string name="button_finish">Finish</string>
+    <string name="button_accept">Accept</string>
+    <string name="button_decline">Decline</string>
+    <string name="button_rate">Rate</string>
+    <string name="button_edit">Edit</string>
+    <string name="button_send">Send</string>
+    <string name="button_search">Search</string>
+    <string name="button_select">Select</string>
+
+    <!-- Inhouse Ads -->
+    <string name="inhouse_remove"><u>Upgrade to remove these messages</u></string>
+    <string name="inhouse_buy">Buy Full Version</string>
+    <string name="inhouse_skip">Skip and continue</string>
+
+    <!-- Preferences (Connection) -->
+    <string name="pref_cat_connection">Connection</string>
+    <string name="pref_host_title">Server</string>
+    <string name="pref_host_summary">Manage server connections.</string>
+    <string name="pref_keep_alive_title">Keep Alive</string>
+    <string name="pref_keep_alive_summary">Allow connection to run in background.</string>
+    <string name="pref_errors_title">Errors</string>
+    <string name="pref_errors_summary">Show connection errors.</string>
+    <string name="pref_auto_update_servers_title">Auto-Update Servers</string>
+    <string name="pref_auto_update_servers_summary">Automatically updates the server\'s IP.</string>
+    <string name="pref_mouse_fast">Fast Connection</string>
+    <string name="pref_mouse_fast_summary">Enable fast connection (e.g. UDP).</string>
+
+    <!-- Preferences (General) -->
+    <string name="pref_cat_general">General</string>
+    <string name="pref_quick_actions_title">Quick Actions</string>
+    <string name="pref_quick_actions_summary">Change quick actions.</string>
+    <string name="pref_widgets_title">Widgets</string>
+    <string name="pref_widgets_summary">Manage your widgets.</string>
+    <string name="pref_default_remotes_list_title">Remotes List</string>
+    <string name="pref_default_remotes_list_summary">Select default list for remotes and actions.</string>
+    <string name="pref_theme_title">Theme</string>
+    <string name="pref_theme_summary">Sets the default color theme.</string>
+    <string name="pref_theme_list_title">Select Theme</string>
+    <string name="pref_remotes_title">Remotes Layout</string>
+    <string name="pref_remotes_summary">Sets the remotes display layout.</string>
+    <string name="pref_remotes_list_title">Select Layout</string>
+    <string name="pref_visible_title">Visible Remotes</string>
+    <string name="pref_visible_summary">Select remotes visible in main list.</string>
+    <string name="pref_visible_dialog_title">Select Remotes</string>
+    <string name="pref_switch_title">Quick Switch</string>
+    <string name="pref_switch_summary">Select Quick Switch remotes.</string>
+    <string name="pref_switch_dialog_title">Select Remotes</string>
+    <string name="pref_orientation_title">Orientation Lock</string>
+    <string name="pref_orientation_summary">Sets an orientation lock.</string>
+    <string name="pref_orientation_list_title">Select Lock</string>
+    <string name="pref_haptic_title">Haptic Feedback</string>
+    <string name="pref_haptic_summary">Enable haptic feedback in remotes.</string>
+    <string name="pref_fullscreen_title">Fullscreen</string>
+    <string name="pref_fullscreen_summary">Run app in fullscreen mode.</string>
+    <string name="pref_tablet_show_menu">Show Menu</string>
+    <string name="pref_tablet_show_menu_summary">Always show menu on tablets.</string>
+
+    <!-- Preferences (Integration) -->
+    <string name="pref_cat_integration">Device Integration</string>
+    <string name="pref_volume_title">Override Volume</string>
+    <string name="pref_volume_summary">Control remote volume with hardware buttons.</string>
+    <string name="pref_keyboard_title">System Keyboard</string>
+    <string name="pref_keyboard_summary">Use the system\'s default keyboard.</string>
+    <string name="pref_mouse_title">Mouse Settings</string>
+    <string name="pref_mouse_summary">Change mouse settings.</string>
+    <string name="pref_ir_title">IR Settings</string>
+    <string name="pref_ir_summary">Select default IR device.</string>
+    <string name="pref_ir_learn_title">IR Learn</string>
+    <string name="pref_ir_learn_summary">Learn IR code.</string>
+    <string name="pref_events_title">Phone Events</string>
+    <string name="pref_events_summary">Send phone events to server.</string>
+    <string name="pref_voice_title">Enable Voice</string>
+    <string name="pref_voice_summary">Show voice command in title bar.</string>
+    <string name="pref_nfc_title">Enable NFC</string>
+    <string name="pref_nfc_summary">Automatically detect NFC tags.</string>
+
+    <!-- Preferences (Power) -->
+    <string name="pref_cat_power">Power</string>
+    <string name="pref_wifi_title">Wi-Fi Lock</string>
+    <string name="pref_wifi_summary">Keep Wi-Fi enabled when running.</string>
+    <string name="pref_wake_title">Wake Lock</string>
+    <string name="pref_wake_summary">Keep device awake when running.</string>
+
+    <!-- Preferences (Other) -->
+    <string name="pref_cat_other">Other</string>
+    <string name="pref_analytics_title">Send Usage Statistics</string>
+    <string name="pref_analytics_summary">Only anonymous data will be sent.</string>
+    <string name="pref_ads_title">Show Ads</string>
+    <string name="pref_ads_summary">Ads support our business.</string>
+
+    <!-- Preferences (Mouse) -->
+    <string name="pref_cat_mouse">Mouse</string>
+    <string name="pref_mouse_multitouch">Multi-touch</string>
+    <string name="pref_mouse_multitouch_summary">Switch between single and multi-touch.</string>
+    <string name="pref_mouse_invert">Invert Scroll</string>
+    <string name="pref_mouse_invert_summary">Invert scrolling direction.</string>
+    <string name="pref_mouse_switch">Swap Buttons</string>
+    <string name="pref_mouse_switch_summary">Swap primary and secondary buttons.</string>
+    <string name="pref_mouse_throttle">Limit Mouse Speed</string>
+    <string name="pref_mouse_throttle_summary">Limit the number of mouse updates sent.</string>
+    <string name="pref_mouse_throttle_title">Limit</string>
+    <string name="pref_pinch_zoom">Pinch Zoom</string>
+    <string name="pref_pinch_zoom_summary">Enable pinch to zoom gesture.</string>
+    <string name="pref_mouse_sensitivity">Pointer Sensitivity</string>
+    <string name="pref_mouse_sensitivity_summary">Adjust mouse pointer sensitivity.</string>
+    <string name="pref_mouse_sensitivity_dialog_title">Pointer Sensitivity</string>
+    <string name="pref_mouse_sensitivity_help">Use low sensitivity for slower movement, or a high sensitivity for faster movement.\n</string>
+    <string name="pref_mouse_scroll_sensitivity">Scroll Sensitivity</string>
+    <string name="pref_mouse_scroll_sensitivity_summary">Adjust mouse scroll sensitivity.</string>
+    <string name="pref_mouse_scroll_sensitivity_dialog_title">Scroll Sensitivity</string>
+    <string name="pref_mouse_scroll_sensitivity_help">Use low sensitivity for slower scroll, or a high sensitivity for faster scroll.\n</string>
+    <string name="pref_mouse_disable_swipe">Disable Menu Swipe</string>
+    <string name="pref_mouse_disable_swipe_summary">Disable swipe for menus when using mouse.</string>
+    <string name="pref_mouse_test">Test Mouse</string>
+    <string name="pref_mouse_test_summary">Try your current settings.</string>
+
+    <!-- Dialogs (General) -->
+    <string name="diag_locked_title">Locked</string>
+    <string name="diag_locked_message">It appears that your license could not be validated. Make sure you have an internet connection the first time you run the full version. Press OK to open diagnostics for more information.</string>
+    <string name="diag_version_title">Version Mismatch</string>
+    <string name="diag_version_message">You are currently running different versions of the client and server. Ensure that you have updated both to the latest version and try again.</string>
+    <string name="diag_auth_title">Authentication Failed</string>
+    <string name="diag_auth_message">The server was unable to authenticate you. Ensure that you have entered the correct password in the settings for this server connection.</string>
+    <string name="diag_connection_error_title">Connection failed</string>
+    <string name="diag_connection_error">A connection to your server could not be established. Please check your server and network settings and try again.</string>
+    <string name="diag_compat_title">Compatibility Mode</string>
+    <string name="diag_compat_message">Compatibility mode is active. Some features or remotes may not be available. We highly recommend that you update your server to the latest version.</string>
+    <string name="diag_new_remotes_title">New Remote(s)</string>
+    <string name="diag_new_select_title">Select Remotes</string>
+    <string name="diag_new_select_message">You have previously used the \"Visible Remotes\" setting. Due to some recent changes you have to re-select these remotes.</string>
+
+    <!-- Misc -->
+    <string name="bt_unnamed">&lt;Unnamed&gt;</string>
+    <string name="more_remotes_title">Full Version</string>
+    <string name="more_remotes_description">Get more features…</string>
+    <string name="locked_remotes_title">Locked</string>
+    <string name="locked_remotes_description">Some remotes are locked…</string>
+    <string name="loading">Loading…</string>
+    <string name="updating">Updating…</string>
+    <string name="syncing">Syncing…</string>
+    <string name="retrying">Retrying…</string>
+    <string name="full_version_only">Full version only</string>
+    <string name="uri">URI</string>
+    <string name="dark">Dark</string>
+    <string name="light">Light</string>
+    <string name="connecting_to">Connecting to %1$s…</string>
+    <string name="changes_not_saved">Any changes you have made have not been saved. Do you really wish to continue?</string>
+
+    <!-- Notifications -->
+    <string name="notif_text">Select to stop connection keep alive.</string>
+
+    <!-- Connection Status -->
+    <string name="conn_status_connected">Connected</string>
+    <string name="conn_status_connecting">Connecting</string>
+    <string name="conn_status_initial">Initial</string>
+    <string name="conn_status_no_connectivity">No Connectivity</string>
+    <string name="conn_status_disconnected">Disconnected</string>
+
+    <!-- Connection Errors -->
+    <string name="conn_error_unknown_host">Unknown host name.</string>
+    <string name="conn_error_bt_not_available">Bluetooth not supported/available.</string>
+    <string name="conn_error_wifi_error">WiFi connection problem.</string>
+    <string name="conn_error_bt_error">Bluetooth connection problem.</string>
+    <string name="conn_error_no_servers">No servers added.</string>
+    <string name="conn_error_unknown_connection">Unknown connection.</string>
+    <string name="conn_error_version_mismatch">Version mismatch.</string>
+    <string name="conn_error_auth_failed">Authentication failed.</string>
+    <string name="conn_error_retrying">Attempting to reconnect…</string>
+    <string name="conn_error_bt_no_paired">You have not paired any bluetooth devices.</string>
+    <string name="conn_error_bt_no_selected">You must select a bluetooth device.</string>
+    <string name="conn_error_service_stopped">Service Stopped</string>
+
+    <!-- Servers -->
+    <string name="servers_none">No servers have been added.</string>
+    <string name="servers_searching">Searching for servers…</string>
+    <string name="servers_menu_select">Select</string>
+    <string name="servers_menu_edit">Edit</string>
+    <string name="servers_menu_remove">Remove</string>
+    <string name="servers_menu_refresh">Refresh</string>
+    <string name="servers_add_title">Add Server</string>
+    <string name="servers_select_title">Select Server</string>
+    <string name="servers_remove_title">Remove Server(s)</string>
+    <string name="servers_found">Found Servers</string>
+    <string name="servers_saved">Saved Servers</string>
+
+    <!-- Server -->
+    <string name="server_type">Type</string>
+    <string name="server_tcp_name">Display Name</string>
+    <string name="server_tcp_name_hint">Unnamed</string>
+    <string name="server_tcp_host">Host IP / Address</string>
+    <string name="server_tcp_port">TCP Port</string>
+    <string name="server_udp_port">UDP Port</string>
+    <string name="server_tcp_mac">MAC</string>
+    <string name="server_tcp_mac_hint">Optional</string>
+    <string name="server_bt">Bluetooth Host</string>
+    <string name="server_login">Login (if required)</string>
+    <string name="server_password">Password</string>
+    <string name="server_password_hint">If required</string>
+    <string name="server_username">Username</string>
+    <string name="server_username_hint">If required</string>
+    <string name="server_wan">WAN IP</string>
+    <string name="server_wan_hint">For Wake-On-WAN</string>
+
+    <!-- IR -->
+    <string name="ir_no_devices">Select a default IR device in preferences.</string>
+    <string name="ir_loading">Loading…</string>
+    <string name="ir_learn_code">Learn Code…</string>
+    <string name="ir_test_code">Test Code…</string>
+    <string name="ir_share_code">Share Code…</string>
+    <string name="ir_learn_lg">Press the learn button. Then hold the remote control approximately 10 cm from the IR reciver on your device and press the button that you wish to record.</string>
+    <string name="ir_learn_htc">Press the learn button. Then hold the remote control approximately 5 cm from the IR reciver on your device and press the button that you wish to record.</string>
+    <string name="ir_learn_keene">Press the learn button. Then hold the remote control approximately 4 meters from the IR reciver on your device and press the button that you wish to record.</string>
+    <string name="ir_learn_not_supported">IR learning is not supported on your device.</string>
+    <string name="ir_paste">Find Pronto Codes on e.g. www.remotecentral.com or Global Cache codes on irdatabase.globalcache.com. </string>
+    <string name="ir_error">Error in IR code</string>
+
+    <!-- Remotes -->
+    <string name="remotes_none">No remotes available.</string>
+    <string name="remotes_none_check">No remotes available.\n\nPlease check your server installation.</string>
+    <string name="remotes_none_added">No remotes added.</string>
+
+    <!-- Remote -->
+    <string name="remote_not_purchased">Remote not purchased.</string>
+    <string name="remote_not_found">Remote not found.</string>
+    <string name="remote_layout_error">Could not load layout.</string>
+
+    <!-- Remote Menu -->
+    <string name="remote_menu_keyboard">Keyboard</string>
+    <string name="remote_menu_mouse">Mouse</string>
+    <string name="remote_menu_media">Media</string>
+    <string name="remote_menu_launch">Launch</string>
+    <string name="remote_menu_share">Share</string>
+    <string name="remote_menu_edit">Edit</string>
+    <string name="remote_menu_voice">Voice</string>
+    <string name="remote_menu_switch">Switch</string>
+    <string name="remote_menu_server">Server</string>
+    <string name="remote_menu_refresh">Refresh</string>
+    <string name="remote_menu_remove">Remove</string>
+
+    <!-- Select Remotes Screen -->
+    <string name="select_select">Select All</string>
+    <string name="select_deselect">Deselect All</string>
+    <string name="select_recommended">Recommended</string>
+    <string name="select_not_installed">Not Installed</string>
+    <string name="select_query_hint">Search remotes</string>
+
+    <!-- Sync -->
+    <string name="sync_unable">Could not sync.</string>
+    <string name="sync_wait">Please wait while syncing…</string>
+    <string name="sync_required">You have not synchronized any remotes yet. You must start Unified Remote and load remotes for the first time.</string>
+    <string name="sync_required_title">No remotes</string>
+
+    <!-- WOL -->
+    <string name="wol_sent">Wake on LAN sent.</string>
+    <string name="wol_failed">Wake on LAN could not be performed. Make sure you have specified a MAC address in the server settings.</string>
+    <string name="wol_requires_tcp">Wake on LAN requires an active TCP connection.</string>
+
+    <!-- Mouse -->
+    <string name="mouse_touch_left">Use touch to simulate mouse movement:\n\nTap with one finger to left-click.\n\n</string>
+    <string name="mouse_touch_multi">Tap with two fingers to right-click.\n\nDrag with two fingers to scroll.\n\n</string>
+    <string name="mouse_touch_pinch">Use pinch to zoom in and out.\n\n</string>
+    <string name="mouse_touch_drag">Long-press and move to drag.\n\nTap once to release drag.</string>
+
+    <!-- Share -->
+    <string name="share_qr_open">Open Image URL</string>
+    <string name="share_browse_title">Browse</string>
+    <string name="share_copied_to_clipboard">Copied to clipboard</string>
+
+    <!-- NFC -->
+    <string name="nfc_unavailable_or_disabled">NFC is unavailable or disabled.</string>
+    <string name="nfc_write">Write to NFC tag…</string>
+    <string name="nfc_touch">Touch tag to write</string>
+    <string name="nfc_wrote">Wrote message to tag.</string>
+
+    <!-- Widgets -->
+    <string name="widget_config_layout">Layout</string>
+    <string name="widget_config_properties">Properties</string>
+    <string name="widget_config_import">Import</string>
+    <string name="widget_config_export">Export</string>
+    <string name="widget_config_editable">Show \'edit\' button in widget layout.</string>
+    <string name="widget_config_none_added">You have not added any widgets yet. Once you have placed a Unified Remote widget on your homescreen you will be able to edit it here.</string>
+    <string name="widget_config_new">New Widget</string>
+    <string name="widget_config_edit_widget">Edit Widget</string>
+    <string name="widget_config_load_error">Could not load widget</string>
+    <string name="widget_select_icon">Select Icon</string>
+    <string name="widget_select_color">Select Color</string>
+
+    <!-- Quick Actions -->
+    <string name="quick_actions_ticker">Your quick actions are running…</string>
+    <string name="quick_actions_remove">Long-press a button to remove it.</string>
+    <string name="quick_actions_enable">Enable Quick Actions notification.</string>
+    <string name="quick_actions_configure">Configure/Disable Quick Actions</string>
+    <string name="quick_actions_edit">Show edit button in notification.</string>
+
+    <!-- Requires -->
+    <string name="requires_2_2">Requires 2.2 or higher…</string>
+    <string name="requires_2_3">Requires 2.3 or higher…</string>
+    <string name="requires_3_0">Requires 3.0 or higher…</string>
+    <string name="requires_newer_server">Requires newer server.\n\nPlease update!</string>
+
+    <!-- Arrays -->
+    <string-array name="pref_theme_entries">
+        <item>Light</item>
+        <item>Dark</item>
+    </string-array>
+    <string-array name="pref_remotes_entries">
+        <item>List</item>
+        <item>Grid</item>
+    </string-array>
+    <string-array name="pref_client_entries">
+        <item>WiFi/Data</item>
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="pref_orientation_entries">
+        <item>None</item>
+        <item>Landscape</item>
+        <item>Portrait</item>
+    </string-array>
+    <string-array name="diag_server_scan_entries">
+        <item>Automatic</item>
+        <item>Manual</item>
+    </string-array>
+    <string-array name="uri_target_entries">
+        <item>Select Target</item>
+        <item>Remote</item>
+    </string-array>
+    <string-array name="share_entries">
+        <item>URI</item>
+        <item>NFC</item>
+        <item>QR</item>
+    </string-array>
+    <string-array name="pref_default_remotes_list">
+        <item>All Remotes</item>
+        <item>Most Used Remotes</item>
+        <item>Recent Remotes</item>
+        <item>Recent Actions</item>
+    </string-array>
+    <string-array name="pref_mouse_throttle_entries">
+        <item>Fast Networks (No Limit)</item>
+        <item>Medium Networks (High Limit)</item>
+        <item>Slow Networks (Low Limit)</item>
+    </string-array>
+
+</resources>

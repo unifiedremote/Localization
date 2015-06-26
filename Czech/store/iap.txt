@@ -1,0 +1,14 @@
+Rozsirena klavesnice 
+Odemknout funkce klavesnice.
+
+Seznam dalsich dalkovych ovladacu
+Odemknout dalsi funkce dalkovych ovladacu.
+
+Extra dalkovy ovladac
+Odemknout dalsi dalkovy ovladac.
+
+Plna verze
+Odemknout vsechny funkce a dalkove ovladace.
+
+Quick Switch
+Umoznuje rychle prepinat mezi dalkovemi ovladaci.

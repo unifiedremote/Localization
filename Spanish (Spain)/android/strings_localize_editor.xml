@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<resources>
+
+    <!-- Editor Titles -->
+    <string name="title_editor">Editor de diseño</string>
+    <string name="title_editor_config">Editor de propiedades</string>
+    <string name="title_editor_wizard">Asistente de acciones</string>
+
+    <!-- Editor Menu -->
+    <string name="editor2_menu_done">Listo</string>
+    <string name="editor2_menu_cancel">Cancelar</string>
+
+    <!-- Editor2 -->
+    <string name="editor2_select_control">Seleccionar control</string>
+    <string name="editor2_control_button">Botón</string>
+    <string name="editor2_control_label">Etiqueta</string>
+    <string name="editor2_control_grid">Cuadrícula</string>
+    <string name="editor2_control_space">Espacio</string>
+    <string name="editor2_confirm_delete">Sí</string>
+    <string name="editor2_stop_delete">No</string>
+    <string name="editor2_delete_confimation_dialog_text">¿Seguro que quiere eliminar este mando?</string>
+
+    <!-- Editor2 Config -->
+    <string name="editor2_config_info_text">Texto:</string>
+    <string name="editor2_config_info_text_hint">Indicar texto para mando</string>
+    <string name="editor2_config_info_icon">Icono:</string>
+    <string name="editor2_config_info_icon_button">Cambiar icono</string>
+    <string name="editor2_config_info_color">Color:</string>
+    <string name="editor2_config_info_textalign">Alineado del texto</string>
+    <string name="editor2_config_info_weight">Espacio:</string>
+    <string name="editor2_config_info_scroll">Desplazamiento:</string>
+    <string name="editor2_config_theme">Establecer tema</string>
+    <string name="editor2_config_actions_button">Cambiar acción</string>
+    <string name="editor2_config_theme_button">Cambiar tema</string>
+    <string name="editor2_config_color_button">Cambiar color</string>
+    <string name="editor2_config_info_id">ID:</string>
+    <string name="editor2_config_info_lightcolor">Color claro:</string>
+    <string name="editor2_config_info_darkcolor">Color oscuro:</string>
+    <string name="editor2_config_info_lighttheme">Tema claro:</string>
+    <string name="editor2_config_info_darktheme">Tema oscuro:</string>
+    <string name="editor2_config_info_onup">Arriba:</string>
+    <string name="editor2_config_info_ondown">Abajo:</string>
+    <string name="editor2_config_info_ontap">Al tocar:</string>
+    <string name="editor2_config_info_onhold">Al mantener:</string>
+    <string name="editor2_config_info_ondoubletap">Con doble toque:</string>
+    <string name="editor2_config_info_visibility">Visibilidad</string>
+    <string name="editor2_config_header_general">General</string>
+    <string name="editor2_config_header_theme">Tema</string>
+    <string name="editor2_config_header_actions">Acciones</string>
+    <string name="editor2_config_alert_weight_title">Espacio imposible</string>
+    <string name="editor2_config_alert_weight_message">El espacio debe ser un número entero entre 0 y 127.</string>
+    <string name="editor2_config_alert_color_title">Color imposible</string>
+    <string name="editor2_config_alert_color_message">Los colores solo pueden incluir de 6 a 8 valores hexadecimales [0-F].</string>
+
+    <!-- Editor2 Wizard -->
+    <string name="editor2_wizard_typeofaction">Tipo de acción</string>
+    <string name="editor2_wizard_remoteaction">Acción del mando</string>
+    <string name="editor2_wizard_action">Acción</string>
+    <string name="editor2_wizard_openremote">Abrir mando</string>
+    <string name="editor2_wizard_remote">Mando</string>
+    <string name="editor2_wizard_deviceaction">Acción del dispositivo</string>
+    <!--<string name="editor2_wizard_wol">Encender con LAN</string>-->
+    <string name="editor2_wizard_server">Servidor</string>
+    <!--<string name="editor2_wizard_keyboard">Teclado</string>
+    <string name="editor2_wizard_mouse">Ratón</string>
+    <string name="editor2_wizard_ir">IR</string>-->
+    <string name="editor2_wizard_howtolearn">Cómo aprender</string>
+    <string name="editor2_wizard_lookup">Buscar</string>
+    <string name="editor2_wizard_lookup_manufacturer">Fabricante</string>
+    <string name="editor2_wizard_lookup_device">Dispositivo</string>
+    <string name="editor2_wizard_lookup_codeset">Conjunto de códigos</string>
+    <string name="editor2_wizard_lookup_Button">Botón</string>
+    <string name="editor2_wizard_Learn">Aprender</string>
+    <string name="editor2_wizard_input">Entrada</string>
+    <!--<string name="editor2_wizard_vibrate">Vibración</string>
+    <string name="editor2_wizard_listen">Escuchar</string>
+    <string name="editor2_wizard_toast">Mensaje</string>-->
+    <string name="editor2_wizard_toaststring">Mensaje que se mostraría.</string>
+    <string name="editor2_wizard_changeserver">Cambiar servidor</string>
+    <string name="editor2_wizard_openinapp">Abrir en app</string>
+    <string name="editor2_wizard_show">Mostrar</string>
+    <string name="editor2_wizard_next">Siguiente</string>
+    <string name="editor2_wizard_prev">Anterior</string>
+    <string name="editor2_wizard_finish">Listo</string>
+    <string name="editor2_wizard_review">Confirmar</string>
+
+    <!-- Arrays -->
+    <string-array name="pref_default_remotes_list">
+        <item>Todos los mandos</item>
+        <item>Mandos más usados</item>
+        <item>Mandos recientes</item>
+        <item>Acciones recientes</item>
+    </string-array>
+    <string-array name="pref_mouse_throttle_entries">
+        <item>Redes rápidas (sin límite)</item>
+        <item>Redes intermedias (límite superior)</item>
+        <item>Redes lentas (límite inferior)</item>
+    </string-array>
+    <string-array name="list_control_types">
+        <item>Botón</item>
+        <item>Cuadrícula</item>
+        <item>Etiqueta</item>
+        <item>Espacio</item>
+    </string-array>
+    <string-array name="editor2_config_textalign_entries">
+        <item>Centrado</item>
+        <item>Izquierda</item>
+        <item>Derecha</item>
+    </string-array>
+    <string-array name="editor2_config_scroll_entries">
+        <item>Ninguno</item>
+        <item>Horizontal</item>
+        <item>Vertical</item>
+        <item>Ambos</item>
+    </string-array>
+    <string-array name="editor2_config_weight_entries">
+        <item>Ninguno</item>
+        <item>Ajustado</item>
+        <item>Personalizado</item>
+    </string-array>
+    <string-array name="editor2_config_visibility_entries">
+        <item>Visible</item>
+        <item>Invisible</item>
+        <item>Quitados</item>
+    </string-array>
+
+</resources>

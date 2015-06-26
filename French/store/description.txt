@@ -1,0 +1,65 @@
+La télécommande pour ordinateur la plus complète. Transformez votre appareil en télécommande universelle Wi-Fi ou Bluetooth pour votre PC sous Windows. Prise en charge Mac et Linux également disponible. Commandez vos programmes préférés, votre souris et votre clavier.
+
+Serveur : https://www.unifiedremote.com
+
+« Un outil fantastique pour ceux d'entre vous qui souhaitent une télécommande pour leur ordinateur pour regarder la TV, ou peut-être pour écouter de la musique. » Gizmodo
+
+Fonctions clés :
+• Une configuration facile du serveur et de l'appli qui fonctionne, tout simplement. 
+• Détection automatique de serveurs pour trouver facilement des serveurs sur votre réseau. 
+• Protection par mot de passe et cryptage du serveur pour une sécurité supplémentaire. 
+• Prend en charge la commande de souris simples et multitactiles. 
+• Wake On LAN pour démarrer facilement votre serveur. 
+• Inclut des thèmes de couleurs claires et foncées. 
+• Le serveur est disponible pour Windows, Mac et Linux. 
+• Commande d'autres appareils dont le Raspberry Pi et l'Arduino Yún. 
+• 18 télécommandes gratuites
+
+#BEGIN_FULL_FEATURES
+Caractéristiques de la version complète :
+• + de 90 télécommandes
+• Widgets et Actions rapides
+• Commandes vocales
+• Télécommandes personnalisées
+• Actions IR
+• Actions NFC
+#END_FULL_FEATURES
+
+#BEGIN_IAP
+L'appli et le serveur de télécommande unifiée sont téléchargeables et utilisables gratuitement. Des fonctions et des télécommandes supplémentaires sont disponibles via les achats in-app.
+
+• Achetez des télécommandes supplémentaires pour 0,99 $ 
+• Achetez des fonctions supplémentaires pour 0,99 $ 
+• Télécommande unifiée complète avec toutes les fonctions et télécommandes pour 3,99 $
+#END_IAP
+
+<b>Essentials</b>
+Mouse, Keyboard, Screen, Volume, and more.
+
+<b>Music</b>
+Spotify, iTunes, Google Music, Winamp, etc.
+
+<b>Video</b>
+VLC, BSPlayer, Windows Media Player, PotPlayer, etc.
+
+<b>Media Center</b>
+Kodi (XBMC), Plex, Windows Media Center, Boxee, etc.
+
+<b>Streaming</b>
+YouTube, Netflix, Hulu
+
+<b>Presentations</b>
+PowerPoint, Keynote, Google Presentation
+
+<b>Browsers</b>
+Chrome, Internet Explorer, Firefox, Opera
+
+<b>Other</b>
+Power, Monitor, Files, Task Manager, Commands, etc.
+
+<b>All Remotes</b>
+https://www.unifiedremote.com/remotes
+
+Notez que certaines télécommandes ne sont disponibles que pour certains systèmes d'exploitation.
+
+#PERMISSIONS

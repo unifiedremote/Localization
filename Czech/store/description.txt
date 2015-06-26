@@ -1,0 +1,65 @@
+Jednoduchy pocitacovi ovladac s odlisnemi vlastnosti. Zmente sve zarizeni pro PC na  univerzalni dalkovy ovladac v WiFi nebo Bluetooth. Podporuje take Mac a Linux. Ovladej sve oblibene programy, mys a klavesnice. 
+
+Server: https://www.unifiedremote.com
+
+“Vyborna pomucka pro tebe co chce ovladat tvuj pocitac pro divani na televizi, nebo treba na poslouchani hudby”. – Gizmodo
+
+Klicove vlastnosti:
+• Jednoduchy server a nastaveni aplikace.
+• Automaticka detekce serveru pro jednoduche nalezeni serveru na tve siti.
+• Ochrana hesla serveru a sifrovani pro zvyseni bezpecnosti. 
+• Podporuje single a multi touch ovladani mysi. 
+• Wake on LAN pro jednoduche nastartovani serveru. 
+• Zahrnuje svetle a tmave barevne motivy
+• Server je pristupny pro Windows, Mac and Linux.
+• Ovlada dalsi zarizeni vcetne Raspberry Pi a Arduino Yún.
+• 18 dalkovych ovladaci zdarma.
+
+#BEGIN_FULL_FEATURES
+Kompletni funkce obsahuji:
+• 90+ dalkovy ovladace
+• Widgets & Quick Actions 
+• Hlasove ovladani 
+• Vlastni dalkove ovladace
+• IR actions
+• NFC actions
+#END_FULL_FEATURES
+
+#BEGIN_IAP
+Jak Unified Remote aplikace tak server jsou zdarma na stazeni a pouzivani. Dalsi funkce a dalkove ovladace jsou k dispozici na In-App k zakoupeni.
+
+• Zakoupeni dalsich dalkovych ovladaci za $0.99
+• Zakoupeni dalsich funkci za $0.99
+• Unified Remote Full, kompletni funkce a dalkove ovladace za $3.99
+#END_IAP
+
+<b>Essentials</b>
+Mouse, Keyboard, Screen, Volume, and more.
+
+<b>Music</b>
+Spotify, iTunes, Google Music, Winamp, etc.
+
+<b>Video</b>
+VLC, BSPlayer, Windows Media Player, PotPlayer, etc.
+
+<b>Media Center</b>
+Kodi (XBMC), Plex, Windows Media Center, Boxee, etc.
+
+<b>Streaming</b>
+YouTube, Netflix, Hulu
+
+<b>Presentations</b>
+PowerPoint, Keynote, Google Presentation
+
+<b>Browsers</b>
+Chrome, Internet Explorer, Firefox, Opera
+
+<b>Other</b>
+Power, Monitor, Files, Task Manager, Commands, etc.
+
+<b>All Remotes</b>
+https://www.unifiedremote.com/remotes
+
+Mejte na vedomi ze nektere dalkove ovladace jsou k dispozici pouze pro nektere operacni systemi.
+
+#PERMISSIONS

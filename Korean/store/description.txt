@@ -1,0 +1,65 @@
+단연코 최고의 컴퓨터 원격 제어 기능을 제공합니다. 여러분의 스마트폰을 Windows PC를 제어하는 와이파이 혹은 블루투스 기반 통합 리모컨으로 만들어 드립니다. Mac과 Linux도 함께 지원합니다. 자주 사용하는 프로그램과 마우스, 키보드를 원격 제어해 보세요.
+
+서버: https://www.unifiedremote.com
+
+"컴퓨터로 TV를 보거나 음악을 들을 때 리모컨 기능을 원했던 사용자들에게 환상적인 도구다" – Gizmodo
+
+핵심 기능:
+• 누구나 손쉽게 설치할 수 있는 서버 및 앱. 
+• 네트워크 상의 서버를 쉽게 찾을 수 있는 자동 서버 감지. 
+• 보안 강화를 위한 서버 암호 보호 및 암호화. 
+• 단일 혹은 멀티 터치 마우스 제어 지원. 
+• 웨이크 온 랜 기능을 통한 손쉬운 서버 시동. 
+• 밝은 색, 어두운 색의 두 가지 테마 제공. 
+• Windows, Mac, Linux 서버 지원. 
+• 라즈베리 파이와 아두이노 윤 등 다양한 기기 제어 가능. 
+• 18종의 무료 리모컨 포함
+
+#BEGIN_FULL_FEATURES
+정식 버전 기능:
+• 90종 이상의 리모컨
+• 위젯 및 빠른 동작
+• 음성 명령
+• 리모콘 사용자 설정
+• 적외선 (IR) 연동
+• NFC 연동
+#END_FULL_FEATURES
+
+#BEGIN_IAP
+Unified Remote 앱과 서버는 모두 무료 다운로드로 사용하실 수 있습니다. 추가 기능과 리모컨은 ​앱 내 결제를 통해 제공됩니다.
+
+• 추가 리모컨을 $0.99에 구매하세요. 
+• 추가 기능을 $0.99에 구매하세요. 
+• Unified Remote 정식 버전(모든 기능과 리모컨 포함)은 $3.99입니다.
+#END_IAP
+
+<b>Essentials</b>
+Mouse, Keyboard, Screen, Volume, and more.
+
+<b>Music</b>
+Spotify, iTunes, Google Music, Winamp, etc.
+
+<b>Video</b>
+VLC, BSPlayer, Windows Media Player, PotPlayer, etc.
+
+<b>Media Center</b>
+Kodi (XBMC), Plex, Windows Media Center, Boxee, etc.
+
+<b>Streaming</b>
+YouTube, Netflix, Hulu
+
+<b>Presentations</b>
+PowerPoint, Keynote, Google Presentation
+
+<b>Browsers</b>
+Chrome, Internet Explorer, Firefox, Opera
+
+<b>Other</b>
+Power, Monitor, Files, Task Manager, Commands, etc.
+
+<b>All Remotes</b>
+https://www.unifiedremote.com/remotes
+
+주의: 일부 리모컨은 특정 운영 체제에서만 동작합니다.
+
+#PERMISSIONS

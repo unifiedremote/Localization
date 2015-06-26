@@ -1,0 +1,65 @@
+他よりも確実に機能満載のコンピューターリモート。 デバイスを Windows PC で使える WiFi や Bluetooth のユニバーサルリモートコントロールに変えます。Mac やLinux のサポートもあります。 お好きなプログラム、マウス、キーボードをコントロールします。
+
+サーバー： https://www.unifiedremote.com
+
+「コンピューター用リモコンを使ってテレビを視聴したり、音楽を聴きたい人には素晴らしいツールです。」 – Gizmodo
+
+主要機能：
+• 簡単なサーバーとアプリの設定で、きちんと機能。 
+• ネットワーク上でサーバーを簡単に見つけるための自動サーバー検出。 
+• サーバーパスワード保護と暗号化による追加セキュリティー。 
+• シングルタッチとマルチタッチのマウスコントロールをサポート。 
+• 簡単にサーバーを起動するための Wake-on-LAN。 
+• 明るい色と暗い色のテーマが含まれます。 
+• サーバーは、Windows 用、Mac 用、Linux 用があります。 
+• Raspberry Pi と Arduino Yún を含む他のデバイスをコントロール。 
+• 18 のリモート機能が無料
+
+#BEGIN_FULL_FEATURES
+フルバージョンの機能：
+• 90 以上のリモート機能
+• ウィジェット & クイックアクション
+• ボイスコマンド
+• カスタムリモート
+• IR アクション
+• NFC アクション
+#END_FULL_FEATURES
+
+#BEGIN_IAP
+Unified Remote アプリとサーバー両方のダウンロードとご利用が無料です。 追加の機能とリモートは、App 内での購入が可能です。
+
+• 追加リモートを $0.99 で購入 
+• 追加機能を $0.99 で購入 
+• 全ての機能とリモートを満載の Unified Remote Full は $3.99
+#END_IAP
+
+<b>Essentials</b>
+Mouse, Keyboard, Screen, Volume, and more.
+
+<b>音楽</b>
+Spotify, iTunes, Google Music, Winamp, etc.
+
+<b>ビデオ</b>
+VLC, BSPlayer, Windows Media Player, PotPlayer, etc.
+
+<b>メディアセンター</b>
+Kodi (XBMC), Plex, Windows Media Center, Boxee, etc.
+
+<b>ストリーミング</b>
+YouTube, Netflix, Hulu
+
+<b>プレゼンテーション</b>
+PowerPoint, Keynote, Google Presentation
+
+<b>ブラウザ</b>
+Chrome, Internet Explorer, Firefox, Opera
+
+<b>Other</b>
+Power, Monitor, Files, Task Manager, Commands, etc.
+
+<b>All Remotes</b>
+https://www.unifiedremote.com/remotes
+
+一部のリモートは特定のオペレーティングシステムでのみご利可能です。
+
+#PERMISSIONS

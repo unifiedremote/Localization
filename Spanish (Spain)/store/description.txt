@@ -1,0 +1,65 @@
+El mando para ordenador que más funciones incluye. Convierta su dispositivo en un mando a distancia universal por Wi-Fi o Bluetooth para PC con Windows. También compatible con Mac y Linux. Controle sus programas favoritos, el ratón y el teclado.
+
+Servidor: https://www.unifiedremote.com
+
+“Una herramienta fantástica para quienes quieran tener un mando a distancia para su ordenador, para ver la tele o escuchar música”. – Gizmodo
+
+Funciones principales:
+• Configuración sencilla de servidor y app que funciona de verdad. 
+• Detección automática del servidor para encontrar fácilmente los servidores de su red. 
+• Protección del servidor con contraseña y cifrado para mayor seguridad. 
+• Compatible con control del ratón de un toque y toque múltiple. 
+• Active fácilmente su servidor con la opción de encender con LAN. 
+• Incluye temas de color claro y oscuro. 
+• El servidor está disponible para Windows, Mac y Linux. 
+• Control de otros dispositivos como Raspberry Pi y Arduino Yún. 
+• 18 mandos gratuitos
+
+#BEGIN_FULL_FEATURES
+La versión completa incluye:
+• Más de 90 mandos
+• Widgets y acciones rápidas
+• Comandos de voz
+• Mandos personalizados
+• Acciones IR
+• Acciones NFC
+#END_FULL_FEATURES
+
+#BEGIN_IAP
+La descarga y el uso de la app y el servidor de Unified Remote son gratis. Hay funciones y mandos adicionales disponibles como compra integrada.
+
+• Compre mandos adicionales por 0,99 $ 
+• Compre funciones adicionales por 0,99 $ 
+• Unified Remote completo con todas las funciones y mandos por 3,99 $
+#END_IAP
+
+<b>Essentials</b>
+Mouse, Keyboard, Screen, Volume, and more.
+
+<b>Music</b>
+Spotify, iTunes, Google Music, Winamp, etc.
+
+<b>Video</b>
+VLC, BSPlayer, Windows Media Player, PotPlayer, etc.
+
+<b>Media Center</b>
+Kodi (XBMC), Plex, Windows Media Center, Boxee, etc.
+
+<b>Streaming</b>
+YouTube, Netflix, Hulu
+
+<b>Presentations</b>
+PowerPoint, Keynote, Google Presentation
+
+<b>Browsers</b>
+Chrome, Internet Explorer, Firefox, Opera
+
+<b>Other</b>
+Power, Monitor, Files, Task Manager, Commands, etc.
+
+<b>All Remotes</b>
+https://www.unifiedremote.com/remotes
+
+Tenga en cuenta que ciertos mandos solo están disponibles para sistemas operativos concretos.
+
+#PERMISSIONS

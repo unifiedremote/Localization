@@ -1,0 +1,90 @@
+#BEGIN_PERMISSIONS
+<b>Permissions</b>
+• read phone status and identity: for auto-pause.
+• control NFC: for NFC actions.
+• full network access: for server connection.
+• view network connections: for server connection.
+• view Wi-Fi connections: for server connection.
+• pair with Bluetooth devices: for server connection.
+• control vibration: for optional haptic feedback.
+• prevent phone from sleeping: for optional wake-lock.
+• transmit infrared: for IR remote control.
+• install shortcuts: for launcher shortcuts.
+#END_PERMISSIONS
+
+#BEGIN_FREE_REMOTES
+• Basic Input (remote mouse & remote keyboard)
+• File Manager (browse computer files)
+• Keyboard
+• Media (basic media buttons)
+• Power (turn on/off and lock computer)
+• Scroll Wheel
+• Slide Show
+• Spotify
+• Start / Launcher (open programs)
+• Task Manager (switch active program)
+• Windows Media Center
+• Windows Media Player
+• VLC
+• YouTube
+#END_FREE_REMOTES
+
+#BEGIN_FULL_REMOTES
+• Create and use Customs
+• Basic Input (remote mouse & remote keyboard)
+• Boxee
+• BSPlayer
+• Command (execute terminal/console commands)
+• Chrome
+• File Manager (browse computer files)
+• Firefox
+• foobar2000
+• GOM Player
+• Google Music
+• Google Presentation
+• Hulu
+• Internet Explorer
+• iPhoto
+• iTunes
+• J River Media Center
+• Keyboard
+• Keynote
+• KMPlayer
+• Mac OS X
+• Magnifier (screen magnifier)
+• MPC HC
+• Media (basic media buttons)
+• Media Portal
+• MediaMonkey
+• Monitor (turn monitor on/off)
+• MusicBee
+• Navigation
+• Netflix
+• Number Pad
+• Opera
+• Pandora
+• Picasa
+• Plex
+• PowerPoint
+• Power (turn on/off and lock computer)
+• QuickTime Player
+• Safari
+• Scroll Wheel
+• Send Text (type text to computer)
+• Slide Show
+• Spotify
+• Start / Launcher (open programs)
+• Task Manager (switch active program)
+• Tellstick
+• Tellstick Live
+• Twitch TV
+• USB-UIRT
+• Winamp
+• Windows 8
+• Windows Media Center
+• Windows Media Player
+• Windows Photo Viewer
+• VLC
+• XBMC
+• YouTube
+#END_FULL_REMOTES

@@ -1,0 +1,14 @@
+Erweiterte Tastatur
+Schalten Sie zusätzliche Tastaturfunktionen frei.
+
+Erweiterte Fernbedienungsliste
+Schalten Sie zusätzliche Funktionen der Fernbedienungsliste frei.
+
+Zusätzliche Fernbedienung
+Schalten Sie eine zusätzliche Fernbedienung frei.
+
+Vollversion
+Schalten Sie alle Funktionen und Fernbedienungen frei.
+
+Schnelles Wechseln
+Erlaubt Ihnen, schnell zwischen Fernbedienungen zu wechseln.

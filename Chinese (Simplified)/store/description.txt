@@ -1,0 +1,65 @@
+方便易用且功能齐全的计算机遥控器。 将您的设备变成 Windows PC 的 WiFi 或蓝牙通用遥控器，也支持 Mac 和Linux（测试版）。 控制您最喜爱的各种程序、鼠标和键盘
+
+服务器：https://www.unifiedremote.com
+
+“对于那些想要控制计算机来观看电视节目或听音乐的人来说，这是一个非常棒的工具。” – Gizmodo
+
+主要功能：
+• 轻松方便的服务器和应用设置，非常好用。 
+• 自动服务器检测，可在您的网络中轻松找到服务器。 
+• 具有服务器密码保护和加密功能，带来更高的安全性。 
+• 支持单点和多点触控鼠标控制。 
+• 具有网络唤醒功能，可轻松启动服务器。 
+• 包含浅色主题和深色主题。 
+• 服务器可用于 Windows、Mac和 Linux。 
+• 可控制其他设备， 包括树莓派和 Arduino Yún。 
+• 18 个免费遥控器
+
+#BEGIN_FULL_FEATURES
+完整版功能：
+• 90 多个遥控器
+• 小工具 & 快速操作
+• 语音控制
+• 自定义遥控器
+• 红外线操作
+• 近场通信操作
+#END_FULL_FEATURES
+
+#BEGIN_IAP
+Unified Remote 应用和服务器均可免费下载和使用。 通过应用内购买，可使用更多功能和遥控器。
+
+• 额外遥控器购买价格为 $0.99 
+• 额外功能购买价格为 $0.99 
+• Unified Remote 完整版具备所有功能和遥控器，购买价格为 $3.99
+#END_IAP
+
+<b>Essentials</b>
+Mouse, Keyboard, Screen, Volume, and more.
+
+<b>Music</b>
+Spotify, iTunes, Google Music, Winamp, etc.
+
+<b>Video</b>
+VLC, BSPlayer, Windows Media Player, PotPlayer, etc.
+
+<b>Media Center</b>
+Kodi (XBMC), Plex, Windows Media Center, Boxee, etc.
+
+<b>Streaming</b>
+YouTube, Netflix, Hulu
+
+<b>Presentations</b>
+PowerPoint, Keynote, Google Presentation
+
+<b>Browsers</b>
+Chrome, Internet Explorer, Firefox, Opera
+
+<b>Other</b>
+Power, Monitor, Files, Task Manager, Commands, etc.
+
+<b>All Remotes</b>
+https://www.unifiedremote.com/remotes
+
+注意，有些遥控器只能用于特定操作系统。
+
+#PERMISSIONS

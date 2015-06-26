@@ -1,0 +1,65 @@
+De longe o mais completo controle remoto para computador. Transforme o seu dispositivo em um controle remoto universal WiFi ou Bluetooth para o seu PC com Windows. O suporte para Mac e Linux também está disponível. Controle os seus programas favoritos, mouse e teclado.
+
+Servidor: https://www.unifiedremote.com
+
+"Uma ferramenta fantástica para aqueles que querem ter um controle remoto para o seu computador para assistir TV ou talvez ouvir música." - Gizmodo
+
+Principais recursos:
+• Servidor e aplicativo de fácil configuração que simplesmente funciona. 
+• Detecção automática de servidor para encontra-los facilmente em sua rede. 
+• Servidor protegido por senha e criptografia para maior segurança. 
+• Suporta o controle de mouses simples ou multi toque. 
+• Wake on LAN para iniciar facilmente seu servidor. 
+• Inclui temas em cores claras e escuras. 
+• O servidor está disponível para Windows, Mac e Linux. 
+• Controle outros dispositivos incluindo Raspberry Pi e Arduino Yún. 
+• 18 controles remotos gratuitos
+
+#BEGIN_FULL_FEATURES
+Recursos da versão completa:
+• Mais de 90 controles remotos
+• Widgets & Atalhos
+• Comandos de voz
+• Controles remotos personalizados
+• Ações Infra-vermelho
+• Açoes NFC
+#END_FULL_FEATURES
+
+#BEGIN_IAP
+Tanto o aplicativo Unified Remote quanto o servidor são gratuitos baixar e usar. Mais recursos e controles remotos adicionais estão disponíveis através de compras no aplicativo.
+
+• Compre controles remotos adicionais por $0,99 
+• Compre recursos adicionais por $0,99 
+• Unified Remote completo com todos os recursos e controles remotos por $3,99
+#END_IAP
+
+<b>Essentials</b>
+Mouse, Keyboard, Screen, Volume, and more.
+
+<b>Music</b>
+Spotify, iTunes, Google Music, Winamp, etc.
+
+<b>Video</b>
+VLC, BSPlayer, Windows Media Player, PotPlayer, etc.
+
+<b>Media Center</b>
+Kodi (XBMC), Plex, Windows Media Center, Boxee, etc.
+
+<b>Streaming</b>
+YouTube, Netflix, Hulu
+
+<b>Presentations</b>
+PowerPoint, Keynote, Google Presentation
+
+<b>Browsers</b>
+Chrome, Internet Explorer, Firefox, Opera
+
+<b>Other</b>
+Power, Monitor, Files, Task Manager, Commands, etc.
+
+<b>All Remotes</b>
+https://www.unifiedremote.com/remotes
+
+Observe que alguns controles remotos estão disponíveis apenas em determinados sistemas operacionais.
+
+#PERMISSIONS

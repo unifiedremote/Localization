@@ -1,0 +1,14 @@
+Clavier étendu
+Déverrouiller les fonctions avancées du clavier.
+
+Liste étendue de télécommandes
+Déverrouiller les fonctions avancées de la liste de télécommandes.
+
+Télécommande supplémentaire
+Déverrouiller une télécommande supplémentaire.
+
+Version complète
+Déverrouiller toutes les fonctions et télécommandes.
+
+Alternance rapide
+Vous permet de passer rapidement d'une télécommande à l'autre.

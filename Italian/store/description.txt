@@ -1,0 +1,65 @@
+Sicuramente il telecomando per computer più completo. Trasforma il tuo dispositivo in un telecomando WiFi o Bluetooth universale per il tuo PC Windows. Supporto disponibile anche per Mac e Linux. Per controllare programmi preferiti, mouse e tastiera.
+
+Server: https://www.unifiedremote.com
+
+“Un eccezionale strumento per chi desidera un telecomando per il computer, per guardare la TV o ascoltare musica". – Gizmodo
+
+Funzionalità principali:
+• Configurazione facile del server e dell'app: semplicemente, funziona. 
+• Rilevazione automatica dei server per individuare facilmente i server sulla rete locale. 
+• Protezione server tramite password e crittografia per un livello di sicurezza aggiuntivo. 
+• Supporta controllo del mouse singolo e multi-touch. 
+• Wake On LAN per avviare facilmente il server. 
+• Include temi grafici per condizioni di luce elevata e limitata. 
+• Server disponibile per Windows, Mac e Linux. 
+• Per controllare anche altri dispositivi, come Raspberry Pi e Arduino Yún. 
+• 18 telecomandi gratuiti
+
+#BEGIN_FULL_FEATURES
+La versione completa include:
+• Oltre 90 telecomandi 
+• Widget e operazioni rapide
+• Comandi vocali
+• Telecomandi personalizzati
+• Azioni IR
+• Azioni NFC
+#END_FULL_FEATURES
+
+#BEGIN_IAP
+Sia l'app Unified Remote che il server sono scaricabili e utilizzabili gratuitamente. Funzionalità e telecomandi aggiuntivi disponibili tramite acquisti In-App.
+
+• Acquista telecomandi aggiuntivi per $0,99 
+• Acquista funzionalità aggiuntive per $0,99 
+• Unified Remote versione completa, con tutte le funzionalità e i telecomandi, disponibile a $3,99
+#END_IAP
+
+<b>Essentials</b>
+Mouse, Keyboard, Screen, Volume, and more.
+
+<b>Music</b>
+Spotify, iTunes, Google Music, Winamp, etc.
+
+<b>Video</b>
+VLC, BSPlayer, Windows Media Player, PotPlayer, etc.
+
+<b>Media Center</b>
+Kodi (XBMC), Plex, Windows Media Center, Boxee, etc.
+
+<b>Streaming</b>
+YouTube, Netflix, Hulu
+
+<b>Presentations</b>
+PowerPoint, Keynote, Google Presentation
+
+<b>Browsers</b>
+Chrome, Internet Explorer, Firefox, Opera
+
+<b>Other</b>
+Power, Monitor, Files, Task Manager, Commands, etc.
+
+<b>All Remotes</b>
+https://www.unifiedremote.com/remotes
+
+Attenzione: alcuni telecomandi sono disponibili solo per determinati sistemi operativi.
+
+#PERMISSIONS
