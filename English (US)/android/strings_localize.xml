@@ -10,7 +10,6 @@
     <string name="title_remotes">Remotes</string>
     <string name="title_remote">Remote</string>
     <string name="title_preferences">Preferences</string>
-    <string name="title_diagnostics">Diagnostics</string>
     <string name="title_servers">Servers</string>
     <string name="title_scan">Scanning</string>
     <string name="title_server">Server</string>
@@ -142,8 +141,6 @@
     <!-- Welcome (old) -->
     <string name="welcome_login_title">Login</string>
     <string name="welcome_login_skip">Skip Login</string>
-    <string name="welcome_aotd"><b>Full Version features</b>\nunlocked thanks to\nApp of the Day.</string>
-    <string name="welcome_aotd_note"><b>This is a one-time offer</b>\nThe offer resets if you\nreinstall the app.</string>
     <string name="welcome_first">First install the latest\n<b>Unified Remote Server</b>\non your computer.\n\nDownload available at:\n<b>www.unifiedremote.com</b></string>
     <string name="welcome_update">Please update to the latest\n<b>Unified Remote Server</b>\non your computer.\n\nDownload available at:\n<b>www.unifiedremote.com</b></string>
     <string name="welcome_button">I have installed the new server!</string>
@@ -151,16 +148,6 @@
     <string name="welcome_connect">Make sure that Unified Remote Server is running on your computer. Also ensure that Windows Firewall or any other software isn\'t blocking the server. For more information or if you are having difficulties finding a server visit our <a href="http://www.unifiedremote.com/support">support</a> page.</string>
     <string name="welcome_add_server_later">I\'ll add a server later</string>
     <string name="welcome_no_servers">No Servers</string>
-    <string name="welcome_help_title"><b>Feature Guides</b></string>
-    <string name="welcome_help">The guides library on our web site provides useful information and step-by-step instructions on how to use some of the features in Unified Remote.
-Use the links below to access some popular guides. You can also access the guides page by pressing Help in the app dashboard.
-\n
-\n• <a href="http://www.unifiedremote.com/guide/ir-actions">IR Actions</a> (new!)
-\n• <a href="http://www.unifiedremote.com/guide/quick-actions">Quick Actions</a>
-\n• <a href="http://www.unifiedremote.com/guide/getting-started-with-nfc">NFC Actions</a>
-\n• <a href="http://www.unifiedremote.com/guide/voice-actions">Voice Actions</a>
-\n• <a href="http://www.unifiedremote.com/guide/android-widgets">Widgets</a>
-    </string>
     <string name="welcome_get_full">Learn more…</string>
     <string name="welcome_scanning">Scanning…</string>
     <string name="welcome_add_manually">Add server manually</string>
@@ -184,7 +171,6 @@ Use the links below to access some popular guides. You can also access the guide
     <string name="home_remotes">Remotes</string>
     <string name="home_servers">Servers</string>
     <string name="home_preferences">Preferences</string>
-    <string name="home_diagnostics">Diagnostics</string>
     <string name="home_editor">Editor</string>
     <string name="home_widgets">Widgets</string>
     <string name="home_quick_actions">Quick Actions</string>
@@ -505,6 +491,7 @@ Use the links below to access some popular guides. You can also access the guide
     <string name="quick_actions_enable">Enable Quick Actions notification.</string>
     <string name="quick_actions_configure">Configure/Disable Quick Actions</string>
     <string name="quick_actions_edit">Show edit button in notification.</string>
+    <string name="quick_actions_lockscreen">Show on lock screen.</string>
 
     <!-- Requires -->
     <string name="requires_2_2">Requires 2.2 or higher…</string>
