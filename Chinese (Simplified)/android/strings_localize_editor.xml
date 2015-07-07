@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<resources>
+
+    <!-- Editor Titles -->
+    <string name="title_editor">布局编辑器</string>
+    <string name="title_editor_config">属性编辑器</string>
+    <string name="title_editor_wizard">操作向导</string>
+
+    <!-- Editor Menu -->
+    <string name="editor2_menu_done">完成</string>
+    <string name="editor2_menu_cancel">取消</string>
+
+    <!-- Editor2 -->
+    <string name="editor2_select_control">选择控件</string>
+    <string name="editor2_control_button">按钮</string>
+    <string name="editor2_control_label">标签</string>
+    <string name="editor2_control_grid">网格</string>
+    <string name="editor2_control_space">空间</string>
+    <string name="editor2_confirm_delete">是</string>
+    <string name="editor2_stop_delete">否</string>
+    <string name="editor2_delete_confimation_dialog_text">是否要删除此控件</string>
+
+    <!-- Editor2 Config -->
+    <string name="editor2_config_default">默认</string>
+    <string name="editor2_config_custom">自定义</string>
+    <string name="editor2_config_info_text">文本：</string>
+    <string name="editor2_config_info_text_hint">输入控件文本</string>
+    <string name="editor2_config_info_icon">图标：</string>
+    <string name="editor2_config_info_icon_button">更改图标</string>
+    <string name="editor2_config_info_color">颜色：</string>
+    <string name="editor2_config_info_textalign">文本对齐：</string>
+    <string name="editor2_config_info_weight">空间：</string>
+    <string name="editor2_config_info_scroll">滚动：</string>
+    <string name="editor2_config_theme">设置主题</string>
+    <string name="editor2_config_actions_button">更改操作</string>
+    <string name="editor2_config_theme_button">更改主题</string>
+    <string name="editor2_config_color_button">更改颜色</string>
+    <string name="editor2_config_info_id">ID：</string>
+    <string name="editor2_config_info_lightcolor">浅色：</string>
+    <string name="editor2_config_info_darkcolor">深色：</string>
+    <string name="editor2_config_info_lighttheme">颜色主题：</string>
+    <string name="editor2_config_info_darktheme">深色主题：</string>
+    <string name="editor2_config_info_onup">按向上箭头：</string>
+    <string name="editor2_config_info_ondown">按向下箭头：</string>
+    <string name="editor2_config_info_ontap">点按：</string>
+    <string name="editor2_config_info_onhold">按住：</string>
+    <string name="editor2_config_info_ondoubletap">双击：</string>
+    <string name="editor2_config_info_visibility">可见性：</string>
+    <string name="editor2_config_header_general">常规</string>
+    <string name="editor2_config_header_theme">主题</string>
+    <string name="editor2_config_header_actions">操作</string>
+    <string name="editor2_config_alert_weight_title">空间不够</string>
+    <string name="editor2_config_alert_weight_message">空间必须为 0 至 127 之间的整数</string>
+    <string name="editor2_config_alert_color_title">颜色无效</string>
+    <string name="editor2_config_alert_color_message">颜色只能包含 6 至 8 位十六进制 [0-F] 数值。</string>
+
+    <!-- Editor2 Wizard -->
+    <string name="editor2_wizard_typeofaction">操作类型</string>
+    <string name="editor2_wizard_remoteaction">远程操作</string>
+    <string name="editor2_wizard_action">操作</string>
+    <string name="editor2_wizard_openremote">打开遥控器</string>
+    <string name="editor2_wizard_remote">遥控器</string>
+    <string name="editor2_wizard_deviceaction">设备操作</string>
+    <string name="editor2_wizard_wol">局域网唤醒</string>
+    <string name="editor2_wizard_server">服务器</string>
+    <string name="editor2_wizard_keyboard">键盘</string>
+    <string name="editor2_wizard_mouse">鼠标</string>
+    <string name="editor2_wizard_ir">IR</string>
+    <string name="editor2_wizard_howtolearn">如何学习</string>
+    <string name="editor2_wizard_lookup">查找</string>
+    <string name="editor2_wizard_lookup_manufacturer">生产商</string>
+    <string name="editor2_wizard_lookup_device">设备</string>
+    <string name="editor2_wizard_lookup_codeset">代码集</string>
+    <string name="editor2_wizard_lookup_Button">按钮</string>
+    <string name="editor2_wizard_Learn">学习</string>
+    <string name="editor2_wizard_input">输入</string>
+    <string name="editor2_wizard_vibrate">振动</string>
+    <string name="editor2_wizard_listen">收听</string>
+    <string name="editor2_wizard_toast">消息</string>
+    <string name="editor2_wizard_toaststring">应显示的消息</string>
+    <string name="editor2_wizard_changeserver">更改服务器</string>
+    <string name="editor2_wizard_openinapp">在应用内打开</string>
+    <string name="editor2_wizard_show">显示</string>
+    <string name="editor2_wizard_next">下一个</string>
+    <string name="editor2_wizard_prev">上一个</string>
+    <string name="editor2_wizard_finish">完成</string>
+    <string name="editor2_wizard_review">评论</string>
+    <string name="editor2_wizard_noitems">没有可显示的项目</string>
+    <string name="editor2_wizard_home">主页</string>
+    <string name="editor2_wizard_learn_ir">学习 IR</string>
+    <string name="editor2_wizard_input_ir">输入 IR</string>
+    <string name="editor2_wizard_active_server">活动服务器</string>
+    <string name="editor2_wizard_extra">额外</string>
+    <string name="editor2_wizard_no_title">无标题</string>
+
+    <!-- Arrays -->
+    <string-array name="list_control_types">
+        <item>按钮</item>
+        <item>网格</item>
+        <item>标签</item>
+        <item>空间</item>
+    </string-array>
+    <string-array name="editor2_config_textalign_entries">
+        <item>居中</item>
+        <item>左</item>
+        <item>右</item>
+    </string-array>
+    <string-array name="editor2_config_scroll_entries">
+        <item>无</item>
+        <item>水平</item>
+        <item>垂直</item>
+        <item>两者</item>
+    </string-array>
+    <string-array name="editor2_config_weight_entries">
+        <item>无</item>
+        <item>包裹</item>
+        <item>自定义</item>
+    </string-array>
+    <string-array name="editor2_config_visibility_entries">
+        <item>可见</item>
+        <item>隐藏</item>
+        <item>消失</item>
+    </string-array>
+
+</resources>

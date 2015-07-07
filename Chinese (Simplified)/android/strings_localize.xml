@@ -1,0 +1,547 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<resources>
+
+    <!-- Rate -->
+    <string name="rate_message">你已经使用本应用有一段时间了。要不要给个 5 星好评？别担心，我们就问一次。</string>
+    <string name="rate_help">欢迎通过我们的网站、Facebook 或 Twitter 提供反馈意见。谢谢！</string>
+
+    <!-- Titles -->
+    <string name="title_welcome">欢迎</string>
+    <string name="title_remotes">遥控器</string>
+    <string name="title_remote">遥控器</string>
+    <string name="title_preferences">首选项</string>
+    <string name="title_servers">服务器</string>
+    <string name="title_scan">正在扫描</string>
+    <string name="title_server">服务器</string>
+    <string name="title_mouse_preferences">鼠标首选项</string>
+    <string name="title_input">基本输入</string>
+    <string name="title_uri">URI</string>
+    <string name="title_share_uri">URI 构建器</string>
+    <string name="title_share_nfc">写入 NFC</string>
+    <string name="title_share_qr">通过二维码分享</string>
+    <string name="title_widget_config">Widget</string>
+    <string name="title_quick_actions">快速操作</string>
+    <string name="title_ir_select">选择 IR 设备</string>
+    <string name="title_ir_learn">输入二维码</string>
+    <string name="title_upgrade">升级</string>
+    <string name="title_all_remotes">全部</string>
+    <string name="title_most_used_remotes">最常使用</string>
+    <string name="title_recent_remotes">最近使用</string>
+    <string name="title_recent_actions">最近操作</string>
+
+    <!-- License Status -->
+    <string name="license_status_free">免费版本</string>
+    <string name="license_status_full">完整版本</string>
+    <string name="license_status_eval">评估版本</string>
+    <string name="license_status_unlocked">完整版本</string>
+    <string name="license_status_locked">许可证被锁定</string>
+
+    <!-- License Description -->
+    <string name="license_description_free">进授权许可使用免费版本。</string>
+    <string name="license_description_full">所有功能均已解锁。</string>
+    <string name="license_description_eval">仅限时解锁。</string>
+    <string name="license_description_unlocked">所有功能均已解锁。</string>
+    <string name="license_description_locked">许可证已锁定。点按以再次检查…</string>
+    <string name="license_description_checking">正在检查许可证…</string>
+    <string name="license_description_error">未知错误。</string>
+
+    <!-- Status Screen -->
+    <string name="status_general">常规</string>
+    <string name="status_connection">连接</string>
+    <string name="status_misc">杂项</string>
+    <string name="status_version">版本</string>
+    <string name="status_time">时间</string>
+    <string name="status_host">服务器</string>
+    <string name="status_status">状态</string>
+    <string name="status_authenticated">已经过身份验证</string>
+    <string name="status_encrypted">已加密</string>
+    <string name="status_fast">快速连接</string>
+    <string name="status_reset">重置为首次启动</string>
+    <string name="status_reset_info">再次显示欢迎向导。</string>
+    <string name="status_last_error">最近一次错误</string>
+    <string name="status_clear_cache">清空缓存</string>
+    <string name="status_clear_cache_info">删除所有本地缓存。</string>
+    <string name="status_cache_size">缓存大小</string>
+    <string name="status_connect">强制连接</string>
+    <string name="status_connect_info">强制客户端连接。</string>
+    <string name="status_disconnect">强制断开连接</string>
+    <string name="status_disconnect_info">强制客户端断开连接。</string>
+    <string name="status_yes">是</string>
+    <string name="status_no">否</string>
+    <string name="status_compat">兼容模式</string>
+    <string name="status_platform">服务器平台</string>
+    <string name="status_open_source">开源许可证</string>
+    <string name="status_open_source_info">开源软件许可证详细信息。</string>
+
+    <!-- Evaluation -->
+    <string name="eval_expired">评估期已到期</string>
+    <string name="eval_expired_message">本版本的评估期已到期。从现在开始，你只能使用免费版中的可用功能。如果新的评估版本，请联系我们，我们的网址是 www.unifiedremote.com。</string>
+
+    <!-- Shortcut -->
+    <string name="shortcut_select">Unified Remote 快捷方式</string>
+    <string name="shortcut_title">选择遥控器</string>
+
+    <!-- Coach -->
+    <string name="coach_navigate">从左向右滑动\n可进行浏览</string>
+    <string name="coach_navigate_tablet">可在首选项中禁用“平板电脑”布局</string>
+    <string name="coach_quickswitch">从右向左滑动\n可快速切换</string>
+    <string name="coach_gotit">明白！</string>
+
+    <!-- Welcome -->
+    <string name="welcome2_login_title">Unified Remote</string>
+    <string name="welcome2_login_text">登录后你可以更轻松地\n使用 Unified Remote\n更多功能，近期推出！</string>
+    <string name="welcome2_login_google">使用 Google 登录</string>
+    <string name="welcome2_login_email">使用电子邮件登录</string>
+    <string name="welcome2_login_skip">跳过此步</string>
+
+    <string name="welcome2_email">电子邮件地址</string>
+    <string name="welcome2_email_continue">继续</string>
+    <string name="welcome2_password">密码</string>
+    <string name="welcome2_create_account">创建账户</string>
+
+    <!-- Welcome - Network -->
+    <string name="welcome2_network_title">WiFi / 蓝牙</string>
+    <string name="welcome2_network_continue">继续</string>
+    <string name="welcome2_network_enable_data">启用数据连接</string>
+    <string name="welcome2_network_enable_data_text">要使用移动数据，请务必配置服务器，以允许外部连接。</string>
+    <string name="welcome2_network_enable_bluetooth">启用蓝牙</string>
+    <string name="welcome2_network_enable_bluetooth_text">要使用蓝牙，请务必将你的设备与计算机配对。</string>
+    <string name="welcome2_network_enable_wifi">启用 WiFi</string>
+    <string name="welcome2_network_enable_wifi_text">要使用 WiFi，请务必连接到与计算机相同的网络。</string>
+
+    <!-- Welcome - Install -->
+    <string name="welcome2_install_title">安装服务器</string>
+    <string name="welcome2_install_text">现在，请继续，在你的\n计算机上安装 Unified Remote \n服务器。</string>
+    <string name="welcome2_install_check_inbox">检查收件箱</string>
+    <string name="welcome2_install_instructions">说明以发送至：</string>
+    <string name="welcome2_install_installed">我已安装了服务器</string>
+    <string name="welcome2_install_later">稍后安装</string>
+    <string name="welcome2_install_download">可在此处下载：</string>
+    <string name="welcome2_install_url">www.unifiedremote.com</string>
+
+    <!-- Welcome - Scan -->
+    <string name="welcome2_scan_text">正在查找计算机…</string>
+
+    <!-- Welcome - Trouble -->
+    <string name="welcome2_trouble_title">故障排除</string>
+    <string name="welcome2_trouble_wifi">要使用 WiFi，请务必连接到与计算机相同的网络。</string>
+    <string name="welcome2_trouble_bluetooth">要使用蓝牙，请务必将你的设备与计算机配对。</string>
+    <string name="welcome2_trouble_data">要使用移动数据，请务必配置服务器，以允许外部连接。</string>
+    <string name="welcome2_trouble_help_url">www.unifiedremote.com/help</string>
+    <string name="welcome2_trouble_try_again">请重试</string>
+    <string name="welcome2_trouble_continue">继续</string>
+
+    <!-- Welcome - Done -->
+    <string name="welcome2_done_connected_to">已连接至</string>
+    <string name="welcome2_done_get_started">让我们开始吧！</string>
+    <string name="welcome2_done_not_connected">未连接</string>
+    <string name="welcome2_done_no_server">无服务器</string>
+    <string name="welcome2_done_continue">继续</string>
+
+    <!-- Welcome (old) -->
+    <string name="welcome_login_title">登录</string>
+    <string name="welcome_login_skip">跳过登录</string>
+    <string name="welcome_first">首先，请在你的计算机上安装最新版的 \n<b>Unified Remote 服务器</b>\n。请在这里下载：\n<b>www.unifiedremote.com</b></string>
+    <string name="welcome_update">请将你计算机中的\n<b>Unified Remote 服务器</b>\n更新至最新版本。\n\n请在这里下载：\n<b>www.unifiedremote.com</b></string>
+    <string name="welcome_button">我已经安装了新服务器！</string>
+    <string name="welcome_connect_title"><b>连接至服务器</b></string>
+    <string name="welcome_connect">请务必在你的计算机上允许 Unified Remote 服务器。另外，请确保 Windows Firewall 或任何其他软件不会阻止该服务器。欲了解详细信息或查找服务器遇到困难，请访问我们的 <a href="http://www.unifiedremote.com/support">支持</a>页面。</string>
+    <string name="welcome_add_server_later">我稍后添加服务器</string>
+    <string name="welcome_no_servers">无服务器</string>
+    <string name="welcome_get_full">了解更多…</string>
+    <string name="welcome_scanning">正在扫描…</string>
+    <string name="welcome_add_manually">手动添加服务器</string>
+    <string name="welcome_news_title">新功能</string>
+    <string name="welcome_full_title">完整版本</string>
+    <string name="welcome_full">✓ 一次升级
+\n✓ 包含所有未来更新
+\n✓ 无广告
+\n✓ 屏幕镜像
+\n✓ 扩展键盘
+\n✓ 70 多个遥控器
+\n✓ Android 穿戴
+\n✓ 构件&amp; 快速操作
+\n✓ 语音命令
+\n✓ 自定义遥控器
+\n✓ IR 操作
+\n✓ NFC 操作
+    </string>
+
+    <!-- Home / Menu -->
+    <string name="home_remotes">遥控器</string>
+    <string name="home_servers">服务器</string>
+    <string name="home_preferences">首选项</string>
+    <string name="home_editor">编辑器</string>
+    <string name="home_widgets">构件</string>
+    <string name="home_quick_actions">快速操作</string>
+    <string name="home_help">帮助</string>
+    <string name="home_exit">退出</string>
+    <string name="home_upgrade">升级</string>
+    <string name="home_status">状态</string>
+
+    <!-- Menus -->
+    <string name="menu_left_customize">自定义</string>
+    <string name="menu_left_servers">已保存的服务器</string>
+    <string name="menu_left_servers_none">未添加任何服务器</string>
+    <string name="menu_left_other">其他</string>
+    <string name="menu_left_share">分享</string>
+    <string name="menu_left_rate">评分</string>
+
+    <!-- Buttons -->
+    <string name="button_ok">确定</string>
+    <string name="button_cancel">取消</string>
+    <string name="button_add">添加</string>
+    <string name="button_remove">移除</string>
+    <string name="button_toggle">切换选择</string>
+    <string name="button_homepage">网站</string>
+    <string name="button_donate">捐款</string>
+    <string name="button_close">关闭</string>
+    <string name="button_save">保存</string>
+    <string name="button_prev">上一个</string>
+    <string name="button_next">下一个</string>
+    <string name="button_yes">是</string>
+    <string name="button_no">否</string>
+    <string name="button_finish">结束</string>
+    <string name="button_accept">接受</string>
+    <string name="button_decline">拒绝</string>
+    <string name="button_rate">评分</string>
+    <string name="button_edit">编辑</string>
+    <string name="button_send">发送</string>
+    <string name="button_search">搜索</string>
+    <string name="button_select">选择</string>
+
+    <!-- Inhouse Ads -->
+    <string name="inhouse_remove"><u>升级可移除这些消息</u></string>
+    <string name="inhouse_buy">购买完整版本</string>
+    <string name="inhouse_skip">跳过并继续</string>
+
+    <!-- Preferences (Connection) -->
+    <string name="pref_cat_connection">连接</string>
+    <string name="pref_host_title">服务器</string>
+    <string name="pref_host_summary">管理服务器连接。</string>
+    <string name="pref_keep_alive_title">保持连接有效</string>
+    <string name="pref_keep_alive_summary">允许连接在后台运行。</string>
+    <string name="pref_errors_title">错误</string>
+    <string name="pref_errors_summary">显示连接错误。</string>
+    <string name="pref_auto_update_servers_title">自动更新服务器</string>
+    <string name="pref_auto_update_servers_summary">自动更新服务器的 IP。</string>
+    <string name="pref_mouse_fast">快速连接</string>
+    <string name="pref_mouse_fast_summary">启用快速连接（如 UDP）。</string>
+
+    <!-- Preferences (General) -->
+    <string name="pref_cat_general">常规</string>
+    <string name="pref_quick_actions_title">快速操作</string>
+    <string name="pref_quick_actions_summary">更改快速操作</string>
+    <string name="pref_widgets_title">构件</string>
+    <string name="pref_widgets_summary">管理构件。</string>
+    <string name="pref_default_remotes_list_title">遥控器列表</string>
+    <string name="pref_default_remotes_list_summary">选择遥控器默认列表和操作。</string>
+    <string name="pref_theme_title">主题</string>
+    <string name="pref_theme_summary">设置默认颜色主题。</string>
+    <string name="pref_theme_list_title">选择主题</string>
+    <string name="pref_remotes_title">遥控器布局</string>
+    <string name="pref_remotes_summary">设置遥控器显示布局。</string>
+    <string name="pref_remotes_list_title">选择布局</string>
+    <string name="pref_visible_title">可见遥控器</string>
+    <string name="pref_visible_summary">选择主列表中的可见遥控器。</string>
+    <string name="pref_visible_dialog_title">选择遥控器</string>
+    <string name="pref_switch_title">快速切换</string>
+    <string name="pref_switch_summary">选择快速切换遥控器。</string>
+    <string name="pref_switch_dialog_title">选择遥控器</string>
+    <string name="pref_orientation_title">方向锁定</string>
+    <string name="pref_orientation_summary">选择方向锁定。</string>
+    <string name="pref_orientation_list_title">选择锁定</string>
+    <string name="pref_haptic_title">触摸反馈</string>
+    <string name="pref_haptic_summary">在遥控器中启用触摸反馈。</string>
+    <string name="pref_fullscreen_title">全屏</string>
+    <string name="pref_fullscreen_summary">在全屏模式运行本应用</string>
+    <string name="pref_tablet_show_menu">显示菜单</string>
+    <string name="pref_tablet_show_menu_summary">在平板电脑上始终显示菜单。</string>
+
+    <!-- Preferences (Integration) -->
+    <string name="pref_cat_integration">设备集成</string>
+    <string name="pref_volume_title">覆盖音量</string>
+    <string name="pref_volume_summary">使用硬件按钮控制遥控器音量。</string>
+    <string name="pref_keyboard_title">系统键盘</string>
+    <string name="pref_keyboard_summary">使用系统默认键盘。</string>
+    <string name="pref_mouse_title">鼠标设置。</string>
+    <string name="pref_mouse_summary">更改鼠标设置。</string>
+    <string name="pref_ir_title">IR 设置</string>
+    <string name="pref_ir_summary">选择默认 IR 设备。</string>
+    <string name="pref_ir_learn_title">IR 学习</string>
+    <string name="pref_ir_learn_summary">学习 IR 代码。</string>
+    <string name="pref_events_title">手机事件</string>
+    <string name="pref_events_summary">发送手机事件至服务器。</string>
+    <string name="pref_voice_title">启用语音</string>
+    <string name="pref_voice_summary">在标题栏显示语音命令。</string>
+    <string name="pref_nfc_title">启用 NFC</string>
+    <string name="pref_nfc_summary">自动检测 NFC 标签。</string>
+
+    <!-- Preferences (Power) -->
+    <string name="pref_cat_power">电池</string>
+    <string name="pref_wifi_title">Wi-Fi 锁定</string>
+    <string name="pref_wifi_summary">运行时保持 WiFi 启用。</string>
+    <string name="pref_wake_title">唤醒锁定</string>
+    <string name="pref_wake_summary">运行时让设备保持唤醒状态。</string>
+
+    <!-- Preferences (Other) -->
+    <string name="pref_cat_other">其他</string>
+    <string name="pref_analytics_title">显示使用统计数据</string>
+    <string name="pref_analytics_summary">只发送匿名数据。</string>
+    <string name="pref_ads_title">显示广告</string>
+    <string name="pref_ads_summary">广告支持我们的业务。</string>
+
+    <!-- Preferences (Mouse) -->
+    <string name="pref_cat_mouse">鼠标</string>
+    <string name="pref_mouse_multitouch">多点触控</string>
+    <string name="pref_mouse_multitouch_summary">在单点触控和多点触控之间切换</string>
+    <string name="pref_mouse_invert">反转滚动</string>
+    <string name="pref_mouse_invert_summary">反转滚动方向。</string>
+    <string name="pref_mouse_switch">交换按钮</string>
+    <string name="pref_mouse_switch_summary">交换主按钮和辅按钮。</string>
+    <string name="pref_mouse_throttle">限制鼠标速度</string>
+    <string name="pref_mouse_throttle_summary">显示鼠标更新发送次数。</string>
+    <string name="pref_mouse_throttle_title">限制</string>
+    <string name="pref_pinch_zoom">捏合缩放</string>
+    <string name="pref_pinch_zoom_summary">启用捏合缩放手势。</string>
+    <string name="pref_mouse_sensitivity">指针敏感度</string>
+    <string name="pref_mouse_sensitivity_summary">调整鼠标指针敏感度</string>
+    <string name="pref_mouse_sensitivity_dialog_title">指针敏感度</string>
+    <string name="pref_mouse_sensitivity_help">使用低敏感度，移动较慢。使用高敏感度，则移动较快。\n</string>
+    <string name="pref_mouse_scroll_sensitivity">滚动敏感度</string>
+    <string name="pref_mouse_scroll_sensitivity_summary">调整鼠标滚动敏感度。</string>
+    <string name="pref_mouse_scroll_sensitivity_dialog_title">滚动敏感度</string>
+    <string name="pref_mouse_scroll_sensitivity_help">使用低敏感度，可慢速滚动。使用高敏感度，可快速滚动。\n</string>
+    <string name="pref_mouse_disable_swipe">禁用菜单滑动</string>
+    <string name="pref_mouse_disable_swipe_summary">使用鼠标时禁用菜单滑动。</string>
+    <string name="pref_mouse_test">测试鼠标</string>
+    <string name="pref_mouse_test_summary">试用你的当前设置。</string>
+
+    <!-- Dialogs (General) -->
+    <string name="diag_locked_title">已锁定</string>
+    <string name="diag_locked_message">你的许可证貌似已失效。首次运行完整版本时，请确保网络连接有效。按“确定”，可打开诊断信息。</string>
+    <string name="diag_version_title">版本不匹配</string>
+    <string name="diag_version_message">你正在运行不同版本的客户端和服务器。请务必将两者更新为最新版本，然后重试。</string>
+    <string name="diag_auth_title">身份验证失败</string>
+    <string name="diag_auth_message">服务器身份验证失败。要连接此服务器，请务必在设置中输入正确的密码。</string>
+    <string name="diag_connection_error_title">连接失败</string>
+    <string name="diag_connection_error">无法与你的服务器建立连接。请检查你的服务器和网络设置，然后重试。</string>
+    <string name="diag_compat_title">兼容模式</string>
+    <string name="diag_compat_message">兼容模式已激活。某些功能或遥控器可能不可用。我们强烈建议你将服务器更新至最新版本。</string>
+    <string name="diag_new_remotes_title">新建遥控器</string>
+    <string name="diag_new_select_title">选择遥控器</string>
+    <string name="diag_new_select_message">你之前使用了“可见遥控器”设置。由于最近所做的某些更改，你必须冲讯选择这些遥控器。</string>
+
+    <!-- Misc -->
+    <string name="bt_unnamed">&lt;未命名&gt;</string>
+    <string name="more_remotes_title">完整版本</string>
+    <string name="more_remotes_description">获取更多功能…</string>
+    <string name="locked_remotes_title">已锁定</string>
+    <string name="locked_remotes_description">某些遥控器已被锁定…</string>
+    <string name="loading">正在加载…</string>
+    <string name="updating">正在更新…</string>
+    <string name="syncing">正在同步…</string>
+    <string name="retrying">正在重试…</string>
+    <string name="full_version_only">仅限完整版本</string>
+    <string name="uri">URI</string>
+    <string name="dark">深色</string>
+    <string name="light">浅色</string>
+    <string name="connecting_to">正在连接 %1$s…</string>
+    <string name="changes_not_saved">你所做的更改尚未保存。是否真的要继续？</string>
+
+    <!-- Notifications -->
+    <string name="notif_text">选择以停止保持连接有效</string>
+
+    <!-- Connection Status -->
+    <string name="conn_status_connected">已连接</string>
+    <string name="conn_status_connecting">正在连接</string>
+    <string name="conn_status_initial">初始</string>
+    <string name="conn_status_no_connectivity">未连接</string>
+    <string name="conn_status_disconnected">已断开</string>
+
+    <!-- Connection Errors -->
+    <string name="conn_error_unknown_host">未知服务器名。</string>
+    <string name="conn_error_bt_not_available">蓝牙不支持/不可用。</string>
+    <string name="conn_error_wifi_error">WiFi 连接有问题。</string>
+    <string name="conn_error_bt_error">蓝牙连接有问题。</string>
+    <string name="conn_error_no_servers">未添加任何服务器。</string>
+    <string name="conn_error_unknown_connection">未知连接。</string>
+    <string name="conn_error_version_mismatch">版本不匹配。</string>
+    <string name="conn_error_auth_failed">身份验证失败。</string>
+    <string name="conn_error_retrying">正在尝试重新连接…</string>
+    <string name="conn_error_bt_no_paired">你尚未与任何蓝牙设备配对。</string>
+    <string name="conn_error_bt_no_selected">你必须选择一个蓝牙设备。</string>
+    <string name="conn_error_service_stopped">服务已停止</string>
+
+    <!-- Servers -->
+    <string name="servers_none">未添加任何服务器。</string>
+    <string name="servers_searching">正在搜索服务器…</string>
+    <string name="servers_menu_select">选择</string>
+    <string name="servers_menu_edit">编辑</string>
+    <string name="servers_menu_remove">移除</string>
+    <string name="servers_menu_refresh">刷新</string>
+    <string name="servers_add_title">添加服务器</string>
+    <string name="servers_select_title">选择服务器</string>
+    <string name="servers_remove_title">远程服务器</string>
+    <string name="servers_found">已发现的服务器</string>
+    <string name="servers_saved">已保存的服务器</string>
+
+    <!-- Server -->
+    <string name="server_type">类型</string>
+    <string name="server_tcp_name">显示名称</string>
+    <string name="server_tcp_name_hint">未命名</string>
+    <string name="server_tcp_host">主机 IP / 地址</string>
+    <string name="server_tcp_port">TCP 端口</string>
+    <string name="server_udp_port">UDP 端口</string>
+    <string name="server_tcp_mac">MAC</string>
+    <string name="server_tcp_mac_hint">可选</string>
+    <string name="server_bt">蓝牙主机</string>
+    <string name="server_login">登录（如果需要）</string>
+    <string name="server_password">密码</string>
+    <string name="server_password_hint">如果需要</string>
+    <string name="server_username">用户名</string>
+    <string name="server_username_hint">如果需要</string>
+    <string name="server_wan">WAN IP</string>
+    <string name="server_wan_hint">用于广域网唤醒</string>
+
+    <!-- IR -->
+    <string name="ir_no_devices">在首选项中选择一个默认 IR 设备。</string>
+    <string name="ir_loading">正在加载…</string>
+    <string name="ir_learn_code">正在学习代码…</string>
+    <string name="ir_test_code">正在测试代码…</string>
+    <string name="ir_share_code">正在分享代码…</string>
+    <string name="ir_learn_lg">按下学习按钮。然后在距离你设备上的 IR 接收器大约 10 厘米处按住遥控器，然后按下你要记录的按钮。</string>
+    <string name="ir_learn_htc">按下学习按钮。然后在距离你设备上的 IR 接收器大约 5 厘米处按住遥控器，然后按下你要记录的按钮。</string>
+    <string name="ir_learn_keene">按下学习按钮。然后在距离你设备上的 IR 接收器大约 4 厘米处按住遥控器，然后按下你要记录的按钮。</string>
+    <string name="ir_learn_not_supported">你的设备不支持 IR 学习。</string>
+    <string name="ir_paste">请在 www.remotecentral.com 查找 Pronto 代码或在 irdatabase.globalcache.com 查找 Global Cache 代码。 </string>
+    <string name="ir_error">IR 代码有错误</string>
+
+    <!-- Remotes -->
+    <string name="remotes_none">无可用遥控器。</string>
+    <string name="remotes_none_check">无可用遥控器。\n\n请检查你的服务器安装。</string>
+    <string name="remotes_none_added">未添加任何遥控器。</string>
+
+    <!-- Remote -->
+    <string name="remote_not_purchased">未购买遥控器。</string>
+    <string name="remote_not_found">未找到遥控器。</string>
+    <string name="remote_layout_error">无法加载布局。</string>
+
+    <!-- Remote Menu -->
+    <string name="remote_menu_keyboard">键盘</string>
+    <string name="remote_menu_mouse">鼠标</string>
+    <string name="remote_menu_media">媒体</string>
+    <string name="remote_menu_launch">启动</string>
+    <string name="remote_menu_share">分享</string>
+    <string name="remote_menu_edit">编辑</string>
+    <string name="remote_menu_voice">语音</string>
+    <string name="remote_menu_switch">切换</string>
+    <string name="remote_menu_server">服务器</string>
+    <string name="remote_menu_refresh">刷新</string>
+    <string name="remote_menu_remove">移除</string>
+
+    <!-- Select Remotes Screen -->
+    <string name="select_select">全选</string>
+    <string name="select_deselect">取消全选</string>
+    <string name="select_recommended">已推荐</string>
+    <string name="select_not_installed">未安装</string>
+    <string name="select_query_hint">搜索遥控器</string>
+
+    <!-- Sync -->
+    <string name="sync_unable">无法同步。</string>
+    <string name="sync_wait">正在同步，请稍候…</string>
+    <string name="sync_required">你尚未同步任何遥控器。请务必首先启动 Unified Remote 并加载遥控器。</string>
+    <string name="sync_required_title">无遥控器</string>
+
+    <!-- WOL -->
+    <string name="wol_sent">局域网唤醒已发送。</string>
+    <string name="wol_failed">无法执行局域网唤醒。请务必在服务器设置中指定 MAC 地址。</string>
+    <string name="wol_requires_tcp">局域网唤醒需要活动的 TCP 连接。</string>
+
+    <!-- Mouse -->
+    <string name="mouse_touch_left">通过触摸来模拟鼠标移动：\n\n单指点按可模拟左键单击。\n\n</string>
+    <string name="mouse_touch_multi">双指点按，可模拟右击单击。\n\n双指拖动，可完成滚动操作。</string>
+    <string name="mouse_touch_pinch">通过捏合，可进行缩放。\n\n</string>
+    <string name="mouse_touch_drag">长按并移动，即可进行拖动。\n\n点按一次，即可结束拖动。</string>
+
+    <!-- Share -->
+    <string name="share_qr_open">打开图像 URL</string>
+    <string name="share_browse_title">浏览</string>
+    <string name="share_copied_to_clipboard">复制到剪贴板</string>
+
+    <!-- NFC -->
+    <string name="nfc_unavailable_or_disabled">NFC 不可用或已禁用。</string>
+    <string name="nfc_write">写入 NFC 标签…</string>
+    <string name="nfc_touch">触摸标签以写入</string>
+    <string name="nfc_wrote">向标签写入消息。</string>
+
+    <!-- Widgets -->
+    <string name="widget_config_layout">布局</string>
+    <string name="widget_config_properties">属性</string>
+    <string name="widget_config_import">导入</string>
+    <string name="widget_config_export">导出</string>
+    <string name="widget_config_editable">在构件布局中显示“编辑”按钮。</string>
+    <string name="widget_config_none_added">你尚未添加任何构件。当你在主屏幕放置了 Unified Remote 构件后，你可以在此处编辑它。</string>
+    <string name="widget_config_new">新建构件</string>
+    <string name="widget_config_edit_widget">编辑构件</string>
+    <string name="widget_config_load_error">无法加载构件</string>
+    <string name="widget_select_icon">选择图标</string>
+    <string name="widget_select_color">选择颜色</string>
+
+    <!-- Quick Actions -->
+    <string name="quick_actions_ticker">你的快速操作正在执行…</string>
+    <string name="quick_actions_remove">长按按钮即可删除。</string>
+    <string name="quick_actions_enable">启用快速操作通知。</string>
+    <string name="quick_actions_configure">配置/禁用快速操作</string>
+    <string name="quick_actions_edit">在通知中显示编辑按钮</string>
+
+    <!-- Requires -->
+    <string name="requires_2_2">需要 2.2 版或更高版本…</string>
+    <string name="requires_2_3">需要 2.3 版或更高版本…</string>
+    <string name="requires_3_0">需要 3.0 版或更高版本…</string>
+    <string name="requires_newer_server">需要更新的服务器。\n\n请更新！</string>
+
+    <!-- Arrays -->
+    <string-array name="pref_theme_entries">
+        <item>浅色</item>
+        <item>深色</item>
+    </string-array>
+    <string-array name="pref_remotes_entries">
+        <item>列表</item>
+        <item>网格</item>
+    </string-array>
+    <string-array name="pref_client_entries">
+        <item>WiFi/数据连接</item>
+        <item>蓝牙</item>
+    </string-array>
+    <string-array name="pref_orientation_entries">
+        <item>无</item>
+        <item>横向</item>
+        <item>纵向</item>
+    </string-array>
+    <string-array name="diag_server_scan_entries">
+        <item>自动</item>
+        <item>手动</item>
+    </string-array>
+    <string-array name="uri_target_entries">
+        <item>选择目标</item>
+        <item>遥控器</item>
+    </string-array>
+    <string-array name="share_entries">
+        <item>URI</item>
+        <item>NFC</item>
+        <item>QR</item>
+    </string-array>
+    <string-array name="pref_default_remotes_list">
+        <item>所有遥控器</item>
+        <item>最常使用的遥控器</item>
+        <item>最近使用的遥控器</item>
+        <item>最近操作</item>
+    </string-array>
+    <string-array name="pref_mouse_throttle_entries">
+        <item>快速网络（无限制）</item>
+        <item>中速网络（高限制）</item>
+        <item>低速网络（低限制）</item>
+    </string-array>
+
+</resources>
