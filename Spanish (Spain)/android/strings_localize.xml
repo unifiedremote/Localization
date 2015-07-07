@@ -12,7 +12,7 @@
     <string name="title_preferences">Preferencias</string>
     <string name="title_diagnostics">Diagnóstico</string>
     <string name="title_servers">Servidores</string>
-    <string name="title_scan">Escaneando...</string>
+    <string name="title_scan">Escaneando…</string>
     <string name="title_server">Servidor</string>
     <string name="title_mouse_preferences">Preferencias del ratón</string>
     <string name="title_input">Entrada básica</string>
@@ -42,8 +42,8 @@
     <string name="license_description_full">Todas las funciones están bloqueadas.</string>
     <string name="license_description_eval">Bloqueada solo por tiempo limitado.</string>
     <string name="license_description_unlocked">Todas las funciones están desbloqueadas.</string>
-    <string name="license_description_locked">Licencia bloqueada. Toque para volver a comprobar...</string>
-    <string name="license_description_checking">Comprobando licencia...</string>
+    <string name="license_description_locked">Licencia bloqueada. Toque para volver a comprobar…</string>
+    <string name="license_description_checking">Comprobando licencia…</string>
     <string name="license_description_error">Error desconocido.</string>
 
     <!-- Status Screen -->
@@ -99,22 +99,22 @@
     <string name="welcome_help">La biblioteca de guías de nuestro sitio web ofrece información útil e instrucciones paso a paso para aprender a usar varias funciones de Unified Remote.\nUse los enlaces de más abajo para acceder a varias guías muy consultadas. También puede acceder a la página de guías desde la sección de Ayuda del panel de la app.\n\n\n\n• <a href="http://www.unifiedremote.com/guide/ir-actions">Acciones IR</a> (new!)\n\n• <a href="http://www.unifiedremote.com/guide/quick-actions">Acciones rápidas</a>\n\n• <a href="http://www.unifiedremote.com/guide/getting-started-with-nfc">Acciones NFC</a>\n\n• <a href="http://www.unifiedremote.com/guide/voice-actions">Acciones de voz</a>\n\n• <a href="http://www.unifiedremote.com/guide/android-widgets">Widgets</a>
     </string>
     <string name="welcome_get_full">Conseguir versión completa</string>
-    <string name="welcome_scanning">Escaneando...</string>
+    <string name="welcome_scanning">Escaneando…</string>
     <string name="welcome_add_manually">Añadir servidor manualmente</string>
     <string name="welcome_news_title">Novedades</string>
     <string name="welcome_full_title">Versión completa</string>
-    <string name="welcome_full">&#10003; Pago unico
-\n&#10003; Accederá a todas las futuras actualizaciones
-\n&#10003; No hay anuncios
-\n&#10003; Espejo pantalla
-\n&#10003; Teclado extendido
-\n&#10003; Más de 70 mandos
-\n&#10003; Android Wear
-\n&#10003; Widgets &amp; Acciones rápidas
-\n&#10003; Acciones por voz
-\n&#10003; Mandos personalizados
-\n&#10003; Acciones IR
-\n&#10003; Acciones NFC
+    <string name="welcome_full">✓ Pago único
+\n✓ Accederá a todas las futuras actualizaciones
+\n✓ No hay anuncios
+\n✓ Espejo pantalla
+\n✓ Teclado extendido
+\n✓ Más de 70 mandos
+\n✓ Android Wear
+\n✓ Widgets &amp; Acciones rápidas
+\n✓ Acciones por voz
+\n✓ Mandos personalizados
+\n✓ Acciones IR
+\n✓ Acciones NFC
     </string>
 
     <!-- Home / Menu -->
@@ -134,6 +134,9 @@
     <string name="menu_left_customize">Personalizar</string>
     <string name="menu_left_servers">Servidores guardados</string>
     <string name="menu_left_servers_none">Sin servidores añadidos</string>
+    <string name="menu_left_other">Otros</string>
+    <string name="menu_left_share">Compartir</string>
+    <string name="menu_left_rate">Puntuar</string>
 
     <!-- Buttons -->
     <string name="button_ok">OK</string>
@@ -268,18 +271,18 @@
     <!-- Misc -->
     <string name="bt_unnamed">&lt;Sin nombre&gt;</string>
     <string name="more_remotes_title">Versión completa</string>
-    <string name="more_remotes_description">Conseguir más funciones...</string>
+    <string name="more_remotes_description">Conseguir más funciones…</string>
     <string name="locked_remotes_title">Bloqueado</string>
-    <string name="locked_remotes_description">Hay mandos bloqueados...</string>
-    <string name="loading">Cargando...</string>
-    <string name="updating">Actualizando...</string>
-    <string name="syncing">Sincronizando...</string>
-    <string name="retrying">Reintentando...</string>
+    <string name="locked_remotes_description">Hay mandos bloqueados…</string>
+    <string name="loading">Cargando…</string>
+    <string name="updating">Actualizando…</string>
+    <string name="syncing">Sincronizando…</string>
+    <string name="retrying">Reintentando…</string>
     <string name="full_version_only">Solo en versión completa</string>
     <string name="uri">URI</string>
     <string name="dark">Oscuro</string>
     <string name="light">Claro</string>
-    <string name="connecting_to">Conectando a %1$s...</string>
+    <string name="connecting_to">Conectando a %1$s…</string>
     <string name="changes_not_saved">No se guardarán los cambios que haya realizado. ¿Seguro que quiere continuar?</string>
 
     <!-- Notifications -->
@@ -287,7 +290,7 @@
 
     <!-- Connection Status -->
     <string name="conn_status_connected">Conectado</string>
-    <string name="conn_status_connecting">Conectando...</string>
+    <string name="conn_status_connecting">Conectando…</string>
     <string name="conn_status_initial">Inicial</string>
     <string name="conn_status_no_connectivity">Sin conectividad</string>
     <string name="conn_status_disconnected">Desconectado</string>
@@ -301,14 +304,14 @@
     <string name="conn_error_unknown_connection">Conexión desconocida.</string>
     <string name="conn_error_version_mismatch">Incompatibilidad de versiones.</string>
     <string name="conn_error_auth_failed">Error de autenticación.</string>
-    <string name="conn_error_retrying">Intentando volver a conectar...</string>
+    <string name="conn_error_retrying">Intentando volver a conectar…</string>
     <string name="conn_error_bt_no_paired">No ha vinculado ningún dispositivo por Bluetooth.</string>
     <string name="conn_error_bt_no_selected">Debe seleccionar un dispositivo con Bluetooth.</string>
     <string name="conn_error_service_stopped">Servicio detenido</string>
 
     <!-- Servers -->
     <string name="servers_none">No se han añadido servidores.</string>
-    <string name="servers_searching">Buscando servidores...</string>
+    <string name="servers_searching">Buscando servidores…</string>
     <string name="servers_menu_select">Seleccionar</string>
     <string name="servers_menu_edit">Editar</string>
     <string name="servers_menu_remove">Eliminar</string>
@@ -337,10 +340,10 @@
 
     <!-- IR -->
     <string name="ir_no_devices">No se encontraron dispositivos de IR.</string>
-    <string name="ir_loading">Cargando...</string>
-    <string name="ir_learn_code">Aprender código...</string>
-    <string name="ir_test_code">Probar código...</string>
-    <string name="ir_share_code">Compartir código...</string>
+    <string name="ir_loading">Cargando…</string>
+    <string name="ir_learn_code">Aprender código…</string>
+    <string name="ir_test_code">Probar código…</string>
+    <string name="ir_share_code">Compartir código…</string>
     <string name="ir_learn_htc">Toque el botón de aprendizaje. Luego mantenga el mando a distancia a unos 5 cm del receptor de IR de su dispositivo y toque el botón que quiera grabar.</string>
     <string name="ir_learn_keene">Toque el botón de aprendizaje. Luego mantenga el mando a distancia a unos 4 cm del receptor de IR de su dispositivo y toque el botón que quiera grabar.</string>
     <string name="ir_learn_not_supported">Su dispositivo no es compatible con aprendizaje de IR.</string>
@@ -372,7 +375,7 @@
 
     <!-- Sync -->
     <string name="sync_unable">No se pudo sincronizar.</string>
-    <string name="sync_wait">Espere mientras se sincroniza...</string>
+    <string name="sync_wait">Espere mientras se sincroniza…</string>
     <string name="sync_required">Aún no tiene ningún mando sincronizado. Abra Unified Remote y cargue los mandos por primera vez.</string>
     <string name="sync_required_title">Sin mandos</string>
 
@@ -394,7 +397,7 @@
 
     <!-- NFC -->
     <string name="nfc_unavailable_or_disabled">La NFC está desactivada o no disponible.</string>
-    <string name="nfc_write">Escribir en etiqueta NFC...</string>
+    <string name="nfc_write">Escribir en etiqueta NFC…</string>
     <string name="nfc_touch">Tocar la etiqueta para escribir</string>
     <string name="nfc_wrote">Mensaje escrito en etiqueta.</string>
 
@@ -412,16 +415,16 @@
     <string name="widget_select_color">Seleccionar color</string>
 
     <!-- Quick Actions -->
-    <string name="quick_actions_ticker">Sus acciones rápidas están funcionando...</string>
+    <string name="quick_actions_ticker">Sus acciones rápidas están funcionando…</string>
     <string name="quick_actions_remove">Dé un toque largo en un botón para eliminarlo.</string>
     <string name="quick_actions_enable">Activa la notificación de acciones rápidas</string>
     <string name="quick_actions_configure">Configurar/Desactivar acciones rápidas</string>
     <string name="quick_actions_edit">Muestra el botón de edición en la notificación.</string>
 
     <!-- Requires -->
-    <string name="requires_2_2">Se necesita la versión 2.2 o superior...</string>
-    <string name="requires_2_3">Se necesita la versión 2.3 o superior...</string>
-    <string name="requires_3_0">Se necesita la versión 3.0 o superior...</string>
+    <string name="requires_2_2">Se necesita la versión 2.2 o superior…</string>
+    <string name="requires_2_3">Se necesita la versión 2.3 o superior…</string>
+    <string name="requires_3_0">Se necesita la versión 3.0 o superior…</string>
     <string name="requires_newer_server">Se necesita un servidor más reciente.\n\n¡Actualice!</string>
 
     <!-- Arrays -->
