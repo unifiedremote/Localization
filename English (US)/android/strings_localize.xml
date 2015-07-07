@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <!-- Custom Remote Ask -->
+    <string name="custom_ask_title">Free T-shirt!</string>
+    <string name="custom_ask_has_meassage">It looks like you use custom remotes. Did you know that you can get a free t-shirt if you share a custom remote on the community?</string>
+    <string name="custom_ask_not_meassage">Did you know that there is a community where it is possible to find and share custom remotes? If you submit one yourself you can get a free t-shirt!</string>
+
     <!-- Rate -->
     <string name="rate_message">You\'ve used this app for a while now. Would you give it 5 stars? Don\'t worry, we will only ask you once.</string>
     <string name="rate_help">Feel free to give us feedback via our web site, Facebook or Twitter. Thanks!</string>
@@ -153,18 +158,18 @@
     <string name="welcome_add_manually">Add server manually</string>
     <string name="welcome_news_title">What\'s New</string>
     <string name="welcome_full_title">Full Version</string>
-    <string name="welcome_full">&#10003; One-time upgrade
-\n&#10003; Includes all future updates
-\n&#10003; No ads
-\n&#10003; Screen mirroring
-\n&#10003; Extended keyboard
-\n&#10003; 70+ remotes
-\n&#10003; Android Wear
-\n&#10003; Widgets &amp; Quick Actions
-\n&#10003; Voice commands
-\n&#10003; Custom remotes
-\n&#10003; IR actions
-\n&#10003; NFC actions
+    <string name="welcome_full">✓ One-time upgrade
+\n✓; Includes all future updates
+\n✓ No ads
+\n✓ Screen mirroring
+\n✓ Extended keyboard
+\n✓ 70+ remotes
+\n✓ Android Wear
+\n✓ Widgets &amp; Quick Actions
+\n✓ Voice commands
+\n✓ Custom remotes
+\n✓ IR actions
+\n✓ NFC actions
     </string>
 
     <!-- Home / Menu -->
@@ -183,6 +188,9 @@
     <string name="menu_left_customize">Customize</string>
     <string name="menu_left_servers">Saved Servers</string>
     <string name="menu_left_servers_none">No servers added</string>
+    <string name="menu_left_other">Other</string>
+    <string name="menu_left_share">Tell Friends</string>
+    <string name="menu_left_rate">Rate App</string>
 
     <!-- Buttons -->
     <string name="button_ok">OK</string>
@@ -206,6 +214,7 @@
     <string name="button_send">Send</string>
     <string name="button_search">Search</string>
     <string name="button_select">Select</string>
+    <string name="button_learnmore">Learn More</string>
 
     <!-- Inhouse Ads -->
     <string name="inhouse_remove"><u>Upgrade to remove these messages</u></string>
