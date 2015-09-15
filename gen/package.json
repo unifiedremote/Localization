@@ -1,0 +1,13 @@
+{
+  "name": "locgen",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "dependencies": {
+    "async": "^1.4.2",
+    "lodash": "^3.10.1",
+    "shelljs": "^0.5.3"
+  }
+}
