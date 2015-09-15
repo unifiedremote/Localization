@@ -15,7 +15,7 @@ Hauptfunktionen
 • Steuern Sie andere Geräte wie Raspberry Pi und Arduino Yún. 
 • 18 Fernbedienungen gratis
 
-#BEGIN_FULL_FEATURES
+<% if (ANDROID) { %>
 In der Vollversion:
 • Über 90 Fernbedienungen
 • Widgets und Schnelle Aktionen
@@ -23,15 +23,15 @@ In der Vollversion:
 • Eigene Fernbedienungen
 • IR-Aktionen
 • NFC-Aktionen
-#END_FULL_FEATURES
+<% } %>
 
-#BEGIN_IAP
+<% if (IOS) { %>
 Sie können sowohl die Unified-Remote-App als auch den Server kostenlos herunterladen und nutzen. Zusätzliche Funktionen und Fernbedienungen sind per In-App-Kauf erhältlich.
 
 • Sie erhalten zusätzliche Fernbedienungen für 0,99 USD. 
 • Sie erhalten zusätzliche Funktionen für 0,99 USD. 
 • Die Vollversion von Unified Remote mit allen Funktionen und Fernbedienungen kostet 3,99 USD.
-#END_IAP
+<% } %>
 
 <b>Essentials</b>
 Mouse, Keyboard, Screen, Volume, and more.
@@ -62,4 +62,6 @@ https://www.unifiedremote.com/remotes
 
 Hinweis: Einige Fernbedienungen sind nur für bestimmte Betriebssysteme verfügbar.
 
-#PERMISSIONS
+<% if (ANDROID) { %>
+<%= PERMISSIONS %>
+<% } %>

@@ -1,0 +1,11 @@
+<b>Permissions</b>
+• read phone status and identity: for auto-pause.
+• control NFC: for NFC actions.
+• full network access: for server connection.
+• view network connections: for server connection.
+• view Wi-Fi connections: for server connection.
+• pair with Bluetooth devices: for server connection.
+• control vibration: for optional haptic feedback.
+• prevent phone from sleeping: for optional wake-lock.
+• transmit infrared: for IR remote control.
+• install shortcuts: for launcher shortcuts.

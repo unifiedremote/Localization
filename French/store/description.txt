@@ -15,7 +15,7 @@ Fonctions clés :
 • Commande d'autres appareils dont le Raspberry Pi et l'Arduino Yún. 
 • 18 télécommandes gratuites
 
-#BEGIN_FULL_FEATURES
+<% if (ANDROID) { %>
 Caractéristiques de la version complète :
 • + de 90 télécommandes
 • Widgets et Actions rapides
@@ -23,15 +23,15 @@ Caractéristiques de la version complète :
 • Télécommandes personnalisées
 • Actions IR
 • Actions NFC
-#END_FULL_FEATURES
+<% } %>
 
-#BEGIN_IAP
+<% if (IOS) { %>
 L'appli et le serveur de télécommande unifiée sont téléchargeables et utilisables gratuitement. Des fonctions et des télécommandes supplémentaires sont disponibles via les achats in-app.
 
 • Achetez des télécommandes supplémentaires pour 0,99 $ 
 • Achetez des fonctions supplémentaires pour 0,99 $ 
 • Télécommande unifiée complète avec toutes les fonctions et télécommandes pour 3,99 $
-#END_IAP
+<% } %>
 
 <b>Essentials</b>
 Mouse, Keyboard, Screen, Volume, and more.
@@ -62,4 +62,6 @@ https://www.unifiedremote.com/remotes
 
 Notez que certaines télécommandes ne sont disponibles que pour certains systèmes d'exploitation.
 
-#PERMISSIONS
+<% if (ANDROID) { %>
+<%= PERMISSIONS %>
+<% } %>

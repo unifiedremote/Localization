@@ -1,4 +1,4 @@
-The one-and-only remote control app for your computer. Turns your device into a WiFi or Bluetooth universal remote control for Windows PC, Mac and Linux. Be lazy, you deserve it! Preloaded with support for 90+ programs including moue & keyboard, media players, presentations, screen mirroring, power control, file manager, terminal, and much more.
+﻿The one-and-only remote control app for your computer. Turns your device into a WiFi or Bluetooth universal remote control for Windows PC, Mac and Linux. Be lazy, you deserve it! Preloaded with support for 90+ programs including moue & keyboard, media players, presentations, screen mirroring, power control, file manager, terminal, and much more.
 
 Server: https://www.unifiedremote.com
 
@@ -15,7 +15,7 @@ Server: https://www.unifiedremote.com
 • Control other devices including Raspberry Pi and Arduino Yún. 
 • 18 free remotes
 
-#BEGIN_FULL_FEATURES
+<% if (ANDROID) { %>
 <b>Full Version Features</b>
 • 90+ remotes
 • Custom Remotes
@@ -26,15 +26,15 @@ Server: https://www.unifiedremote.com
 • NFC actions
 • Android Wear (Quick Actions, Voice & Mouse)
 • No ads
-#END_FULL_FEATURES
+<% } %>
 
-#BEGIN_IAP
+<% if (IOS) { %>
 Both the Unified Remote app and server are free to download and use. Additional features and remotes are available through In-App Purchases.
 
 • Unified Remote Full with all features and remotes for $3.99 
 • Purchase additional remotes for $0.99 
 • Purchase additional features for $0.99 
-#END_IAP
+<% } %>
 
 <b>Essentials</b>
 Mouse, Keyboard, Screen, Volume, and more.
@@ -65,4 +65,6 @@ https://www.unifiedremote.com/remotes
 
 Note that some remotes are not available for all operating systems.
 
-#PERMISSIONS
+<% if (ANDROID) { %>
+<%= PERMISSIONS %>
+<% } %>

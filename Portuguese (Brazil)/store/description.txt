@@ -15,7 +15,7 @@ Principais recursos:
 • Controle outros dispositivos incluindo Raspberry Pi e Arduino Yún. 
 • 18 controles remotos gratuitos
 
-#BEGIN_FULL_FEATURES
+<% if (ANDROID) { %>
 Recursos da versão completa:
 • Mais de 90 controles remotos
 • Widgets & Atalhos
@@ -23,15 +23,15 @@ Recursos da versão completa:
 • Controles remotos personalizados
 • Ações Infra-vermelho
 • Açoes NFC
-#END_FULL_FEATURES
+<% } %>
 
-#BEGIN_IAP
+<% if (IOS) { %>
 Tanto o aplicativo Unified Remote quanto o servidor são gratuitos baixar e usar. Mais recursos e controles remotos adicionais estão disponíveis através de compras no aplicativo.
 
 • Compre controles remotos adicionais por $0,99 
 • Compre recursos adicionais por $0,99 
 • Unified Remote completo com todos os recursos e controles remotos por $3,99
-#END_IAP
+<% } %>
 
 <b>Essentials</b>
 Mouse, Keyboard, Screen, Volume, and more.
@@ -62,4 +62,6 @@ https://www.unifiedremote.com/remotes
 
 Observe que alguns controles remotos estão disponíveis apenas em determinados sistemas operacionais.
 
-#PERMISSIONS
+<% if (ANDROID) { %>
+<%= PERMISSIONS %>
+<% } %>

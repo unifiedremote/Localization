@@ -15,7 +15,7 @@ Funciones principales:
 • Control de otros dispositivos como Raspberry Pi y Arduino Yún. 
 • 18 mandos gratuitos
 
-#BEGIN_FULL_FEATURES
+<% if (ANDROID) { %>
 La versión completa incluye:
 • Más de 90 mandos
 • Widgets y acciones rápidas
@@ -23,15 +23,15 @@ La versión completa incluye:
 • Mandos personalizados
 • Acciones IR
 • Acciones NFC
-#END_FULL_FEATURES
+<% } %>
 
-#BEGIN_IAP
+<% if (IOS) { %>
 La descarga y el uso de la app y el servidor de Unified Remote son gratis. Hay funciones y mandos adicionales disponibles como compra integrada.
 
 • Compre mandos adicionales por 0,99 $ 
 • Compre funciones adicionales por 0,99 $ 
 • Unified Remote completo con todas las funciones y mandos por 3,99 $
-#END_IAP
+<% } %>
 
 <b>Essentials</b>
 Mouse, Keyboard, Screen, Volume, and more.
@@ -62,4 +62,6 @@ https://www.unifiedremote.com/remotes
 
 Tenga en cuenta que ciertos mandos solo están disponibles para sistemas operativos concretos.
 
-#PERMISSIONS
+<% if (ANDROID) { %>
+<%= PERMISSIONS %>
+<% } %>

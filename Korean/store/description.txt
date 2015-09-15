@@ -15,7 +15,7 @@
 • 라즈베리 파이와 아두이노 윤 등 다양한 기기 제어 가능. 
 • 18종의 무료 리모컨 포함
 
-#BEGIN_FULL_FEATURES
+<% if (ANDROID) { %>
 정식 버전 기능:
 • 90종 이상의 리모컨
 • 위젯 및 빠른 동작
@@ -23,15 +23,15 @@
 • 리모콘 사용자 설정
 • 적외선 (IR) 연동
 • NFC 연동
-#END_FULL_FEATURES
+<% } %>
 
-#BEGIN_IAP
+<% if (IOS) { %>
 Unified Remote 앱과 서버는 모두 무료 다운로드로 사용하실 수 있습니다. 추가 기능과 리모컨은 ​앱 내 결제를 통해 제공됩니다.
 
 • 추가 리모컨을 $0.99에 구매하세요. 
 • 추가 기능을 $0.99에 구매하세요. 
 • Unified Remote 정식 버전(모든 기능과 리모컨 포함)은 $3.99입니다.
-#END_IAP
+<% } %>
 
 <b>Essentials</b>
 Mouse, Keyboard, Screen, Volume, and more.
@@ -62,4 +62,6 @@ https://www.unifiedremote.com/remotes
 
 주의: 일부 리모컨은 특정 운영 체제에서만 동작합니다.
 
-#PERMISSIONS
+<% if (ANDROID) { %>
+<%= PERMISSIONS %>
+<% } %>

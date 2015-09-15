@@ -15,7 +15,7 @@
 • Raspberry Pi と Arduino Yún を含む他のデバイスをコントロール。 
 • 18 のリモート機能が無料
 
-#BEGIN_FULL_FEATURES
+<% if (ANDROID) { %>
 フルバージョンの機能：
 • 90 以上のリモート機能
 • ウィジェット & クイックアクション
@@ -23,15 +23,15 @@
 • カスタムリモート
 • IR アクション
 • NFC アクション
-#END_FULL_FEATURES
+<% } %>
 
-#BEGIN_IAP
+<% if (IOS) { %>
 Unified Remote アプリとサーバー両方のダウンロードとご利用が無料です。 追加の機能とリモートは、App 内での購入が可能です。
 
 • 追加リモートを $0.99 で購入 
 • 追加機能を $0.99 で購入 
 • 全ての機能とリモートを満載の Unified Remote Full は $3.99
-#END_IAP
+<% } %>
 
 <b>Essentials</b>
 Mouse, Keyboard, Screen, Volume, and more.
@@ -62,4 +62,6 @@ https://www.unifiedremote.com/remotes
 
 一部のリモートは特定のオペレーティングシステムでのみご利可能です。
 
-#PERMISSIONS
+<% if (ANDROID) { %>
+<%= PERMISSIONS %>
+<% } %>

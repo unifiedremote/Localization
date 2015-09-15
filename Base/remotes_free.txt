@@ -1,0 +1,14 @@
+• Basic Input (remote mouse & remote keyboard)
+• File Manager (browse computer files)
+• Keyboard
+• Media (basic media buttons)
+• Power (turn on/off and lock computer)
+• Scroll Wheel
+• Slide Show
+• Spotify
+• Start / Launcher (open programs)
+• Task Manager (switch active program)
+• Windows Media Center
+• Windows Media Player
+• VLC
+• YouTube

@@ -15,7 +15,7 @@ Klicove vlastnosti:
 • Ovlada dalsi zarizeni vcetne Raspberry Pi a Arduino Yún.
 • 18 dalkovych ovladaci zdarma.
 
-#BEGIN_FULL_FEATURES
+<% if (ANDROID) { %>
 Kompletni funkce obsahuji:
 • 90+ dalkovy ovladace
 • Widgets & Quick Actions 
@@ -23,15 +23,15 @@ Kompletni funkce obsahuji:
 • Vlastni dalkove ovladace
 • IR actions
 • NFC actions
-#END_FULL_FEATURES
+<% } %>
 
-#BEGIN_IAP
+<% if (IOS) { %>
 Jak Unified Remote aplikace tak server jsou zdarma na stazeni a pouzivani. Dalsi funkce a dalkove ovladace jsou k dispozici na In-App k zakoupeni.
 
 • Zakoupeni dalsich dalkovych ovladaci za $0.99
 • Zakoupeni dalsich funkci za $0.99
 • Unified Remote Full, kompletni funkce a dalkove ovladace za $3.99
-#END_IAP
+<% } %>
 
 <b>Essentials</b>
 Mouse, Keyboard, Screen, Volume, and more.
@@ -62,4 +62,6 @@ https://www.unifiedremote.com/remotes
 
 Mejte na vedomi ze nektere dalkove ovladace jsou k dispozici pouze pro nektere operacni systemi.
 
-#PERMISSIONS
+<% if (ANDROID) { %>
+<%= PERMISSIONS %>
+<% } %>
