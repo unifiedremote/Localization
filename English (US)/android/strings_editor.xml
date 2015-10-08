@@ -76,7 +76,7 @@
     <string name="editor2_wizard_input">Input</string>
     <string name="editor2_wizard_vibrate">Vibrate</string>
     <string name="editor2_wizard_listen">Listen</string>
-    <string name="editor2_wizard_toast">Message</string>
+    <string name="editor2_wizard_toast">Toast</string>
     <string name="editor2_wizard_toaststring">Message that should be shown</string>
     <string name="editor2_wizard_changeserver">Change Server</string>
     <string name="editor2_wizard_openinapp">Open In App</string>
@@ -92,6 +92,11 @@
     <string name="editor2_wizard_active_server">Active Server</string>
     <string name="editor2_wizard_extra">Extra</string>
     <string name="editor2_wizard_no_title">No Title</string>
+    <string name="editor2_wizard_tasker">Tasker</string>
+    <string name="editor2_wizard_openapp">Open App</string>
+    <string name="editor2_wizard_openactivity">Open Activity</string>
+    <string name="editor2_wizard_broadcast">Send Broadcast</string>
+    <string name="editor2_wizard_uriorurl">Open URI/URL</string>
 
     <!-- Arrays -->
     <string-array name="list_control_types">

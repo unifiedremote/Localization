@@ -1,0 +1,555 @@
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<resources>
+
+    <!-- Custom Remote Ask -->
+    <string name="custom_ask_title">Ingyen poló!</string>
+    <string name="custom_ask_has_meassage">Úgy fest egyedi távlövőt használsz.Tudtad, hogy ingyen polót kaphatsz ha megosztod a közösséggel, hogy egyedi távlövőt használsz?</string>
+    <string name="custom_ask_not_meassage">Tudtad, hogy van olyan közösség ahol találhatsz és megoszthatsz egyedi távlövőt? Ha megteszed ingyen polót kaphatsz!</string>
+
+    <!-- Rate -->
+    <string name="rate_message">Egy jóideje már használod ezt a távlövő applikációt. Adnál 5 csillagot, ha tetszik? Egyszer kérünk meg csak rá .</string>
+    <string name="rate_help">Várjuk a véleményeteket, ötleteiteket akár honlapunkon vagy Facebookon, de még Twitteren is!</string>
+
+    <!-- Titles -->
+    <string name="title_welcome">Szívélyes üdvözlet és mosolygás.</string>
+    <string name="title_remotes">Távlövők</string>
+    <string name="title_remote">Távlövő</string>
+    <string name="title_preferences">Preferenciák</string>
+    <string name="title_servers">Szerverek</string>
+    <string name="title_scan">Szkennelés</string>
+    <string name="title_server">Szerver</string>
+    <string name="title_mouse_preferences">Egér preferenciák</string>
+    <string name="title_input">Alap Input</string>
+    <string name="title_uri">URI</string>
+    <string name="title_share_uri">URI Builder</string>
+    <string name="title_share_nfc">Írj az NFC-nek</string>
+    <string name="title_share_qr">Oszd meg QR-al</string>
+    <string name="title_widget_config">Vezérlő </string>
+    <string name="title_quick_actions">Gyors Akciók</string>
+    <string name="title_ir_select">Kiválaszt az IR eszközt.</string>
+    <string name="title_ir_learn">IR kód bevitel.</string>
+    <string name="title_upgrade">Frissítés</string>
+    <string name="title_all_remotes">Minden</string>
+    <string name="title_most_used_remotes">Legtöbbet használt</string>
+    <string name="title_recent_remotes">Mostanában</string>
+    <string name="title_recent_actions">Legutóbbi mozdulatok.</string>
+
+    <!-- License Status -->
+    <string name="license_status_free">Ingyenes verzió</string>
+    <string name="license_status_full">Teljes verzió</string>
+    <string name="license_status_eval">Érékelési verzió</string>
+    <string name="license_status_unlocked">Teljes verzió</string>
+    <string name="license_status_locked">Licensz zárolva</string>
+
+    <!-- License Description -->
+    <string name="license_description_free">Licensz az ingyenes verzióhoz.</string>
+    <string name="license_description_full">Minden funkció elérhető!</string>
+    <string name="license_description_eval">Csak korlátozott ideig elérhető funkciók.</string>
+    <string name="license_description_unlocked">Minden funkció elérhető.</string>
+    <string name="license_description_locked">Licensz blokkolva. Koppints újra a megtekintéshez…</string>
+    <string name="license_description_checking">Licensz ellenörzése…</string>
+    <string name="license_description_error">Ismeretlen hiba avagy Deus ex machina.</string>
+
+    <!-- Status Screen -->
+    <string name="status_general">Általános</string>
+    <string name="status_connection">Csatlakozás</string>
+    <string name="status_misc">Misc</string>
+    <string name="status_version">Verzió</string>
+    <string name="status_time">Idő</string>
+    <string name="status_host">Host</string>
+    <string name="status_status">Státusz</string>
+    <string name="status_authenticated">Hitelesítve</string>
+    <string name="status_encrypted">Titkosítva</string>
+    <string name="status_fast">Gyors csatlakozás.</string>
+    <string name="status_reset">Újraindít</string>
+    <string name="status_reset_info">A bemutatkozást lássuk mégegyszer.</string>
+    <string name="status_last_error">Utolsó hiba</string>
+    <string name="status_clear_cache">Cache ürítése </string>
+    <string name="status_clear_cache_info">Az összes helyi cache ürítése.</string>
+    <string name="status_cache_size">Cache méret</string>
+    <string name="status_connect">Eröltetett kapcsolódás</string>
+    <string name="status_connect_info">A kliens kényszerítése csatlakozásra.</string>
+    <string name="status_disconnect">Eröltetett szétválás (nem Monica Beluccitol)</string>
+    <string name="status_disconnect_info">Kliens kényszerítése a leválásra.</string>
+    <string name="status_yes">Igen</string>
+    <string name="status_no">Nem</string>
+    <string name="status_compat">Kompatibilitási mód</string>
+    <string name="status_platform">Szerver Platform</string>
+    <string name="status_open_source">Nyitott forrású licenszek</string>
+    <string name="status_open_source_info">Licensz leírás a nyitott forrású szoftverhez.</string>
+
+    <!-- Evaluation -->
+    <string name="eval_expired">Tesztidőszak lejárt </string>
+    <string name="eval_expired_message">A tesztidőszak ehhez a kiadáshoz lejárt. Mostantól csak az ingyenes funkciók lesznek elérhetőek. Lépj kapcsolatba velünk a www.unifiedremote.com -on amennyiben szeretnél egy újabb teszt verziót.</string>
+
+
+    <!-- Shortcut -->
+    <string name="shortcut_select">Unified Remote Shortcut</string>
+    <string name="shortcut_title">Válassz távlövőt.</string>
+
+    <!-- Coach -->
+    <string name="coach_navigate">Csúsztass egyet balról az irányításhoz.</string>
+    <string name="coach_navigate_tablet">Tablet fekvése blokkolható a prefenciákban.</string>
+    <string name="coach_quickswitch">Csúsztass jobbról a gyors kapcsolo aktiválásához.</string>
+    <string name="coach_gotit">Got It!</string>
+
+    <!-- Welcome -->
+    <string name="welcome2_login_title">Unified Remote</string>
+    <string name="welcome2_login_text">Bejelentkezés és regisztráció megkönnyít mindent, kezd el a Unified Remote-tal!</string>
+    <string name="welcome2_login_google">Bejelentkezés Google-al</string>
+    <string name="welcome2_login_email">Bejelentkezés emaillel</string>
+    <string name="welcome2_login_skip">Ezt most hagyjuk ki.</string>
+
+    <string name="welcome2_email">Email</string>
+    <string name="welcome2_email_continue">Folytatás</string>
+    <string name="welcome2_password">Jelszó</string>
+    <string name="welcome2_create_account">Fiók létrehozása.</string>
+
+    <!-- Welcome - Network -->
+    <string name="welcome2_network_title">WiFi / Bluetooth</string>
+    <string name="welcome2_network_continue">Folytatás</string>
+    <string name="welcome2_network_enable_data">Adat engedélyeszése</string>
+    <string name="welcome2_network_enable_data_text">Mobil adatforgalomhoz bizonyosodj meg arról, hogy a szervernél engedélyezve van a külső kapcsolat.</string>
+    <string name="welcome2_network_enable_bluetooth">Bluetooth engedélyezése</string>
+    <string name="welcome2_network_enable_bluetooth_text">Bluetooth kapcsolathoz ellenőrizd, hogy a készülékek párosítva vannak.</string>
+    <string name="welcome2_network_enable_wifi">WiFi engedélyezése</string>
+    <string name="welcome2_network_enable_wifi_text">Wifi kapcsolathoz bizonyosodj meg arról, hogy ugyanazon a hálózaton vannak a készülékek. </string>
+
+    <!-- Welcome - Install -->
+    <string name="welcome2_install_title">Install Server</string>
+    <string name="welcome2_install_text">Na haladjunk és install\nUnified Remote Server\non a gépeden.</string>
+    <string name="welcome2_install_check_inbox">Nézd meg a bejövő üzeneteket.</string>
+    <string name="welcome2_install_instructions">Instrukciók elküldve:</string>
+    <string name="welcome2_install_installed">Szerver installálva.</string>
+    <string name="welcome2_install_later">Installáció később</string>
+    <string name="welcome2_install_download">Letöltés elérhető:</string>
+    <string name="welcome2_install_url">www.unifiedremote.com</string>
+
+    <!-- Welcome - Scan -->
+    <string name="welcome2_scan_text">Computer keresése…</string>
+
+    <!-- Welcome - Trouble -->
+    <string name="welcome2_trouble_title">Hibakeresés</string>
+    <string name="welcome2_trouble_wifi">Wifi esetében bizonosodj meg arról, hogy ugyanazon a hálozaton vagy, mint a számítógéped.</string>
+    <string name="welcome2_trouble_bluetooth"> Bluetooth kapcsolathoz ellenőrizd, hogy a készülékek párosítva vannak.</string>
+    <string name="welcome2_trouble_data"> Mobil adathoz bizonyosodj meg arról, hogy a szervernél engedélyezve van a külső kapcsolat.</string>
+    <string name="welcome2_trouble_help_url">www.unifiedremote.com/help</string>
+    <string name="welcome2_trouble_try_again">Próbáld újra</string>
+    <string name="welcome2_trouble_continue">Mindenképp folytassuk</string>
+
+    <!-- Welcome - Done -->
+    <string name="welcome2_done_connected_to">Csatlakoztatva</string>
+    <string name="welcome2_done_get_started">Kezdjük el!</string>
+    <string name="welcome2_done_not_connected">Nincs csatlakoztatva.</string>
+    <string name="welcome2_done_no_server">Nincs szerver</string>
+    <string name="welcome2_done_continue"> Mindenképp folytassuk </string>
+
+    <!-- Welcome (old) -->
+    <string name="welcome_login_title">Belépés</string>
+    <string name="welcome_login_skip">Belépés átlépése</string>
+    <string name="welcome_first">Először installáld a\n<b>Unified Remote Server</b>\na számítógépeden.\n\nDownload available at:\n<b>www.unifiedremote.com</b></string>
+    <string name="welcome_update">Kérlek frissítsd a legújabb\n<b>Unified Remote Server</b>\na számítógépedre.\n\nDownload available at:\n<b>www.unifiedremote.com</b></string>
+    <string name="welcome_button">Installáltam az új szervert!</string>
+    <string name="welcome_connect_title"><b>Csatlakozás a szerverhez</b></string>
+    <string name="welcome_connect">Bizoyosodj meg róla, hogy a Unified remote szerver fut a számítógépeden, valamint a windows tűzfal vagy bármilyen más program nem blokkolja azt. Bármilyen ezzel kapcsolatos kérdéssel látogass el weboldalunkra<a href="http://www.unifiedremote.com/support">support</a> page.</string>
+    <string name="welcome_add_server_later">Szerver későbbi hozzáadása.</string>
+    <string name="welcome_no_servers">Nincs szerver Beep Beep.</string>
+    <string name="welcome_get_full">Tudj meg többet…</string>
+    <string name="welcome_scanning">Szkennelés…</string>
+    <string name="welcome_add_manually">Szerver manuális hozzáadása.</string>
+    <string name="welcome_news_title">Friss</string>
+    <string name="welcome_full_title">Teljes Verzió</string>
+    <string name="welcome_full">✓ Egyszeri frissítés
+    \n✓; Minden jövőbeli frissítést tartalmaz
+    \n✓ Nincsenek hirdetések
+    \n✓ Kijelző tükrözés
+    \n✓ Kiterjesztett billentyűzet
+    \n✓ 70+ távlövők
+    \n✓ Android Viselet
+    \n✓ Widgets &amp; Gyors cselekvés
+    \n✓ Hang parancsok
+    \n✓ Egyedi távlövők
+    \n✓ IR
+    \n✓ NFC
+    </string>
+
+    <!-- Home / Menu -->
+    <string name="home_remotes">Távlövők</string>
+    <string name="home_servers">Szerverek</string>
+    <string name="home_preferences">Preferenciák</string>
+    <string name="home_editor">Szerkesztőr</string>
+    <string name="home_widgets">Vezérlők</string>
+    <string name="home_quick_actions">Gyors cselekvés</string>
+    <string name="home_help">Segítség</string>
+    <string name="home_exit">Kilépés</string>
+    <string name="home_upgrade">Frisítés</string>
+    <string name="home_status">Státusz</string>
+
+    <!-- Menus -->
+    <string name="menu_left_customize">Beállít</string>
+    <string name="menu_left_servers">Mentett szerverek </string>
+    <string name="menu_left_servers_none">nincs szerver hozzáadva</string>
+    <string name="menu_left_other">Másik</string>
+    <string name="menu_left_share">Meséld el a barátaidnak</string>
+    <string name="menu_left_rate">Rate App</string>
+
+    <!-- Buttons -->
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Mégsem</string>
+    <string name="button_add">Hozzáad</string>
+    <string name="button_remove">Törlés</string>
+    <string name="button_toggle">Kapcsoló</string>
+    <string name="button_homepage">Website</string>
+    <string name="button_donate">Adakozás</string>
+    <string name="button_close">Zárva</string>
+    <string name="button_save">Mentés</string>
+    <string name="button_prev">Előző</string>
+    <string name="button_next">Következő </string>
+    <string name="button_yes">Igen</string>
+    <string name="button_no">Nem</string>
+    <string name="button_finish">Befejez</string>
+    <string name="button_accept">Elfogad</string>
+    <string name="button_decline">Elutasít</string>
+    <string name="button_rate">Arány</string>
+    <string name="button_edit">Szerkeszt</string>
+    <string name="button_send">Küld</string>
+    <string name="button_search">Keres</string>
+    <string name="button_select">Kiválaszt</string>
+    <string name="button_learnmore">Több info</string>
+
+    <!-- Inhouse Ads -->
+    <string name="inhouse_remove"><u>Frissítés, hogy ezek az üzenetek ne legyen láthatóak többé.</u></string>
+    <string name="inhouse_buy">Teljes verzió megvásárlása</string>
+    <string name="inhouse_skip">Átlép és folytat</string>
+
+    <!-- Preferences (Connection) -->
+    <string name="pref_cat_connection">Kapcsolatok</string>
+    <string name="pref_host_title">Szerver</string>
+    <string name="pref_host_summary">Szerver kapcsolatok menedzselése.</string>
+    <string name="pref_keep_alive_title">Tartsd Ébren</string>
+    <string name="pref_keep_alive_summary">Kapcsolat engedélyezése a háttérben futáshoz.</string>
+    <string name="pref_errors_title">Hibák</string>
+    <string name="pref_errors_summary">Mutasd a hibákat a kapcsolatban.</string>
+    <string name="pref_auto_update_servers_title">Automatikus frissítés szerverekre.</string>
+    <string name="pref_auto_update_servers_summary">Automatikus frissités a szerver IP-jét.</string>
+    <string name="pref_mouse_fast">Gyors Kapcsolodás</string>
+    <string name="pref_mouse_fast_summary">Gyórs kapcsolódás engedélyezése (pl. UDP).</string>
+
+    <!-- Preferences (General) -->
+    <string name="pref_cat_general">Általános</string>
+    <string name="pref_quick_actions_title">Gyors művelet</string>
+    <string name="pref_quick_actions_summary">Gyors műveletek változtatása.</string>
+    <string name="pref_widgets_title">Vezérlők</string>
+    <string name="pref_widgets_summary">Vezérlők menedzselése.</string>
+    <string name="pref_default_remotes_list_title">Távlövők listája</string>
+    <string name="pref_default_remotes_list_summary">Kiválaszt alapértelmezett listát a távlövőkhöz és műveletekhez.</string>
+    <string name="pref_theme_title">Téma</string>
+    <string name="pref_theme_summary">Beállít az alapértelmezett színt.</string>
+    <string name="pref_theme_list_title">Téma választása</string>
+    <string name="pref_remotes_title">Távlövők elrendezése, kinézete.</string>
+    <string name="pref_remotes_summary">Beállít távlövők kijelző elrendezését.</string>
+    <string name="pref_remotes_list_title">Kinézet, elrendezés kiválasztása.</string>
+    <string name="pref_visible_title">Látható távlövők.</string>
+    <string name="pref_visible_summary">Távlövő látható legyen a fő listában..</string>
+    <string name="pref_visible_dialog_title">Távlövő kiválasztása.</string>
+    <string name="pref_switch_title">Gyors kapcsoló</string>
+    <string name="pref_switch_summary">Gyors kapcsoló távlövők kiválsztása.</string>
+    <string name="pref_switch_dialog_title">Távlövők kiválasztása</string>
+    <string name="pref_orientation_title">Orientáció zárolása</string>
+    <string name="pref_orientation_summary">Orientáció zárolás beállítás.</string>
+    <string name="pref_orientation_list_title">Zárolás kiválasztása</string>
+    <string name="pref_haptic_title">Haptic Visszajelzés</string>
+    <string name="pref_haptic_summary">Haptic visszajelzés engedélyezése a távlövőkben.</string>
+    <string name="pref_fullscreen_title">Teljes képernyő</string>
+    <string name="pref_fullscreen_summary">Applikáció futtatása teljes képernyőn.</string>
+    <string name="pref_tablet_show_menu">Menu megmutatása.</string>
+    <string name="pref_tablet_show_menu_summary">Mindig mutasd a menut táblamódban..</string>
+
+    <!-- Preferences (Integration) -->
+    <string name="pref_cat_integration">Eszköz beolvasztása.</string>
+    <string name="pref_volume_title">Felülír hangerő.</string>
+    <string name="pref_volume_summary">Távlövő hangerő kontrollálása hardware gombokkal.</string>
+    <string name="pref_keyboard_title">Rendszer billentyűzet.</string>
+    <string name="pref_keyboard_summary">A rendszer alapértelmezett billentyűzetének használata.</string>
+    <string name="pref_mouse_title">Egér beállítások</string>
+    <string name="pref_mouse_summary">Egér beállítások.</string>
+    <string name="pref_ir_title">IR Beállítások</string>
+    <string name="pref_ir_summary">Kiválaszt az alapértelmezett IR eszközt.</string>
+    <string name="pref_ir_learn_title">IR tanítás</string>
+    <string name="pref_ir_learn_summary">Megtanul IR kód.</string>
+    <string name="pref_events_title">Telefon események</string>
+    <string name="pref_events_summary">Telefon események küldése a szervernek.</string>
+    <string name="pref_voice_title">Hang engedélyezése</string>
+    <string name="pref_voice_summary">Megmutat a hangparancsokat a szövegsorban.</string>
+    <string name="pref_nfc_title">Engedélyezés: NFC</string>
+    <string name="pref_nfc_summary">Automatikus észlelés: NFC címkék.</string>
+
+    <!-- Preferences (Power) -->
+    <string name="pref_cat_power">Power</string>
+    <string name="pref_wifi_title">Wi-Fi zár</string>
+    <string name="pref_wifi_summary">Tartsd a Wi-Fi-t engedélyezve amikor használatban van..</string>
+    <string name="pref_wake_title">Wake Lock</string>
+    <string name="pref_wake_summary">Tartsd az eszközt ébren amíg használatban van.</string>
+
+    <!-- Preferences (Other) -->
+    <string name="pref_cat_other">Másik</string>
+    <string name="pref_analytics_title">Küldj használati statisztikát.</string>
+    <string name="pref_analytics_summary">Csak anonim adat lesz elküldve.</string>
+    <string name="pref_ads_title">Mutasd a hirdetéseket.</string>
+    <string name="pref_ads_summary">Hirdetések támogatják az üzletünket..</string>
+
+    <!-- Preferences (Mouse) -->
+    <string name="pref_cat_mouse">Egér</string>
+    <string name="pref_mouse_multitouch">Multi-érintő</string>
+    <string name="pref_mouse_multitouch_summary">Vátlás a sima  és multi-érintő között..</string>
+    <string name="pref_mouse_invert">Fordított görgető</string>
+    <string name="pref_mouse_invert_summary">Fordított görgető iránya.</string>
+    <string name="pref_mouse_switch">Cserél: Gombok</string>
+    <string name="pref_mouse_switch_summary">Cserél: elsődleges és másodlagos gombokat.</string>
+    <string name="pref_mouse_throttle">Egér sebbeségének limitálása.</string>
+    <string name="pref_mouse_throttle_summary">Az egér frissítések limitálása..</string>
+    <string name="pref_mouse_throttle_title">Limit</string>
+    <string name="pref_pinch_zoom">CSippentés Zoom</string>
+    <string name="pref_pinch_zoom_summary">Engedélyez a csippentő zoom gesztust.</string>
+    <string name="pref_mouse_sensitivity">Jelölő érzékenysége</string>
+    <string name="pref_mouse_sensitivity_summary">Beállít az egér jelölő érzékenységét..</string>
+    <string name="pref_mouse_sensitivity_dialog_title"> Jelölő érzékenysége </string>
+    <string name="pref_mouse_sensitivity_help">Használj alacsony érzékenységet a lassú mozdulatokhoz magasat a gyorsakhoz..\n</string>
+    <string name="pref_mouse_scroll_sensitivity">Görget az érzékenységet.</string>
+    <string name="pref_mouse_scroll_sensitivity_summary">Beállít egér görgető érzékenységét..</string>
+    <string name="pref_mouse_scroll_sensitivity_dialog_title">Görgető érzékenysége</string>
+    <string name="pref_mouse_scroll_sensitivity_help">Használj alacsony érzékenységet a lassú görgetéshez magasat a gyorsabbhoz..\n</string>
+    <string name="pref_mouse_disable_swipe">Kikapcsol a menu csusztatást</string>
+    <string name="pref_mouse_disable_swipe_summary">Kikapcsol a csúsztatást a menühöz amikor az egér használatban van.</string>
+    <string name="pref_mouse_test">Egér tesztelése</string>
+    <string name="pref_mouse_test_summary">A jelenlegi beállításaid kiprobálása..</string>
+
+    <!-- Dialogs (General) -->
+    <string name="diag_locked_title">Zárolva</string>
+    <string name="diag_locked_message">Úgy tűnik a licenszedet nem lehet érvényesíteni. Bizonyosodj meg arról, hogy van internet kapcsolatod az első alkalommal amikor futattod a teljes verziót. Nyomd meg az OK gombot, hogy a diagnózisban több információt láthass.</string>
+    <string name="diag_version_title">Verzió hiba</string>
+    <string name="diag_version_message">Jelenleg different verziót futtatsz kliensből és szerverből. Bizonyosodj meg arról, hogy frissítetted mindkettőt és indítsd újra.</string>
+    <string name="diag_auth_title">Azonosítás sikertelen.</string>
+    <string name="diag_auth_message">A szerver nem tudott azonosítani. Bizonyosodj meg arról, hogy a helyes jelszót adtad meg a beállításokban ehhez a szerver kapcsolathoz.</string>
+    <string name="diag_connection_error_title">Csatlakozás sikertelen</string>
+    <string name="diag_connection_error">A csatlakozást a szerveredhez nem lehetett létrehozni. Kérlek vizsgáld meg a szerver és hálozati beállításokat.</string>
+    <string name="diag_compat_title">Kompatibilitási mód.</string>
+    <string name="diag_compat_message">Kompabilitási mód aktiválva.. Előfordulhat, hogy néhány tulajdonság vagy távlövő nem elérhető. Erősen ajánljuk, hogy a szervered frissítsd az a legfrissebb verzióra.</string>
+    <string name="diag_new_remotes_title">Új Távlövő(k)</string>
+    <string name="diag_new_select_title">Távlövők kiválasztása</string>
+    <string name="diag_new_select_message">Előzőleg használtad a „Látható Távlövők” beállítást. Közelmúltbelő változtatások miatt újra ki kell választanod a Távlövőket..</string>
+
+    <!-- Misc -->
+    <string name="bt_unnamed">&lt;Névtelen&gt;</string>
+    <string name="more_remotes_title">Teljes Verzió</string>
+    <string name="more_remotes_description">Több tulajdonság szerzése…</string>
+    <string name="locked_remotes_title">Zárolva</string>
+    <string name="locked_remotes_description">Néhány távlövő zárolva…</string>
+    <string name="loading">Töltés…</string>
+    <string name="updating">Frissítés…</string>
+    <string name="syncing">Szinkronizálás…</string>
+    <string name="retrying">Újrapróbálkozás…</string>
+    <string name="full_version_only">Csak a teljes verzónál</string>
+    <string name="uri">URI</string>
+    <string name="dark">Sötét</string>
+    <string name="light">Világos</string>
+    <string name="connecting_to">Csatlakozás a %1$s…</string>
+    <string name="changes_not_saved">Bármilyen változtatás amit eszközöltél az nincs elmentve. Biztos folytatni akarod?</string>
+
+    <!-- Notifications -->
+    <string name="notif_text">Kapcsolat bontva maradjon opció kiválaszt.</string>
+
+    <!-- Connection Status -->
+    <string name="conn_status_connected">Kapcsolodva</string>
+    <string name="conn_status_connecting">Kapcsolódás</string>
+    <string name="conn_status_initial">Initial</string>
+    <string name="conn_status_no_connectivity">Nincs kapcsolódás</string>
+    <string name="conn_status_disconnected">Szétkapcsolva</string>
+
+    <!-- Connection Errors -->
+    <string name="conn_error_unknown_host">Ismeretlen host.</string>
+    <string name="conn_error_bt_not_available">Bluetoothnincs támogatva vagy nem elérhető.</string>
+    <string name="conn_error_wifi_error">WiFi kapcsolat hiba.</string>
+    <string name="conn_error_bt_error">Bluetooth kapcsolat hiba.</string>
+    <string name="conn_error_no_servers">Nincsenek szerverek hozzáadva.</string>
+    <string name="conn_error_unknown_connection">Ismeretlen kapcsolat.</string>
+    <string name="conn_error_version_mismatch">Verzió hiba.</string>
+    <string name="conn_error_auth_failed">Azonosítás meghiúsult.</string>
+    <string name="conn_error_retrying">Újracsatlakozás megkísérlése…</string>
+    <string name="conn_error_bt_no_paired">Bluetooth eszközök nincsenek párosítva.</string>
+    <string name="conn_error_bt_no_selected">Bluetooth eszköz kiválasztása szükséges.</string>
+    <string name="conn_error_service_stopped">Szolgáltatás leállt</string>
+
+    <!-- Servers -->
+    <string name="servers_none">Nem lett szerver hozzáadva..</string>
+    <string name="servers_searching">Szerverek keresése…</string>
+    <string name="servers_menu_select">Választ</string>
+    <string name="servers_menu_edit">Szerkeszt</string>
+    <string name="servers_menu_remove">Töröl</string>
+    <string name="servers_menu_refresh">Frissít</string>
+    <string name="servers_add_title">Szerver hozzáadása</string>
+    <string name="servers_select_title">Szerver kiválasztása</string>
+    <string name="servers_remove_title">Szerver(ek) törlése</string>
+    <string name="servers_found">Talált szerverek</string>
+    <string name="servers_saved">Mentett szerverek</string>
+
+    <!-- Server -->
+    <string name="server_type">Típus</string>
+    <string name="server_tcp_name">Kijelző neve</string>
+    <string name="server_tcp_name_hint">Névtelen</string>
+    <string name="server_tcp_host">Host IP / cím</string>
+    <string name="server_tcp_port">TCP Port</string>
+    <string name="server_udp_port">UDP Port</string>
+    <string name="server_tcp_mac">MAC</string>
+    <string name="server_tcp_mac_hint">Opcionális</string>
+    <string name="server_bt">Bluetooth Host</string>
+    <string name="server_login">Bejelentkezés (ha szükséges)</string>
+    <string name="server_password">Jelszó</string>
+    <string name="server_password_hint">Ha szükséges</string>
+    <string name="server_username">Felhasználónév</string>
+    <string name="server_username_hint">Ha szükséges </string>
+    <string name="server_wan">WAN IP</string>
+    <string name="server_wan_hint">For Wake-On-WAN</string>
+
+    <!-- IR -->
+    <string name="ir_no_devices">Kiválaszt az IR eszközt a preferenciákban.</string>
+    <string name="ir_loading">Töltés…</string>
+    <string name="ir_learn_code">Kód megjegyzése…</string>
+    <string name="ir_test_code">Kód tesztelése…</string>
+    <string name="ir_share_code">Kód megosztása…</string>
+    <string name="ir_learn_lg">Nyomd meg a megjegyzés gombot. Aztán tartsd a távlövőt kb. 10 cm-re a IR fogadó egységet az eszközödtől és nyomd meg a gombot amit rögzítenél szeretnél.</string>
+    <string name="ir_learn_htc">Nyomd meg a Megyjegyzés gombot. Aztán tartsd a távlövőt kb 5 cm távolságra az IR fogadó egységtől és az eszközödön nyomd meg a gombot amelyet rögzíteni szeretnél.</string>
+    <string name="ir_learn_keene">Nyomd meg a megjegyzés gombot. Tartsd a távlövőt kb. 4 méter távolságra az IR fogadótól majd nyomd meg a rögzíteni kívánt gombot.</string>
+    <string name="ir_learn_not_supported">IR megjegyzése, tanulása nincs támogatva az eszközödön.</string>
+    <string name="ir_paste"> Pronto Kódok megtalálhatóakpl.: www.remotecentral.com vagy  Global Cache kódok az  irdatabase.globalcache.com oldalakon. </string>
+    <string name="ir_error">Hiba az IR kódban</string>
+
+    <!-- Remotes -->
+    <string name="remotes_none">Nincs elérhető távlövő.</string>
+    <string name="remotes_none_check"> Nincs elérhető távlövő.\n\nPlease Kérlek ellenőrizd a szerver installációt.</string>
+    <string name="remotes_none_added">Nincs távlövő kiválasztva.</string>
+
+    <!-- Remote -->
+    <string name="remote_not_purchased">Távlövő nincs megvásárolva.</string>
+    <string name="remote_not_found">Távlövő nem található.</string>
+    <string name="remote_layout_error">Megjelenés/elrendezés nem tölthető be.</string>
+
+    <!-- Remote Menu -->
+    <string name="remote_menu_keyboard">Billetnyűzet</string>
+    <string name="remote_menu_mouse">Egér</string>
+    <string name="remote_menu_media">Media</string>
+    <string name="remote_menu_launch">Indítás</string>
+    <string name="remote_menu_share">Megosztás</string>
+    <string name="remote_menu_edit">Szerkeszt</string>
+    <string name="remote_menu_voice">Hang</string>
+    <string name="remote_menu_switch">Kapcsoló</string>
+    <string name="remote_menu_server">Szerver</string>
+    <string name="remote_menu_refresh">Frissítés</string>
+    <string name="remote_menu_remove">Törlés</string>
+
+    <!-- Select Remotes Screen -->
+    <string name="select_select">Az összes kijelölése</string>
+    <string name="select_deselect">Az összes kijelölés visszavonása</string>
+    <string name="select_recommended">Ajánlott</string>
+    <string name="select_not_installed">Nincs installalva</string>
+    <string name="select_query_hint">Távlövő keresés</string>
+
+    <!-- Sync -->
+    <string name="sync_unable">Nem lehetett szinkronizálni.</string>
+    <string name="sync_wait">Kérlek várj, szinkronizálás…</string>
+    <string name="sync_required">Nem szinkronizáltál egy távlövőt sem egyelőre. A Unified Remote indítása szükséges és betölteni a távlövőket első alkalommal.</string>
+    <string name="sync_required_title">Nincsenek távlövők.</string>
+
+    <!-- WOL -->
+    <string name="wol_sent">Ébresztés LAN-on elküldve.</string>
+    <string name="wol_failed">Ébresztés LAN-on nem végrehajtott. Bizonyosodj meg arrol  hogy  a MAC cím meg van adva a szerver beállításokban.</string>
+    <string name="wol_requires_tcp">Ébresztés a LAN-on megkíván egy aktív TCP kapcsolatot.</string>
+
+    <!-- Mouse -->
+    <string name="mouse_touch_left">Éintéssel szimulálható az egér mozgás:\n\Érintés egy újjal a bal klikkhez.\n\n</string>
+    <string name="mouse_touch_multi">Érintsd két újjal a jobb klikkhez..\n\nDrag with two fingers to scroll.\n\n</string>
+    <string name="mouse_touch_pinch">A kijelzőn tartva a két újjad közelítve vagy távolítva (csippentés) tudsz  zoomolni.\n\n</string>
+    <string name="mouse_touch_drag">Tartsd lenyomva a mozgatáshoz.\n\nÉrintsd meg egyszer az eleresztéshez.</string>
+
+    <!-- Share -->
+    <string name="share_qr_open">Kép megnyitása URL</string>
+    <string name="share_browse_title">Böngészsés</string>
+    <string name="share_copied_to_clipboard">Másolás a csiptetőtáblára</string>
+
+    <!-- NFC -->
+    <string name="nfc_unavailable_or_disabled">NFC nem elérhető vagy inaktiválva.</string>
+    <string name="nfc_write"> NFC címke írás …</string>
+    <string name="nfc_touch">Érintsd meg a címkét a szerkesztéshez.</string>
+    <string name="nfc_wrote">Írott üzenet a címkének.</string>
+
+    <!-- Widgets -->
+    <string name="widget_config_layout">Elrendezés</string>
+    <string name="widget_config_properties">Tulajdonságok</string>
+    <string name="widget_config_import">Importálás</string>
+    <string name="widget_config_export">Exportálás</string>
+    <string name="widget_config_editable">Mutasd a  \szerkesztés\' gombot vezérlő nézetben.</string>
+    <string name="widget_config_none_added">Nincs vezérlő hozzáadva egyelőre. Ha egyszer már hozzáadtad a Unified Remote vezérlőt a fő kijelződhöz, akkor a továbbiakban itt szerkesztheted.</string>
+    <string name="widget_config_new">Új vezérlő.</string>
+    <string name="widget_config_edit_widget">Vezérlő szerkesztése</string>
+    <string name="widget_config_load_error">Vezérlő betöltése sikertelen.</string>
+    <string name="widget_select_icon">Ikon kiválasztása</string>
+    <string name="widget_select_color">Szín kiválasztása</string>
+
+    <!-- Quick Actions -->
+    <string name="quick_actions_ticker">Gyors cselekvő-k futnak…</string>
+    <string name="quick_actions_remove">Tartsd hosszan lenyomva a gombot a törléshez.</string>
+    <string name="quick_actions_enable">Gyors cselekvő értesítések engedélyezése.</string>
+    <string name="quick_actions_configure">Konfigurálás/Deaktíválás: Gyors Cselekvők</string>
+    <string name="quick_actions_edit">Mutasd a szerkesztés gombot az értesítésekben.</string>
+    <string name="quick_actions_lockscreen">Mutasd a zárolt képernyőn.</string>
+
+    <!-- Requires -->
+    <string name="requires_2_2">Szükséges a  2.2 –es vagy frissebb…</string>
+    <string name="requires_2_3"> Szükséges 2.3 –es vagy frissebb …</string>
+    <string name="requires_3_0"> Szükséges 3.0 –es vagy frissebb …</string>
+    <string name="requires_newer_server">Újjab szerver szükséges.\n\nKérlek  frissíts!</string>
+
+    <!-- Arrays -->
+    <string-array name="pref_theme_entries">
+    <item>Világos</item>
+    <item>Sötét</item>
+    </string-array>
+    <string-array name="pref_remotes_entries">
+    <item>Lista</item>
+    <item>Rács/Hálozat</item>
+    </string-array>
+    <string-array name="pref_client_entries">
+    <item>WiFi/Adat</item>
+    <item>Bluetooth</item>
+    </string-array>
+    <string-array name="pref_orientation_entries">
+    <item>Nincs</item>
+    <item>Elfekvő</item>
+    <item>Portré</item>
+    </string-array>
+    <string-array name="diag_server_scan_entries">
+    <item>Automatikus</item>
+    <item>Manuális</item>
+    </string-array>
+    <string-array name="uri_target_entries">
+    <item>Cél kiválasztása</item>
+    <item>Távlövő</item>
+    </string-array>
+    <string-array name="share_entries">
+    <item>URI</item>
+    <item>NFC</item>
+    <item>QR</item>
+    </string-array>
+    <string-array name="pref_default_remotes_list">
+    <item>Minden távlövő</item>
+    <item>Legtöbbet használt távlövők</item>
+    <item>Legutóbb használt távlövők</item>
+    <item>Legutóbbi cselekvések</item>
+    </string-array>
+    <string-array name="pref_mouse_throttle_entries">
+    <item>Gyors hálozat (Nincs Limit)</item>
+    <item>Közepes hálozat (Magas Limit)</item>
+    <item>Lassú hálozat (Alacsony Limit)</item>
+    </string-array>
+
+</resources>

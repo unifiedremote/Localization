@@ -89,7 +89,6 @@
         <item>Todos los mandos</item>
         <item>Mandos más usados</item>
         <item>Mandos recientes</item>
-        <item>Acciones recientes</item>
     </string-array>
     <string-array name="pref_mouse_throttle_entries">
         <item>Redes rápidas (sin límite)</item>

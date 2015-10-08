@@ -1,6 +1,22 @@
 <?xml version='1.0' encoding='utf-8' standalone='no'?>
 <resources>
 
+    <!-- Upgrade -->
+    <string name="upgrade_title">Versão completa</string>
+    <string name="upgrade_text">✓ Atualização única
+\n✓ Contém todas as atualizações futuras
+\n✓ Sem comerciais
+\n✓ Duplicação de tela
+\n✓ Teclado estendido
+\n✓ Mais de 70 controles remotos
+\n✓ Android Wear
+\n✓ Widgets &amp; Ações Rápidas
+\n✓ Comandos de voz
+\n✓ Controles remotos personalizados
+\n✓ Ações via IV
+\n✓ Ações via NFC
+    </string>
+
     <!-- Rate -->
     <string name="rate_message">Você está usando este aplicativo há algum tempo. Ele merece 5 estrelas? Não se preocupe, só vamos perguntar uma vez.</string>
     <string name="rate_help">Esteja à vontade para fazer comentários no nosso site, no Facebook, ou no Twitter. Obrigado!</string>
@@ -21,13 +37,9 @@
     <string name="title_share_qr">Compartilhe com QR</string>
     <string name="title_widget_config">Widget</string>
     <string name="title_quick_actions">Ações rápidas</string>
-    <string name="title_ir_select">Escolha o dispositivo IV</string>
-    <string name="title_ir_learn">Inserir código IV</string>
+    <string name="title_ir_learn">Saiba código IV</string>
+    <string name="title_ir_input">Inserir código IV</string>
     <string name="title_upgrade">Atualizar</string>
-    <string name="title_all_remotes">Todos</string>
-    <string name="title_most_used_remotes">Mais usados</string>
-    <string name="title_recent_remotes">Recentes</string>
-    <string name="title_recent_actions">Ações recentes</string>
 
     <!-- License Status -->
     <string name="license_status_free">Versão gratuita</string>
@@ -78,26 +90,18 @@
     <string name="eval_expired_message">O período de avaliação desta versão expirou. De agora em diante, só estarão disponíveis recursos da versão gratuita. Fale conosco em www.unifiedremote.com, caso queira uma nova versão de avaliação.</string>
 
     <!-- Shortcut -->
-    <string name="shortcut_select">Atalho do Unified Remote</string>
     <string name="shortcut_title">Selecione controle remoto</string>
 
     <!-- Coach -->
-    <string name="coach_navigate">Deslize da esquerda para a direita\npara navegar</string>
     <string name="coach_navigate_tablet">É possível desabilitar o leiaute do tablet nas preferências</string>
     <string name="coach_quickswitch">Deslize da direita para a esquerda\npara Troca Rápida</string>
     <string name="coach_gotit">Entendi!</string>
 
     <!-- Welcome -->
-    <string name="welcome2_login_title">Unified Remote</string>
-    <string name="welcome2_login_text">Registrar-se facilitaria o seu\ninício no Unified Remote\nMais vantagens em breve!</string>
+    <string name="welcome2_login_title">@string/app_unified_remote</string>
+    <string name="welcome2_login_text">Registrar-se facilitaria o seu\ninício no %s\nMais vantagens em breve!</string>
     <string name="welcome2_login_google">Entrar com o Google</string>
-    <string name="welcome2_login_email">Entrar com o e-mail</string>
     <string name="welcome2_login_skip">Pular esta etapa</string>
-
-    <string name="welcome2_email">E-mail</string>
-    <string name="welcome2_email_continue">Continuar</string>
-    <string name="welcome2_password">Senha</string>
-    <string name="welcome2_create_account">Criar conta</string>
 
     <!-- Welcome - Network -->
     <string name="welcome2_network_title">Wi-Fi / Bluetooth</string>
@@ -137,35 +141,6 @@
     <string name="welcome2_done_not_connected">Não conectado</string>
     <string name="welcome2_done_no_server">Sem servidor</string>
     <string name="welcome2_done_continue">Continuar assim mesmo</string>
-
-    <!-- Welcome (old) -->
-    <string name="welcome_login_title">Entrar</string>
-    <string name="welcome_login_skip">Pular o login</string>
-    <string name="welcome_first">Primeiro instale o mais recente\n<b>Unified Remote Server</b>\nno seu computador.\n\nDownload disponível em:\n<b>www.unifiedremote.com</b></string>
-    <string name="welcome_update">Por favor, instale o mais recente \n<b>Unified Remote Server</b>\no seu computador.\n\nDownload disponível em:\n<b>www.unifiedremote.com</b></string>
-    <string name="welcome_button">Instalei o novo servidor!</string>
-    <string name="welcome_connect_title"><b>Conectar ao servidor</b></string>
-    <string name="welcome_connect">Confira se o Unified Remote Server está em execução no seu computador. Também verifique se o Firewall do Windows ou qualquer outro software está bloqueando o servidor. Para obter mais informações, ou se estiver tendo dificuldades para encontrar um servidor, visite a nossa nossa  <a href="http://www.unifiedremote.com/support">support</a> página.</string>
-    <string name="welcome_add_server_later">Adicionarei um servidor mais tarde</string>
-    <string name="welcome_no_servers">Nenhum servidor</string>
-    <string name="welcome_get_full">Saiba mais…</string>
-    <string name="welcome_scanning">Procurando…</string>
-    <string name="welcome_add_manually">Adicionar servidor manualmente</string>
-    <string name="welcome_news_title">Novidades</string>
-    <string name="welcome_full_title">Versão completa</string>
-    <string name="welcome_full">✓ Atualização única
-\n✓ Contém todas as atualizações futuras
-\n✓ Sem comerciais
-\n✓ Duplicação de tela
-\n✓ Teclado estendido
-\n✓ Mais de 70 controles remotos
-\n✓ Android Wear
-\n✓ Widgets &amp; Ações Rápidas
-\n✓ Comandos de voz
-\n✓ Controles remotos personalizados
-\n✓ Ações via IV
-\n✓ Ações via NFC
-    </string>
 
     <!-- Home / Menu -->
     <string name="home_remotes">Controles remotos</string>
@@ -266,10 +241,6 @@
     <string name="pref_keyboard_summary">Usar o teclado padrão do sistema</string>
     <string name="pref_mouse_title">Configurações do mouse</string>
     <string name="pref_mouse_summary">Alterar configurações do mouse</string>
-    <string name="pref_ir_title">Configurações de IV</string>
-    <string name="pref_ir_summary">Selecionar dispositivo IV padrão</string>
-    <string name="pref_ir_learn_title">Aprender IV</string>
-    <string name="pref_ir_learn_summary">Aprender código IV</string>
     <string name="pref_events_title">Eventos do telefone</string>
     <string name="pref_events_summary">Enviar eventos do telefone para o servidor</string>
     <string name="pref_voice_title">Habilitar voz</string>
@@ -288,8 +259,6 @@
     <string name="pref_cat_other">Outras</string>
     <string name="pref_analytics_title">Enviar estatística de uso</string>
     <string name="pref_analytics_summary">Só serão enviados dados anônimos</string>
-    <string name="pref_ads_title">Mostrar comerciais</string>
-    <string name="pref_ads_summary">Os comerciais sustentam a nossa empresa</string>
 
     <!-- Preferences (Mouse) -->
     <string name="pref_cat_mouse">Mouse</string>
@@ -318,8 +287,6 @@
     <string name="pref_mouse_test_summary">Testar suas configurações atuais.</string>
 
     <!-- Dialogs (General) -->
-    <string name="diag_locked_title">Travado</string>
-    <string name="diag_locked_message">Parece que a sua licença não foi validada. Verifique se está conectado à internet na primeira vez em que executar a versão completa. Pressione OK para abrir o diagnóstico e obter mais informações.</string>
     <string name="diag_version_title">Discrepância de versões</string>
     <string name="diag_version_message">Você está executando versões diferentes do cliente e do servidor. Atualize ambas com a versão mais recente e tente outra vez.</string>
     <string name="diag_auth_title">Falha na autenticação</string>
@@ -329,8 +296,6 @@
     <string name="diag_compat_title">Modo de compatibilidade</string>
     <string name="diag_compat_message">O modo de compatibilidade está ativo. Pode ser que alguns recursos ou controles remotos não estejam disponíveis. Recomendamos que atualize o servidor com a versão mais recente.</string>
     <string name="diag_new_remotes_title">Novo(s) controle(s) remoto(s)</string>
-    <string name="diag_new_select_title">Selecionar controles remotos</string>
-    <string name="diag_new_select_message">Você usou a configuração \"controles remotos visíveis\" anteriormente. Em razão de algumas mudanças recentes, você precisa re-selecionar esses controles remotos.</string>
 
     <!-- Misc -->
     <string name="bt_unnamed">&lt;Sem nome&gt;</string>
@@ -410,12 +375,9 @@
     <string name="ir_learn_code">Aprender código</string>
     <string name="ir_test_code">Testar código</string>
     <string name="ir_share_code">Compartilhar código</string>
-    <string name="ir_learn_lg">Pressione o botão aprender. Em seguida, segure o controle remoto a aproximadamente 10 cm do receptor IV do seu dispositivo e pressione o botão que quiser gravar.</string>
-    <string name="ir_learn_htc">Pressione o botão aprender. Em seguida, segure o controle remoto a aproximadamente 5 cm do receptor IV do seu dispositivo e pressione o botão que quiser gravar.</string>
-    <string name="ir_learn_keene">Pressione o botão aprender. Em seguida, segure o controle remoto a aproximadamente 4 metros do receptor IV do seu dispositivo e pressione o botão que quiser gravar.</string>
+    <string name="ir_learn_message_with_distance">Pressione o botão aprender. Em seguida, segure o controle remoto a aproximadamente %1$s do receptor IV do seu dispositivo e pressione o botão que quiser gravar.</string>
     <string name="ir_learn_not_supported">O seu dispositivo não tem o recurso de aprender IV.</string>
-    <string name="ir_paste">Procurar Códigos Pronto ativado. Ex.: www.remotecentral.com ou códigos Global Cache em irdatabase.globalcache.com. </string>
-    <string name="ir_error">Erro no código IV</string>
+    <string name="ir_paste">Procurar Códigos Pronto ativado. Ex.: www.remotecentral.com ou códigos Global Cache em irdatabase.globalcache.com/cgi-bin/codes. </string>
 
     <!-- Remotes -->
     <string name="remotes_none">Nenhum controle remoto disponível.</string>
@@ -459,10 +421,10 @@
     <string name="wol_requires_tcp">Wake-on-LAN requer uma conexão TCP ativa.</string>
 
     <!-- Mouse -->
-    <string name="mouse_touch_left">Use o toque para simular movimento do mouse:\n\nToque com um dedo para simular o clique com o botão esquerdo.\n\n</string>
-    <string name="mouse_touch_multi">Toque com dois dedos para simular o clique com o botão direito.\n\nArraste dois dedos para rolar.\n\n</string>
-    <string name="mouse_touch_pinch">Use o gesto de pinçar para ampliar e reduzir (zoom).\n\n</string>
-    <string name="mouse_touch_drag">Pressione longamente e mova o dedo para arrastar.\n\nToque uma vez para soltar.</string>
+    <string name="mouse_touch_left">Use o toque para simular movimento do mouse:\n\nToque com um dedo para simular o \nclique com o botão esquerdo.\n\n</string>
+    <string name="mouse_touch_multi">Toque com dois dedos para \nsimular o clique com o botão direito.\n\nArraste dois dedos para rolar.\n\n</string>
+    <string name="mouse_touch_pinch">Use o gesto de pinçar para ampliar\n e reduzir (zoom).\n\n</string>
+    <string name="mouse_touch_drag">Pressione longamente e \nmova o dedo para arrastar.\n\nToque uma vez para soltar.</string>
 
     <!-- Share -->
     <string name="share_qr_open">Abrir URL da imagem</string>
@@ -492,8 +454,9 @@
     <string name="quick_actions_ticker">Suas ações rápidas estão em execução…</string>
     <string name="quick_actions_remove">Pressione demoradamente um botão para removê-lo.</string>
     <string name="quick_actions_enable">Habilite as notificações das ações rápidas.</string>
-    <string name="quick_actions_configure">Configure/Desative ações rápidas</string>
     <string name="quick_actions_edit">Mostrar o botão Edit na notificação.</string>
+    <string name="quick_actions_notification_title">Configure ações rápidas</string>
+    <string name="quick_actions_notification_message">Configure/Desative ações rápidas.</string>
 
     <!-- Requires -->
     <string name="requires_2_2">Requer 2.2 ou mais recente…</string>
@@ -518,6 +481,7 @@
         <item>Nenhum</item>
         <item>Paisagem</item>
         <item>Retrato</item>
+        <item>Natural</item>
     </string-array>
     <string-array name="diag_server_scan_entries">
         <item>Automático</item>
@@ -536,7 +500,6 @@
         <item>Todos os controles remotos</item>
         <item>Controles remotos mais usados</item>
         <item>Controles remotos recentes</item>
-        <item>Ações recentes</item>
     </string-array>
     <string-array name="pref_mouse_throttle_entries">
         <item>Redes velozes (sem limite)</item>

@@ -1,8 +1,23 @@
 <?xml version='1.0' encoding='utf-8' standalone='no'?>
 <resources>
 
+    <!-- Upgrade -->
+    <string name="upgrade_title">Versión completa</string>
+    <string name="upgrade_text">✓ Pago único
+\n✓ Accederá a todas las futuras actualizaciones
+\n✓ No hay anuncios
+\n✓ Espejo pantalla
+\n✓ Teclado extendido
+\n✓ Más de 70 mandos
+\n✓ Android Wear
+\n✓ Widgets &amp; Acciones rápidas
+\n✓ Acciones por voz
+\n✓ Mandos personalizados
+\n✓ Acciones IR
+\n✓ Acciones NFC
+    </string>
+
     <!-- Rate -->
-    <string name="rate_title">Puntuar Unified Remote</string>
     <string name="rate_message">Si le gusta Unified Remote, anímese a puntuarlo. ¡Nos encantaría leer sus comentarios!</string>
 
     <!-- Titles -->
@@ -10,7 +25,6 @@
     <string name="title_remotes">Mandos</string>
     <string name="title_remote">Mando</string>
     <string name="title_preferences">Preferencias</string>
-    <string name="title_diagnostics">Diagnóstico</string>
     <string name="title_servers">Servidores</string>
     <string name="title_scan">Escaneando…</string>
     <string name="title_server">Servidor</string>
@@ -22,13 +36,9 @@
     <string name="title_share_qr">Compartir con QR</string>
     <string name="title_widget_config">Widget</string>
     <string name="title_quick_actions">Acciones rápidas</string>
-    <string name="title_ir_select">Seleccionar dispositivo de IR</string>
-    <string name="title_ir_learn">Indicar código de IR</string>
+    <string name="title_ir_learn">Aprenda código IR</string>
+    <string name="title_ir_input">Código IR entrada</string>
     <string name="title_upgrade">Mejorar</string>
-    <string name="title_all_remotes">Todo</string>
-    <string name="title_most_used_remotes">Más usados</string>
-    <string name="title_recent_remotes">Reciente</string>
-    <string name="title_recent_actions">Acciones recientes</string>
 
     <!-- License Status -->
     <string name="license_status_free">Versión gratuita</string>
@@ -79,49 +89,16 @@
     <string name="eval_expired_message">El periodo de prueba de esta versión ha finalizado. A partir de ahora solo estarán disponibles las funciones de la versión gratuita. Envíenos un correo a info@unifiedremote.com si quiere una nueva versión de prueba.</string>
 
     <!-- Shortcut -->
-    <string name="shortcut_select">Acceso directo a Unified Remote</string>
     <string name="shortcut_title">Seleccionar mando</string>
 
     <!-- Coach -->
-    <string name="coach_navigate">Deslice desde la izquierda\npara desplazarse</string>
     <string name="coach_quickswitch">Deslice desde la derecha para usar el\nCambio rápido</string>
     <string name="coach_gotit">¡Vale!</string>
-
-    <!-- Welcome -->
-    <string name="welcome_first">Primero, instale el último\n<b>servidor de Unified Remote</b>\nen su ordenador.\n\nDescarga disponible en:\n<b>www.unifiedremote.com</b></string>
-    <string name="welcome_update">Actualice a la última versión del\n<b>servidor de Unified Remote</b>\nen su ordenador.\n\nDescarga disponible en:\n<b>www.unifiedremote.com</b></string>
-    <string name="welcome_button">¡He instalado el nuevo servidor!</string>
-    <string name="welcome_connect_title"><b>Conectar al servidor</b></string>
-    <string name="welcome_connect">Asegúrese de que el servidor de Unified Remote esté funcionando en su ordenador. Compruebe también que el servidor no esté bloqueado por el cortafuegos de Windows u otro programa. Si necesita más información o tiene problemas para encontrar un servidor, visite <a href="http://www.unifiedremote.com/support">, nuestra página de asistencia técnica</a>.</string>
-    <string name="welcome_add_server_later">Añadiré un servidor más tarde.</string>
-    <string name="welcome_no_servers">Sin servidores</string>
-    <string name="welcome_help_title"><b>Guías de funciones</b></string>
-    <string name="welcome_help">La biblioteca de guías de nuestro sitio web ofrece información útil e instrucciones paso a paso para aprender a usar varias funciones de Unified Remote.\nUse los enlaces de más abajo para acceder a varias guías muy consultadas. También puede acceder a la página de guías desde la sección de Ayuda del panel de la app.\n\n\n\n• <a href="http://www.unifiedremote.com/guide/ir-actions">Acciones IR</a> (new!)\n\n• <a href="http://www.unifiedremote.com/guide/quick-actions">Acciones rápidas</a>\n\n• <a href="http://www.unifiedremote.com/guide/getting-started-with-nfc">Acciones NFC</a>\n\n• <a href="http://www.unifiedremote.com/guide/voice-actions">Acciones de voz</a>\n\n• <a href="http://www.unifiedremote.com/guide/android-widgets">Widgets</a>
-    </string>
-    <string name="welcome_get_full">Conseguir versión completa</string>
-    <string name="welcome_scanning">Escaneando…</string>
-    <string name="welcome_add_manually">Añadir servidor manualmente</string>
-    <string name="welcome_news_title">Novedades</string>
-    <string name="welcome_full_title">Versión completa</string>
-    <string name="welcome_full">✓ Pago único
-\n✓ Accederá a todas las futuras actualizaciones
-\n✓ No hay anuncios
-\n✓ Espejo pantalla
-\n✓ Teclado extendido
-\n✓ Más de 70 mandos
-\n✓ Android Wear
-\n✓ Widgets &amp; Acciones rápidas
-\n✓ Acciones por voz
-\n✓ Mandos personalizados
-\n✓ Acciones IR
-\n✓ Acciones NFC
-    </string>
 
     <!-- Home / Menu -->
     <string name="home_remotes">Mandos</string>
     <string name="home_servers">Servidores</string>
     <string name="home_preferences">Preferencias</string>
-    <string name="home_diagnostics">Diagnóstico</string>
     <string name="home_editor">Editor</string>
     <string name="home_widgets">Widgets</string>
     <string name="home_quick_actions">Acciones rápidas</string>
@@ -208,10 +185,6 @@
     <string name="pref_keyboard_summary">Usa el teclado predeterminado del sistema.</string>
     <string name="pref_mouse_title">Ajustes del ratón</string>
     <string name="pref_mouse_summary">Cambia los ajustes del ratón.</string>
-    <string name="pref_ir_title">Ajustes de IR</string>
-    <string name="pref_ir_summary">Selecciona el dispositivo de IR predeterminado.</string>
-    <string name="pref_ir_learn_title">Aprender IR</string>
-    <string name="pref_ir_learn_summary">Aprende el código de IR.</string>
     <string name="pref_events_title">Eventos del teléfono</string>
     <string name="pref_events_summary">Envía eventos del teléfono al servidor.</string>
     <string name="pref_voice_title">Activar voz</string>
@@ -256,8 +229,6 @@
     <string name="pref_mouse_test_summary">Prueba sus ajustes actuales.</string>
 
     <!-- Dialogs (General) -->
-    <string name="diag_locked_title">Bloqueado</string>
-    <string name="diag_locked_message">Parece que su licencia no se ha podido validar. Asegúrese de contar con conexión a Internet la primera vez que ejecute la versión completa. Toque OK para abrir la opción de diagnóstico y obtener más información.</string>
     <string name="diag_version_title">Incompatibilidad de versiones</string>
     <string name="diag_version_message">Está ejecutando versiones diferentes en cliente y servidor. Asegúrese de haber actualizado ambos a la última versión y vuelva a intentarlo.</string>
     <string name="diag_auth_title">Error de autenticación</string>
@@ -344,11 +315,9 @@
     <string name="ir_learn_code">Aprender código…</string>
     <string name="ir_test_code">Probar código…</string>
     <string name="ir_share_code">Compartir código…</string>
-    <string name="ir_learn_htc">Toque el botón de aprendizaje. Luego mantenga el mando a distancia a unos 5 cm del receptor de IR de su dispositivo y toque el botón que quiera grabar.</string>
-    <string name="ir_learn_keene">Toque el botón de aprendizaje. Luego mantenga el mando a distancia a unos 4 cm del receptor de IR de su dispositivo y toque el botón que quiera grabar.</string>
+    <string name="ir_learn_message_with_distance">Toque el botón de aprendizaje. Luego mantenga el mando a distancia a unos %1$s del receptor de IR de su dispositivo y toque el botón que quiera grabar.</string>
     <string name="ir_learn_not_supported">Su dispositivo no es compatible con aprendizaje de IR.</string>
-    <string name="ir_paste">Encontrará códigos Pronto en www.remotecentral.com o códigos de Global Cache en irdatabase.globalcache.com. </string>
-    <string name="ir_error">Error en el código de IR</string>
+    <string name="ir_paste">Encontrará códigos Pronto en www.remotecentral.com o códigos de Global Cache en irdatabase.globalcache.com/cgi-bin/codes. </string>
 
     <!-- Remotes -->
     <string name="remotes_none">No hay mandos disponibles.</string>
@@ -418,8 +387,9 @@
     <string name="quick_actions_ticker">Sus acciones rápidas están funcionando…</string>
     <string name="quick_actions_remove">Dé un toque largo en un botón para eliminarlo.</string>
     <string name="quick_actions_enable">Activa la notificación de acciones rápidas</string>
-    <string name="quick_actions_configure">Configurar/Desactivar acciones rápidas</string>
     <string name="quick_actions_edit">Muestra el botón de edición en la notificación.</string>
+    <string name="quick_actions_notification_title">Configurar acciones rápidas</string>
+    <string name="quick_actions_notification_message">Configurar/Desactivar acciones rápidas.</string>
 
     <!-- Requires -->
     <string name="requires_2_2">Se necesita la versión 2.2 o superior…</string>
@@ -444,6 +414,7 @@
         <item>Ninguno</item>
         <item>Horizontal</item>
         <item>Vertical</item>
+        <item>Normalidad</item>
     </string-array>
     <string-array name="diag_server_scan_entries">
         <item>Automático</item>

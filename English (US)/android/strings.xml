@@ -1,10 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <!-- Upgrade -->
+    <string name="upgrade_title">Full Version</string>
+    <string name="upgrade_text">✓ One-time upgrade
+\n✓ Includes all future updates
+\n✓ No ads
+\n✓ Screen mirroring
+\n✓ Extended keyboard
+\n✓ 70+ remotes
+\n✓ Android Wear
+\n✓ Widgets &amp; Quick Actions
+\n✓ Voice commands
+\n✓ Custom remotes
+\n✓ IR actions
+\n✓ NFC actions
+    </string>
+
+    <!-- Share Dialog -->
+    <string name="share_dialog_buynfc_title">Buy NFC Tags</string>
+    <string name="share_dialog_buynfc_text">Order from PhoneHomeProject.com. Use promo code \'unified\' for 10% off any purchase.</string>
+    <string name="share_dialog_programnfc_title">Program NFC Tag</string>
+    <string name="share_dialog_programnfc_text">Make an NFC tag trigger an action.</string>
+    <string name="share_dialog_createqr_title">Create QR Image</string>
+    <string name="share_dialog_createqr_text">Make a QR image trigger an action.</string>
+    <string name="share_dialog_createuri_title">Create URI String</string>
+    <string name="share_dialog_createuri_text">Make an URI string trigger an action.</string>
+
     <!-- Custom Remote Ask -->
-    <string name="custom_ask_title">Free T-shirt!</string>
-    <string name="custom_ask_has_meassage">It looks like you use custom remotes. Did you know that you can get a free t-shirt if you share a custom remote on the community?</string>
-    <string name="custom_ask_not_meassage">Did you know that there is a community where it is possible to find and share custom remotes? If you submit one yourself you can get a free t-shirt!</string>
+    <string name="custom_ask_title">Custom Remotes</string>
+    <string name="custom_ask_has_message">Hey! It looks like you use custom remotes. You can now share your custom remotes on our new community.</string>
+    <string name="custom_ask_not_message">Hey! Did you know we have a community site where it\'s possible to find and share custom remotes?</string>
 
     <!-- Rate -->
     <string name="rate_message">You\'ve used this app for a while now. Would you give it 5 stars? Don\'t worry, we will only ask you once.</string>
@@ -15,6 +41,7 @@
     <string name="title_remotes">Remotes</string>
     <string name="title_remote">Remote</string>
     <string name="title_preferences">Preferences</string>
+    <string name="title_preferences_ir">IR Preferences</string>
     <string name="title_servers">Servers</string>
     <string name="title_scan">Scanning</string>
     <string name="title_server">Server</string>
@@ -26,13 +53,10 @@
     <string name="title_share_qr">Share with QR</string>
     <string name="title_widget_config">Widget</string>
     <string name="title_quick_actions">Quick Actions</string>
-    <string name="title_ir_select">Select IR Device</string>
-    <string name="title_ir_learn">Input IR Code</string>
+    <string name="title_ir_learn">Learn IR Code</string>
+    <string name="title_ir_input">Enter IR Code</string>
+    <string name="title_ir_test_remote">Test Remote</string>
     <string name="title_upgrade">Upgrade</string>
-    <string name="title_all_remotes">All</string>
-    <string name="title_most_used_remotes">Most Used</string>
-    <string name="title_recent_remotes">Recent</string>
-    <string name="title_recent_actions">Recent Actions</string>
 
     <!-- License Status -->
     <string name="license_status_free">Free Version</string>
@@ -83,26 +107,23 @@
     <string name="eval_expired_message">The evaluation time for this release has now expired. Only features in the free version will be available from now on. Please contact us at www.unifiedremote.com if you would like a new evaluation release.</string>
 
     <!-- Shortcut -->
-    <string name="shortcut_select">Unified Remote Shortcut</string>
     <string name="shortcut_title">Select Remote</string>
 
     <!-- Coach -->
-    <string name="coach_navigate">Swipe from left\nto navigate</string>
     <string name="coach_navigate_tablet">Tablet layout can be disabled in the preferences</string>
     <string name="coach_quickswitch">Swipe from right for\nQuick Switch</string>
     <string name="coach_gotit">Got It!</string>
 
-    <!-- Welcome -->
-    <string name="welcome2_login_title">Unified Remote</string>
-    <string name="welcome2_login_text">Signing in will make it easier for you\nto get started with Unified Remote\nMore benefits coming soon!</string>
-    <string name="welcome2_login_google">Sign in with Google</string>
-    <string name="welcome2_login_email">Sign in with email</string>
-    <string name="welcome2_login_skip">Skip this step</string>
+    <!-- Welcome - Extension -->
+    <string name="welcome2_extension_unified">All-in-one</string>
+    <string name="welcome2_extension_standalone">Standalone</string>
+    <string name="welcome2_extension_text">Looks like you already have Unified Remote Full installed. Would you like to use all apps in one or would you like to use Unified TV as a standalone app?</string>
 
-    <string name="welcome2_email">Email</string>
-    <string name="welcome2_email_continue">Continue</string>
-    <string name="welcome2_password">Password</string>
-    <string name="welcome2_create_account">Create Account</string>
+    <!-- Welcome - Login -->
+    <string name="welcome2_login_title">@string/app_unified_remote</string>
+    <string name="welcome2_login_text">Signing in will make it easier for you\nto get started with %s\nMore benefits coming soon!</string>
+    <string name="welcome2_login_google">Sign in with Google</string>
+    <string name="welcome2_login_skip">Skip this step</string>
 
     <!-- Welcome - Network -->
     <string name="welcome2_network_title">WiFi / Bluetooth</string>
@@ -126,6 +147,8 @@
 
     <!-- Welcome - Scan -->
     <string name="welcome2_scan_text">Looking for computers…</string>
+    <string name="welcome2_scan_ir_text">Looking for IR devices…</string>
+    <string name="welcome2_find_ir_text">Looking for IR devices on %s…</string>
 
     <!-- Welcome - Trouble -->
     <string name="welcome2_trouble_title">Troubleshoot</string>
@@ -135,6 +158,9 @@
     <string name="welcome2_trouble_help_url">www.unifiedremote.com/help</string>
     <string name="welcome2_trouble_try_again">Try Again</string>
     <string name="welcome2_trouble_continue">Continue Anyway</string>
+    <string name="welcome2_trouble_ir"><b>Built-in Blasters</b>\n• LG G3/G4\n• HTC One M7/M8/M9\n• Samsung S4/S5/S6\n• Samsung Note 3/4/5 &amp; Tab Pro</string>
+    <string name="welcome2_trouble_network_blaster"><b>Network Blasters</b>\n• <a href='https://www.unifiedremote.com/keene'>Keene</a>\n• <a href='https://www.unifiedremote.com/globalcache'>GlobalCache iTach</a></string>
+    <string name="welcome2_trouble_computer_blasters"><b>Computer Blasters</b>\n• <a href='https://www.unifiedremote.com/usbuirt'>USB-UIRT</a></string>
 
     <!-- Welcome - Done -->
     <string name="welcome2_done_connected_to">Connected to</string>
@@ -142,35 +168,9 @@
     <string name="welcome2_done_not_connected">Not connected</string>
     <string name="welcome2_done_no_server">No server</string>
     <string name="welcome2_done_continue">Continue Anyway</string>
-
-    <!-- Welcome (old) -->
-    <string name="welcome_login_title">Login</string>
-    <string name="welcome_login_skip">Skip Login</string>
-    <string name="welcome_first">First install the latest\n<b>Unified Remote Server</b>\non your computer.\n\nDownload available at:\n<b>www.unifiedremote.com</b></string>
-    <string name="welcome_update">Please update to the latest\n<b>Unified Remote Server</b>\non your computer.\n\nDownload available at:\n<b>www.unifiedremote.com</b></string>
-    <string name="welcome_button">I have installed the new server!</string>
-    <string name="welcome_connect_title"><b>Connect to Server</b></string>
-    <string name="welcome_connect">Make sure that Unified Remote Server is running on your computer. Also ensure that Windows Firewall or any other software isn\'t blocking the server. For more information or if you are having difficulties finding a server visit our <a href="http://www.unifiedremote.com/support">support</a> page.</string>
-    <string name="welcome_add_server_later">I\'ll add a server later</string>
-    <string name="welcome_no_servers">No Servers</string>
-    <string name="welcome_get_full">Learn more…</string>
-    <string name="welcome_scanning">Scanning…</string>
-    <string name="welcome_add_manually">Add server manually</string>
-    <string name="welcome_news_title">What\'s New</string>
-    <string name="welcome_full_title">Full Version</string>
-    <string name="welcome_full">✓ One-time upgrade
-\n✓; Includes all future updates
-\n✓ No ads
-\n✓ Screen mirroring
-\n✓ Extended keyboard
-\n✓ 70+ remotes
-\n✓ Android Wear
-\n✓ Widgets &amp; Quick Actions
-\n✓ Voice commands
-\n✓ Custom remotes
-\n✓ IR actions
-\n✓ NFC actions
-    </string>
+    <string name="welcome2_done_ir_device">Found IR device</string>
+    <string name="welcome2_done_ir_no_device_text1">No IR device detected</string>
+    <string name="welcome2_done_ir_no_device_text2">Your device may not be supported</string>
 
     <!-- Home / Menu -->
     <string name="home_remotes">Remotes</string>
@@ -264,6 +264,9 @@
     <string name="pref_tablet_show_menu">Show Menu</string>
     <string name="pref_tablet_show_menu_summary">Always show menu on tablets.</string>
 
+    <!-- Preferences (IR) -->
+    <string name="pref_cat_ir">IR (Select &amp; Learn)</string>
+
     <!-- Preferences (Integration) -->
     <string name="pref_cat_integration">Device Integration</string>
     <string name="pref_volume_title">Override Volume</string>
@@ -272,10 +275,6 @@
     <string name="pref_keyboard_summary">Use the system\'s default keyboard.</string>
     <string name="pref_mouse_title">Mouse Settings</string>
     <string name="pref_mouse_summary">Change mouse settings.</string>
-    <string name="pref_ir_title">IR Settings</string>
-    <string name="pref_ir_summary">Select default IR device.</string>
-    <string name="pref_ir_learn_title">IR Learn</string>
-    <string name="pref_ir_learn_summary">Learn IR code.</string>
     <string name="pref_events_title">Phone Events</string>
     <string name="pref_events_summary">Send phone events to server.</string>
     <string name="pref_voice_title">Enable Voice</string>
@@ -294,8 +293,6 @@
     <string name="pref_cat_other">Other</string>
     <string name="pref_analytics_title">Send Usage Statistics</string>
     <string name="pref_analytics_summary">Only anonymous data will be sent.</string>
-    <string name="pref_ads_title">Show Ads</string>
-    <string name="pref_ads_summary">Ads support our business.</string>
 
     <!-- Preferences (Mouse) -->
     <string name="pref_cat_mouse">Mouse</string>
@@ -324,8 +321,6 @@
     <string name="pref_mouse_test_summary">Try your current settings.</string>
 
     <!-- Dialogs (General) -->
-    <string name="diag_locked_title">Locked</string>
-    <string name="diag_locked_message">It appears that your license could not be validated. Make sure you have an internet connection the first time you run the full version. Press OK to open diagnostics for more information.</string>
     <string name="diag_version_title">Version Mismatch</string>
     <string name="diag_version_message">You are currently running different versions of the client and server. Ensure that you have updated both to the latest version and try again.</string>
     <string name="diag_auth_title">Authentication Failed</string>
@@ -335,8 +330,6 @@
     <string name="diag_compat_title">Compatibility Mode</string>
     <string name="diag_compat_message">Compatibility mode is active. Some features or remotes may not be available. We highly recommend that you update your server to the latest version.</string>
     <string name="diag_new_remotes_title">New Remote(s)</string>
-    <string name="diag_new_select_title">Select Remotes</string>
-    <string name="diag_new_select_message">You have previously used the \"Visible Remotes\" setting. Due to some recent changes you have to re-select these remotes.</string>
 
     <!-- Misc -->
     <string name="bt_unnamed">&lt;Unnamed&gt;</string>
@@ -344,6 +337,9 @@
     <string name="more_remotes_description">Get more features…</string>
     <string name="locked_remotes_title">Locked</string>
     <string name="locked_remotes_description">Some remotes are locked…</string>
+    <string name="add_remotes_title">Get More</string>
+    <string name="add_remotes_description">Add another remote…</string>
+    <string name="remote_hidden">%s now hidden…</string>
     <string name="loading">Loading…</string>
     <string name="updating">Updating…</string>
     <string name="syncing">Syncing…</string>
@@ -354,6 +350,8 @@
     <string name="light">Light</string>
     <string name="connecting_to">Connecting to %1$s…</string>
     <string name="changes_not_saved">Any changes you have made have not been saved. Do you really wish to continue?</string>
+    <string name="no_items">No Items</string>
+    <string name="bluetooth">Bluetooth</string>
 
     <!-- Notifications -->
     <string name="notif_text">Select to stop connection keep alive.</string>
@@ -411,20 +409,29 @@
     <string name="server_wan_hint">For Wake-On-WAN</string>
 
     <!-- IR -->
-    <string name="ir_no_devices">Select a default IR device in preferences.</string>
-    <string name="ir_loading">Loading…</string>
-    <string name="ir_learn_code">Learn Code…</string>
-    <string name="ir_test_code">Test Code…</string>
-    <string name="ir_share_code">Share Code…</string>
-    <string name="ir_learn_lg">Press the learn button. Then hold the remote control approximately 10 cm from the IR reciver on your device and press the button that you wish to record.</string>
-    <string name="ir_learn_htc">Press the learn button. Then hold the remote control approximately 5 cm from the IR reciver on your device and press the button that you wish to record.</string>
-    <string name="ir_learn_keene">Press the learn button. Then hold the remote control approximately 4 meters from the IR reciver on your device and press the button that you wish to record.</string>
-    <string name="ir_learn_not_supported">IR learning is not supported on your device.</string>
-    <string name="ir_paste">Find Pronto Codes on e.g. www.remotecentral.com or Global Cache codes on irdatabase.globalcache.com. </string>
-    <string name="ir_error">Error in IR code</string>
+    <string name="ir_learn_error">Could not perform learn</string>
+    <string name="ir_send_error">Could not perform send</string>
+    <string name="ir_invalid_format">Invalid IR format</string>
+    <string name="ir_invalid_code">Invalid IR code</string>
+    <string name="ir_not_supported">IR is not supported on the current device</string>
+    <string name="ir_send_not_supported">IR sending is not supported on this device.</string>
+    <string name="ir_learn_not_supported">IR learning is not supported on this device.</string>
+    <string name="ir_select_default">Select Default IR Device</string>
+    <string name="ir_no_devices_yet">No devices have been detected yet…</string>
+    <string name="ir_no_devices">No IR devices found…</string>
+    <string name="ir_no_default">Select a default IR device…</string>
+    <string name="ir_test_code">Test</string>
+    <string name="ir_learn_code">Learn</string>
+    <string name="ir_share_code">Share</string>
+    <string name="ir_learn_message_with_distance">Press the learn button. Then hold the remote control approximately %1$s from the IR reciver on your device and press the button that you wish to record.</string>
+    <string name="ir_paste">Find Pronto Codes on Google or e.g. www.remotecentral.com</string>
+    <string name="ir_learn_start_msg">Press learn button…</string>
+    <string name="ir_loading">Waiting…</string>
+    <string name="ir_input_placeholder">&lt;enter code&gt;</string>
 
     <!-- Remotes -->
     <string name="remotes_none">No remotes available.</string>
+    <string name="remotes_all_added">All remotes already added.</string>
     <string name="remotes_none_check">No remotes available.\n\nPlease check your server installation.</string>
     <string name="remotes_none_added">No remotes added.</string>
 
@@ -452,6 +459,25 @@
     <string name="select_recommended">Recommended</string>
     <string name="select_not_installed">Not Installed</string>
     <string name="select_query_hint">Search remotes</string>
+    <string name="select_back">Back</string>
+    <string name="select_done">Done</string>
+    <string name="select_next">Next</string>
+
+    <string name="category_input">Input</string>
+    <string name="category_utility">Utility</string>
+    <string name="category_media">Media</string>
+    <string name="category_gaming">Gaming</string>
+    <string name="category_browser">Browser</string>
+    <string name="category_presentation">Presentation</string>
+
+    <!-- IR Select Screen -->
+    <string name="category_ir_tv">TV</string>
+    <string name="category_other">Other</string>
+    <string name="category_ir_player">Media Player</string>
+    <string name="category_ir_stb">Set-Top Box</string>
+    <string name="category_ir_game">Game Console</string>
+    <string name="category_ir_projector">Projector</string>
+    <string name="category_ir_receiver">Receiver</string>
 
     <!-- Sync -->
     <string name="sync_unable">Could not sync.</string>
@@ -498,9 +524,10 @@
     <string name="quick_actions_ticker">Your quick actions are running…</string>
     <string name="quick_actions_remove">Long-press a button to remove it.</string>
     <string name="quick_actions_enable">Enable Quick Actions notification.</string>
-    <string name="quick_actions_configure">Configure/Disable Quick Actions</string>
     <string name="quick_actions_edit">Show edit button in notification.</string>
     <string name="quick_actions_lockscreen">Show on lock screen.</string>
+    <string name="quick_actions_notification_title">Setup Quick Actions</string>
+    <string name="quick_actions_notification_message">Configure/Disable quick actions.</string>
 
     <!-- Requires -->
     <string name="requires_2_2">Requires 2.2 or higher…</string>
@@ -525,6 +552,7 @@
         <item>None</item>
         <item>Landscape</item>
         <item>Portrait</item>
+        <item>Natural</item>
     </string-array>
     <string-array name="diag_server_scan_entries">
         <item>Automatic</item>
@@ -543,7 +571,6 @@
         <item>All Remotes</item>
         <item>Most Used Remotes</item>
         <item>Recent Remotes</item>
-        <item>Recent Actions</item>
     </string-array>
     <string-array name="pref_mouse_throttle_entries">
         <item>Fast Networks (No Limit)</item>
