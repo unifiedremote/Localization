@@ -23,23 +23,25 @@ Recursos da versão completa:
 • Controles remotos personalizados
 • Ações Infra-vermelho
 • Açoes NFC
+• Android Wear (Ações Rápidas, Voz & Mouse)
+• Sem Propaganda
 <% } %>
 
 <% if (IOS) { %>
 Tanto o aplicativo Unified Remote quanto o servidor são gratuitos baixar e usar. Mais recursos e controles remotos adicionais estão disponíveis através de compras no aplicativo.
 
+• Unified Remote completo com todos os recursos e controles remotos por $3,99
 • Compre controles remotos adicionais por $0,99 
 • Compre recursos adicionais por $0,99 
-• Unified Remote completo com todos os recursos e controles remotos por $3,99
 <% } %>
 
-<b>Essentials</b>
-Mouse, Keyboard, Screen, Volume, and more.
+<b>Essenciais</b>
+Mouse, Teclado, Tela, Volume, e mais.
 
-<b>Music</b>
+<b>Música</b>
 Spotify, iTunes, Google Music, Winamp, etc.
 
-<b>Video</b>
+<b>Vídeo</b>
 VLC, BSPlayer, Windows Media Player, PotPlayer, etc.
 
 <b>Media Center</b>
@@ -48,16 +50,16 @@ Kodi (XBMC), Plex, Windows Media Center, Boxee, etc.
 <b>Streaming</b>
 YouTube, Netflix, Hulu
 
-<b>Presentations</b>
+<b>Apresentações</b>
 PowerPoint, Keynote, Google Presentation
 
-<b>Browsers</b>
+<b>Navegadores</b>
 Chrome, Internet Explorer, Firefox, Opera
 
-<b>Other</b>
+<b>Outros</b>
 Power, Monitor, Files, Task Manager, Commands, etc.
 
-<b>All Remotes</b>
+<b>Todos os Controles</b>
 https://www.unifiedremote.com/remotes
 
 Observe que alguns controles remotos estão disponíveis apenas em determinados sistemas operacionais.
