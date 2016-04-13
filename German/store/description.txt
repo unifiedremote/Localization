@@ -1,4 +1,4 @@
-Die mit Abstand funktionsreichste Fernbedienung für Ihren PC. Verwandelt Ihr WLAN- oder Bluetooth-Gerät in eine Universalfernbedienung für Ihren Windows, Mac und Linux PC. Seien Sie bequem, Sie verdienen es! Ausgestattet mit einer Unterstützung von über 90 Programmen, darunter Maus & Tastatur, Mediaplayer, Präsentationen, Screen-Mirroring, Power, Dateiexplorer, Terminal und vieles mehr.
+Die mit Abstand funktionsreichste Fernbedienung für Ihren PC. Verwandelt Ihr WLAN- oder Bluetooth-Gerät in eine Universalfernbedienung für Ihren Windows, Mac und Linux PC. Seien Sie bequem, Sie verdienen es! Steuern Sie über 90 häufig genutzte Programme, darunter Maus & Tastatur, Mediaplayer, Präsentationen, Screen-Mirroring, Power, Dateiexplorer, Terminal und vieles mehr.
 
 Server: https://www.unifiedremote.com
 
@@ -16,7 +16,7 @@ Server: https://www.unifiedremote.com
 • 18 kostenfreie Fernbedienungen
 
 <% if (ANDROID) { %>
-<b>In der Vollversion:</b>
+<b>Funktionen der Vollversion</b>
 • Über 90 Fernbedienungen
 • Eigene Fernbedienungen
 • Widgets und Schnelle Aktionen
@@ -31,14 +31,14 @@ Server: https://www.unifiedremote.com
 Sie können sowohl die Unified Remote App als auch den Server kostenlos herunterladen und nutzen. Zusätzliche Funktionen und Fernbedienungen sind per In-App-Kauf erhältlich.
 
 • Die Vollversion von Unified Remote mit allen Funktionen und Fernbedienungen kostet 3,99 USD.
-• Sie erhalten zusätzliche Fernbedienungen für 0,99 USD. 
-• Sie erhalten zusätzliche Funktionen für 0,99 USD. 
+• Zusätzliche Fernbedienungen erhalten Sie für 0,99 USD. 
+• Zusätzliche Funktionen erhalten Sie für 0,99 USD. 
 <% } %>
 
 <b>Essentials</b>
 Maus, Tastatur, Bildschirm, Lautstärke und mehr.
 
-<b>Music</b>
+<b>Musik</b>
 Spotify, iTunes, Google Music, Winamp, etc.
 
 <b>Video</b>
@@ -51,13 +51,13 @@ Kodi (XBMC), Plex, Windows Media Center, Boxee, etc.
 YouTube, Netflix, Hulu
 
 <b>Präsentationen</b>
-PowerPoint, Keynote, Google Presentation
+PowerPoint, Keynote, Google Präsentationen
 
 <b>Browser</b>
 Chrome, Internet Explorer, Firefox, Opera
 
 <b>Sonstiges</b>
-Power, Monitor, Dateien, Task-Manager, Befehle, etc.
+Energie, Überwachung, Dateien, Task-Manager, Befehle, etc.
 
 <b>Alle Fernbedienungen</b>
 https://www.unifiedremote.com/remotes
