@@ -1,4 +1,4 @@
-Die mit Abstand funktionsreichste Fernbedienung für Ihren PC. Verwandelt Ihr WLAN- oder Bluetooth-Gerät in eine Universalfernbedienung für Ihren Windows, Mac und Linux PC. Seien Sie bequem, Sie verdienen es! Steuern Sie über 90 häufig genutzte Programme, darunter Maus & Tastatur, Mediaplayer, Präsentationen, Screen-Mirroring, Power, Dateiexplorer, Terminal und vieles mehr.
+Die mit Abstand funktionsreichste Fernbedienung für Ihren PC. Verwandelt Ihr WLAN- oder Bluetooth-Gerät in eine Universalfernbedienung für Ihren Windows, Mac und Linux PC. Seien Sie bequem, Sie verdienen es! Steuern Sie über 90 häufig genutzte Programme, darunter Maus & Tastatur, Mediaplayer, Präsentationen, Screen-Mirroring, Energie, Dateiexplorer, Terminal und vieles mehr.
 
 Server: https://www.unifiedremote.com
 
