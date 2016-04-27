@@ -1,66 +1,66 @@
-Jednoduchy pocitacovi ovladac s odlisnemi vlastnosti. Zmente sve zarizeni pro PC na  univerzalni dalkovy ovladac v WiFi nebo Bluetooth. Podporuje take Mac a Linux. Ovladej sve oblibene programy, mys a klavesnice. 
+Jednoduchý dálkový ovladač počítače s mnoha funkcemi. Proměnte svůj telefon na univerzální dálkový ovladač přes WiFi nebo Bluetooth. Podporujeme také Mac a Linux. Ovládejte své oblíbené programy, nebo použijte telefon jako myš a klávesnici. 
 
 Server: https://www.unifiedremote.com
 
-“Vyborna pomucka pro tebe co chce ovladat tvuj pocitac pro divani na televizi, nebo treba na poslouchani hudby”. – Gizmodo
+“Výborná pomůcka pro ty co chtějí ovládat svůj počítač při sledování televize, nebo třeba při poslouchu hudby”. – Gizmodo
 
-Klicove vlastnosti:
-• Jednoduchy server a nastaveni aplikace.
-• Automaticka detekce serveru pro jednoduche nalezeni serveru na tve siti.
-• Ochrana hesla serveru a sifrovani pro zvyseni bezpecnosti. 
-• Podporuje single a multi touch ovladani mysi. 
-• Wake on LAN pro jednoduche nastartovani serveru. 
-• Zahrnuje svetle a tmave barevne motivy
-• Server je pristupny pro Windows, Mac and Linux.
-• Ovlada dalsi zarizeni vcetne Raspberry Pi a Arduino Yún.
-• 18 dalkovych ovladaci zdarma.
+Klíčové vlastnosti:
+• Jednoduché nastavení aplikace a serveru (počítače).
+• Automatická detekce serveru a jeho jednoduché nalezení v síti.
+• Zabezpečení serveru heslem a šifrování pro zvýšení bezpečnosti. 
+• Podpora jedno i více dotykové ovládání myší. 
+• Wake on LAN pro jednoduché zapnutí serveru. 
+• Obsahuje dva barevné motivy - světlý a tmavý.
+• Server je dostupný pro Windows, Mac i Linux.
+• Ovládá i další zařízení jako je Raspberry Pi a Arduino Yún.
+• 18 různých druhů ovladaču zdarma.
 
 <% if (ANDROID) { %>
-Kompletni funkce obsahuji:
-• 90+ dalkovy ovladace
-• Widgets & Quick Actions 
-• Hlasove ovladani 
-• Vlastni dalkove ovladace
+Plná verze obsahuje:
+• Více než 90dalkových ovladaču
+• Widgety & Rychlé akce 
+• Hlasové ovládání
+• Vlastní dálkové ovladače
 • IR actions
 • NFC actions
 <% } %>
 
 <% if (IOS) { %>
-Jak Unified Remote aplikace tak server jsou zdarma na stazeni a pouzivani. Dalsi funkce a dalkove ovladace jsou k dispozici na In-App k zakoupeni.
+ Aplikace Unified Remote i server jsou zdarma ke stažení a používání. Další funkce a ovladače je možné zakoupit pomocí In-App nákupů.
 
-• Zakoupeni dalsich dalkovych ovladaci za $0.99
-• Zakoupeni dalsich funkci za $0.99
-• Unified Remote Full, kompletni funkce a dalkove ovladace za $3.99
+• Zakoupení dalších dalkových ovladaču za $0.99
+• Zakoupení dalších funkcí za $0.99
+• Unified Remote Full, kompletní funkce a všechny dalkové ovladače za $3.99
 <% } %>
 
-<b>Essentials</b>
-Mouse, Keyboard, Screen, Volume, and more.
+<b>Základní ovládání</b>
+Myš, Klávesnice, Obrazovka, Hlasitost, a další.
 
 <b>Music</b>
-Spotify, iTunes, Google Music, Winamp, etc.
+Spotify, iTunes, Google Music, Winamp, atd.
 
 <b>Video</b>
-VLC, BSPlayer, Windows Media Player, PotPlayer, etc.
+VLC, BSPlayer, Windows Media Player, PotPlayer, atd.
 
 <b>Media Center</b>
-Kodi (XBMC), Plex, Windows Media Center, Boxee, etc.
+Kodi (XBMC), Plex, Windows Media Center, Boxee, atd.
 
 <b>Streaming</b>
 YouTube, Netflix, Hulu
 
-<b>Presentations</b>
+<b>Prezentace</b>
 PowerPoint, Keynote, Google Presentation
 
-<b>Browsers</b>
+<b>Prohlížeče</b>
 Chrome, Internet Explorer, Firefox, Opera
 
-<b>Other</b>
-Power, Monitor, Files, Task Manager, Commands, etc.
+<b>Ostatní</b>
+Power, Monitor, Files, Task Manager, Commands, atd.
 
-<b>All Remotes</b>
+<b>Všechny dálkové ovladače</b>
 https://www.unifiedremote.com/remotes
 
-Mejte na vedomi ze nektere dalkove ovladace jsou k dispozici pouze pro nektere operacni systemi.
+Mějte na vědomí že některé dálkové ovladače jsou k dispozici pouze pro některé operační systémy.
 
 <% if (ANDROID) { %>
 <%= PERMISSIONS %>
