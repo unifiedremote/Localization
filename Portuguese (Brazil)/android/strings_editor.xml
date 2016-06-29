@@ -92,6 +92,11 @@
     <string name="editor2_wizard_active_server">Servidor ativo</string>
     <string name="editor2_wizard_extra">Extra</string>
     <string name="editor2_wizard_no_title">Sem título</string>
+    <string name="editor2_wizard_tasker">Tasker</string>
+    <string name="editor2_wizard_openapp">Abrir App</string>
+    <string name="editor2_wizard_openactivity">Abrir Atividade</string>
+    <string name="editor2_wizard_broadcast">Enviar Transmissão</string>
+    <string name="editor2_wizard_uriorurl">Abrir URI/URL</string>
 
     <!-- Arrays -->
     <string-array name="list_control_types">

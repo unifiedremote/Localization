@@ -17,6 +17,21 @@
 \n✓ Ações via NFC
     </string>
 
+    <!-- Share Dialog -->
+    <string name="share_dialog_buynfc_title">Compre Tags NFC</string>
+    <string name="share_dialog_buynfc_text">Compre de PhoneHomeProject.com. Use o código \'unified\' para 10% de desconto em qualquer compra.</string>
+    <string name="share_dialog_programnfc_title">Programe Tag NFC</string>
+    <string name="share_dialog_programnfc_text">Façã uma tag NFC realizar uma ação.</string>
+    <string name="share_dialog_createqr_title">Criar Imagem QR</string>
+    <string name="share_dialog_createqr_text">Faça uma Imagem QR realizar uma ação.</string>
+    <string name="share_dialog_createuri_title">Criar uma URI</string>
+    <string name="share_dialog_createuri_text">Faça uma URI realizar uma açãon.</string>
+
+    <!-- Custom Remote Ask -->
+    <string name="custom_ask_title">Controles Personalizados</string>
+    <string name="custom_ask_has_message">Ei! Parece que você está usando um controle remotos personalizado. Agora você pode compartilhar seus controles remotos personalizados na nossa nova comunidade.</string>
+    <string name="custom_ask_not_message">Ei! Você sabia que nós temos uma comunidade onde é possível encontrar e compartilhar controles remotos personalizados?</string>
+
     <!-- Rate -->
     <string name="rate_message">Você está usando este aplicativo há algum tempo. Ele merece 5 estrelas? Não se preocupe, só vamos perguntar uma vez.</string>
     <string name="rate_help">Esteja à vontade para fazer comentários no nosso site, no Facebook, ou no Twitter. Obrigado!</string>
@@ -97,7 +112,12 @@
     <string name="coach_quickswitch">Deslize da direita para a esquerda\npara Troca Rápida</string>
     <string name="coach_gotit">Entendi!</string>
 
-    <!-- Welcome -->
+    <!-- Welcome - Extension -->
+    <string name="welcome2_extension_unified">All-in-one</string>
+    <string name="welcome2_extension_standalone">Standalone</string>
+    <string name="welcome2_extension_text">Looks like you already have Unified Remote Full installed. Would you like to use all apps in one or would you like to use Unified TV as a standalone app?</string>
+
+    <!-- Welcome - Login -->
     <string name="welcome2_login_title">@string/app_unified_remote</string>
     <string name="welcome2_login_text">Registrar-se facilitaria o seu\ninício no %s\nMais vantagens em breve!</string>
     <string name="welcome2_login_google">Entrar com o Google</string>
@@ -125,6 +145,8 @@
 
     <!-- Welcome - Scan -->
     <string name="welcome2_scan_text">Procurando computadores…</string>
+    <string name="welcome2_scan_ir_text">Procurando dispositivos IV…</string>
+    <string name="welcome2_find_ir_text">Procurando dispositivos IV em %s…</string>
 
     <!-- Welcome - Trouble -->
     <string name="welcome2_trouble_title">Resolução de problemas</string>
@@ -134,6 +156,9 @@
     <string name="welcome2_trouble_help_url">www.unifiedremote.com/help</string>
     <string name="welcome2_trouble_try_again">Tente novamente</string>
     <string name="welcome2_trouble_continue">Continuar assim mesmo</string>
+    <string name="welcome2_trouble_ir"><b>Built-in Blasters</b>\n• LG G3/G4\n• HTC One M7/M8/M9\n• Samsung S4/S5/S6\n• Samsung Note 3/4/5 &amp; Tab Pro</string>
+    <string name="welcome2_trouble_network_blaster"><b>Network Blasters</b>\n• <a href='https://www.unifiedremote.com/keene'>Keene</a>\n• <a href='https://www.unifiedremote.com/globalcache'>GlobalCache iTach</a></string>
+    <string name="welcome2_trouble_computer_blasters"><b>Computer Blasters</b>\n• <a href='https://www.unifiedremote.com/usbuirt'>USB-UIRT</a></string>
 
     <!-- Welcome - Done -->
     <string name="welcome2_done_connected_to">Conectado a</string>
@@ -141,6 +166,10 @@
     <string name="welcome2_done_not_connected">Não conectado</string>
     <string name="welcome2_done_no_server">Sem servidor</string>
     <string name="welcome2_done_continue">Continuar assim mesmo</string>
+    <string name="welcome2_done_ir_device">Dispositivo IV encontrado</string>
+    <string name="welcome2_done_ir_no_device_text1">Nenhum dispositivo IV encontrado</string>
+    <string name="welcome2_done_ir_no_device_text2">O seu dispositivo pode não ser suportado</string>
+
 
     <!-- Home / Menu -->
     <string name="home_remotes">Controles remotos</string>
@@ -233,6 +262,9 @@
     <string name="pref_tablet_show_menu">Mostrar menu</string>
     <string name="pref_tablet_show_menu_summary">Sempre mostrar menu em tablets</string>
 
+    <!-- Preferences (IR) -->
+    <string name="pref_cat_ir">IV (Selecione &amp; Aprenda)</string>
+
     <!-- Preferences (Integration) -->
     <string name="pref_cat_integration">Integração de dispositivos</string>
     <string name="pref_volume_title">Ignorar volume</string>
@@ -303,6 +335,9 @@
     <string name="more_remotes_description">Obter mais recursos…</string>
     <string name="locked_remotes_title">Travado</string>
     <string name="locked_remotes_description">Alguns controles remotos estão travados…</string>
+    <string name="add_remotes_title">Consiga Mais</string>
+    <string name="add_remotes_description">Adicionar outro controle…</string>
+    <string name="remote_hidden">%s agora escondido…</string>
     <string name="loading">Carregando…</string>
     <string name="updating">Atualizando…</string>
     <string name="syncing">Sincronizando…</string>
@@ -313,6 +348,8 @@
     <string name="light">Claro</string>
     <string name="connecting_to">Conectando a %1$s…</string>
     <string name="changes_not_saved">As mudanças que você tiver feito podem não ter sido salvas. Quer mesmo continuar?</string>
+    <string name="no_items">Nenhum Item</string>
+    <string name="bluetooth">Bluetooth</string>
 
     <!-- Notifications -->
     <string name="notif_text">Selecione para deixar de manter a conexão ativa.</string>
@@ -370,17 +407,29 @@
     <string name="server_wan_hint">Para Wake-On-WAN</string>
 
     <!-- IR -->
+    <string name="ir_learn_error">Não foi possível aprender/string>
+    <string name="ir_send_error">Não foi possível enviar</string>
+    <string name="ir_invalid_format">Formato IV inválido</string>
+    <string name="ir_invalid_code">Código IV inválido</string>
+    <string name="ir_not_supported">IV não é suportado no dispositivo atual</string>
+    <string name="ir_send_not_supported">Envio de IV não é suportado no dispositivo atual</string>
+    <string name="ir_learn_not_supported">Aprendizagem IV não é suportado no dispositivo atual.</string>
+    <string name="ir_select_default">Select Default IR Device</string>
+    <string name="ir_no_devices_yet">No devices have been detected yet…</string>
     <string name="ir_no_devices">Escolha um dispositivo IV nas preferências.</string>
-    <string name="ir_loading">Carregando…</string>
-    <string name="ir_learn_code">Aprender código</string>
-    <string name="ir_test_code">Testar código</string>
-    <string name="ir_share_code">Compartilhar código</string>
+    <string name="ir_no_default">Selecione o dispositivo IV padrão…</string>
+    <string name="ir_test_code">Testar</string>
+    <string name="ir_learn_code">Aprender</string>
+    <string name="ir_share_code">Compartilhar</string>
     <string name="ir_learn_message_with_distance">Pressione o botão aprender. Em seguida, segure o controle remoto a aproximadamente %1$s do receptor IV do seu dispositivo e pressione o botão que quiser gravar.</string>
-    <string name="ir_learn_not_supported">O seu dispositivo não tem o recurso de aprender IV.</string>
-    <string name="ir_paste">Procurar Códigos Pronto ativado. Ex.: www.remotecentral.com ou códigos Global Cache em irdatabase.globalcache.com/cgi-bin/codes. </string>
+    <string name="ir_paste">Encontre códigos de promoção no Google ou ex.: www.remotecentral.com</string>
+    <string name="ir_learn_start_msg">Pressione o botão aprender…</string>
+    <string name="ir_loading">Esperando…</string>
+    <string name="ir_input_placeholder">&lt;coloque o código&gt;</string>
 
     <!-- Remotes -->
     <string name="remotes_none">Nenhum controle remoto disponível.</string>
+    <string name="remotes_all_added">Todos os controles já adicionados.</string>
     <string name="remotes_none_check">Nenhum controle remoto disponível.\n\nVerifique a instalação do seu servidor.</string>
     <string name="remotes_none_added">Não foi adicionado nenhum controle remoto.</string>
 
@@ -408,6 +457,25 @@
     <string name="select_recommended">Recomendado</string>
     <string name="select_not_installed">Não instalado</string>
     <string name="select_query_hint">Pesquisar controles remotos</string>
+    <string name="select_back">Voltar</string>
+    <string name="select_done">Completo</string>
+    <string name="select_next">Próximo</string>
+
+    <string name="category_input">Entrada</string>
+    <string name="category_utility">Utilidade</string>
+    <string name="category_media">Media</string>
+    <string name="category_gaming">Jogos</string>
+    <string name="category_browser">Navegador</string>
+    <string name="category_presentation">Apresentação</string>
+
+    <!-- IR Select Screen -->
+    <string name="category_ir_tv">TR</string>
+    <string name="category_other">Outro</string>
+    <string name="category_ir_player">Media Player</string>
+    <string name="category_ir_stb">Set-Top Box</string>
+    <string name="category_ir_game">Game Console</string>
+    <string name="category_ir_projector">Projetor</string>
+    <string name="category_ir_receiver">Recebedor</string>
 
     <!-- Sync -->
     <string name="sync_unable">Não foi possível sincronizar</string>
@@ -455,6 +523,7 @@
     <string name="quick_actions_remove">Pressione demoradamente um botão para removê-lo.</string>
     <string name="quick_actions_enable">Habilite as notificações das ações rápidas.</string>
     <string name="quick_actions_edit">Mostrar o botão Edit na notificação.</string>
+    <string name="quick_actions_lockscreen">Mostrar na tecla de bloqueio.</string>
     <string name="quick_actions_notification_title">Configure ações rápidas</string>
     <string name="quick_actions_notification_message">Configure/Desative ações rápidas.</string>
 
