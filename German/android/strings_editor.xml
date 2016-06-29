@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Editor Titles -->
+    <string name="title_editor">Layout-Editor</string>
+    <string name="title_editor_config">Eigenschaftseditor</string>
+    <string name="title_editor_wizard">Aktionsassistent</string>
+
+    <!-- Editor Menu -->
+    <string name="editor2_menu_done">Fertig</string>
+    <string name="editor2_menu_cancel">Abbrechen</string>
+
+    <!-- Editor2 -->
+    <string name="editor2_select_control">Steuerelement wählen</string>
+    <string name="editor2_control_button">Taste</string>
+    <string name="editor2_control_label">Bezeichnung</string>
+    <string name="editor2_control_grid">Raster</string>
+    <string name="editor2_control_space">Abstand</string>
+    <string name="editor2_confirm_delete">Ja</string>
+    <string name="editor2_stop_delete">Nein</string>
+    <string name="editor2_delete_confimation_dialog_text">Sind Sie sicher, dass Sie dieses Steuerelement löschen wollen?</string>
+
+    <!-- Editor2 Config -->
+    <string name="editor2_config_default">Standard</string>
+    <string name="editor2_config_custom">Benutzerdefiniert</string>
+    <string name="editor2_config_info_text">Text:</string>
+    <string name="editor2_config_info_text_hint">Text für Steuerelement eingeben</string>
+    <string name="editor2_config_info_icon">Symbol:</string>
+    <string name="editor2_config_info_icon_button">Symbol ändern</string>
+    <string name="editor2_config_info_color">Farbe:</string>
+    <string name="editor2_config_info_textalign">Textausrichtung:</string>
+    <string name="editor2_config_info_weight">Gewicht:</string>
+    <string name="editor2_config_info_scroll">Scroll:</string>
+    <string name="editor2_config_theme">Theme festlegen</string>
+    <string name="editor2_config_actions_button">Aktion ändern</string>
+    <string name="editor2_config_theme_button">Theme ändern</string>
+    <string name="editor2_config_color_button">Farbe ändern</string>
+    <string name="editor2_config_info_id">ID:</string>
+    <string name="editor2_config_info_lightcolor">Helle Farbe:</string>
+    <string name="editor2_config_info_darkcolor">Dunkle Farbe:</string>
+    <string name="editor2_config_info_lighttheme">Helles Theme:</string>
+    <string name="editor2_config_info_darktheme">Dunkles Theme:</string>
+    <string name="editor2_config_info_onup">On Up:</string>
+    <string name="editor2_config_info_ondown">On Down:</string>
+    <string name="editor2_config_info_ontap">On Tap:</string>
+    <string name="editor2_config_info_onhold">On Hold:</string>
+    <string name="editor2_config_info_ondoubletap">On Double Tap:</string>
+    <string name="editor2_config_info_visibility">Sichtbarkeit:</string>
+    <string name="editor2_config_header_general">Allgemein</string>
+    <string name="editor2_config_header_theme">Theme</string>
+    <string name="editor2_config_header_actions">Aktionen</string>
+    <string name="editor2_config_alert_weight_title">Gewicht nicht möglich</string>
+    <string name="editor2_config_alert_weight_message">Gewicht muss eine ganzen Zahl zwischen 0 und 127 sein.</string>
+    <string name="editor2_config_alert_color_title">Farbe nicht möglich</string>
+    <string name="editor2_config_alert_color_message">Eine Farbe kann nur aus 6-8 hexadezimal [0-F] Werten bestehen.</string>
+
+    <!-- Editor2 Wizard -->
+    <string name="editor2_wizard_typeofaction">Aktionstyp</string>
+    <string name="editor2_wizard_remoteaction">Aktion einer Fernbedienung</string>
+    <string name="editor2_wizard_action">Aktion</string>
+    <string name="editor2_wizard_openremote">Fernbedienung öffnen</string>
+    <string name="editor2_wizard_remote">Fernbedienung</string>
+    <string name="editor2_wizard_deviceaction">Geräte-Aktion</string>
+    <string name="editor2_wizard_wol">Wake on LAN</string>
+    <string name="editor2_wizard_server">Server</string>
+    <string name="editor2_wizard_keyboard">Tastatur</string>
+    <string name="editor2_wizard_mouse">Maus</string>
+    <string name="editor2_wizard_ir">IR</string>
+    <string name="editor2_wizard_howtolearn">Kurzanleitung zum Anlernen</string>
+    <string name="editor2_wizard_lookup">Suchlauf</string>
+    <string name="editor2_wizard_lookup_manufacturer">Hersteller</string>
+    <string name="editor2_wizard_lookup_device">Gerät</string>
+    <string name="editor2_wizard_lookup_codeset">Codeliste</string>
+    <string name="editor2_wizard_lookup_Button">Taste</string>
+    <string name="editor2_wizard_Learn">Anlernen</string>
+    <string name="editor2_wizard_input">Eingabe</string>
+    <string name="editor2_wizard_vibrate">Vibration</string>
+    <string name="editor2_wizard_listen">Listen</string>
+    <string name="editor2_wizard_toast">Toast-Nachricht</string>
+    <string name="editor2_wizard_toaststring">Nachricht die als Pop-up angezeigt werden soll</string>
+    <string name="editor2_wizard_changeserver">Server ändern</string>
+    <string name="editor2_wizard_openinapp">In App öffnen</string>
+    <string name="editor2_wizard_show">Anzeigen</string>
+    <string name="editor2_wizard_next">Nächste</string>
+    <string name="editor2_wizard_prev">Vorherige</string>
+    <string name="editor2_wizard_finish">Fertig</string>
+    <string name="editor2_wizard_review">Überprüfen</string>
+    <string name="editor2_wizard_noitems">Keine Einträge vorhanden</string>
+    <string name="editor2_wizard_home">Home</string>
+    <string name="editor2_wizard_learn_ir">IR anlernen</string>
+    <string name="editor2_wizard_input_ir">IR-Eingang</string>
+    <string name="editor2_wizard_active_server">Aktive Server</string>
+    <string name="editor2_wizard_extra">Extra</string>
+    <string name="editor2_wizard_no_title">Kein Titel</string>
+    <string name="editor2_wizard_tasker">Tasker</string>
+    <string name="editor2_wizard_openapp">App öffnen</string>
+    <string name="editor2_wizard_openactivity">Aktivität öffnen</string>
+    <string name="editor2_wizard_broadcast">Broadcast senden</string>
+    <string name="editor2_wizard_uriorurl">URI/URL öffnen</string>
+
+    <!-- Arrays -->
+    <string-array name="list_control_types">
+        <item>Taste</item>
+        <item>Raster</item>
+        <item>Bezeichnung</item>
+        <item>Abstand</item>
+    </string-array>
+    <string-array name="editor2_config_textalign_entries">
+        <item>Zentriert</item>
+        <item>Links</item>
+        <item>Rechts</item>
+    </string-array>
+    <string-array name="editor2_config_scroll_entries">
+        <item>Keine</item>
+        <item>Horizontal</item>
+        <item>Vertikal</item>
+        <item>Beide</item>
+    </string-array>
+    <string-array name="editor2_config_weight_entries">
+        <item>Keine</item>
+        <item>Wrap</item>
+        <item>Benutzerdefiniert</item>
+    </string-array>
+    <string-array name="editor2_config_visibility_entries">
+        <item>Sichtbar</item>
+        <item>Versteckt</item>
+        <item>Gone</item>
+    </string-array>
+
+</resources>

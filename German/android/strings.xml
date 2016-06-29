@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Upgrade -->
+    <string name="upgrade_title">Vollversion</string>
+    <string name="upgrade_text">✓ Einmaliges Upgrade
+\n✓ Beinhaltet alle künftigen Aktualisierungen
+\n✓ Keine Werbung
+\n✓ Screen-Mirroring
+\n✓ Erweiterte Tastatur
+\n✓ Über 70 Fernbedienungen
+\n✓ Android Wear
+\n✓ Widgets &amp; Schnelle Aktionen
+\n✓ Sprachbefehle
+\n✓ Eigene Fernbedienungen
+\n✓ IR-Aktionen
+\n✓ NFC-Aktionen
+    </string>
+
+    <!-- Share Dialog -->
+    <string name="share_dialog_buynfc_title">NFC Tags kaufen</string>
+    <string name="share_dialog_buynfc_text">Bestellen Sie auf PhoneHomeProject.com. Verwenden Sie den Promo-Code \'unified\' für 10% Rabatt auf alle Einkäufe.</string>
+    <string name="share_dialog_programnfc_title">NFC-Tag programmieren</string>
+    <string name="share_dialog_programnfc_text">Erstellt ein NFC-Tag das eine Aktion auslöst.</string>
+    <string name="share_dialog_createqr_title">QR Image erstellen</string>
+    <string name="share_dialog_createqr_text">Erstellt ein QR Image das eine Aktion auslöst.</string>
+    <string name="share_dialog_createuri_title">URI String erstellen</string>
+    <string name="share_dialog_createuri_text">Erstellt ein URI String der eine Aktion auslöst.</string>
+
+    <!-- Custom Remote Ask -->
+    <string name="custom_ask_title">Eigene Fernbedienungen</string>
+    <string name="custom_ask_has_message">Hey! Es scheint so als würden Sie benutzerdefinierte Fernbedienungen verwenden. Sie können ab sofort Ihre benutzerdefinierten Fernbedienungen in unserer neuen Community teilen.</string>
+    <string name="custom_ask_not_message">Hey! Wussten Sie das wir eine Communityseite betreiben auf der es möglich ist benutzerdefinierte Fernbedienungen zu finden und zu teilen?</string>
+
+    <!-- Rate -->
+    <string name="rate_message">Sie verwenden die App bereits seit einiger Zeit. Würden Sie die App mit 5-Sternen bewerten? Keine Sorge, wir werden Sie hierzu nur einmal fragen.</string>
+    <string name="rate_help">Sie können uns Ihr Feedback gerne via unserer Webseite, Facebook oder Twitter zukommen lassen. Danke!</string>
+
+    <!-- Titles -->
+    <string name="title_welcome">Willkommen</string>
+    <string name="title_remotes">Fernbedienungen</string>
+    <string name="title_remote">Fernbedienung</string>
+    <string name="title_preferences">Einstellungen</string>
+    <string name="title_preferences_ir">IR-Einstellungen</string>
+    <string name="title_servers">Server</string>
+    <string name="title_scan">Suchen</string>
+    <string name="title_server">Server</string>
+    <string name="title_mouse_preferences">Mauseinstellungen</string>
+    <string name="title_input">Basic Input</string>
+    <string name="title_uri">URI</string>
+    <string name="title_share_uri">URI-Builder</string>
+    <string name="title_share_nfc">Auf NFC schreiben</string>
+    <string name="title_share_qr">Teilen mit QR</string>
+    <string name="title_widget_config">Widget</string>
+    <string name="title_quick_actions">Schnelle Aktionen</string>
+    <string name="title_ir_learn">IR-Code anlernen</string>
+    <string name="title_ir_input">IR-Code eingeben</string>
+    <string name="title_ir_test_remote">Fernbedienung testen</string>
+    <string name="title_upgrade">Upgrade</string>
+
+    <!-- License Status -->
+    <string name="license_status_free">Kostenlose Version</string>
+    <string name="license_status_full">Vollversion</string>
+    <string name="license_status_eval">Evaluierungsversion</string>
+    <string name="license_status_unlocked">Vollversion</string>
+    <string name="license_status_locked">Lizenz gesperrt</string>
+
+    <!-- License Description -->
+    <string name="license_description_free">Nur für kostenlose Version lizenziert.</string>
+    <string name="license_description_full">Alle Funktionen freigeschaltet.</string>
+    <string name="license_description_eval">Nur für eine begrenzte Zeit freigeschaltet.</string>
+    <string name="license_description_unlocked">Alle Funktionen freigeschaltet.</string>
+    <string name="license_description_locked">Lizenz gesperrt. Klicken, um erneut zu prüfen…</string>
+    <string name="license_description_checking">Lizenz wird überprüft…</string>
+    <string name="license_description_error">Unbekannter Fehler.</string>
+
+    <!-- Status Screen -->
+    <string name="status_general">Allgemein</string>
+    <string name="status_connection">Verbindung</string>
+    <string name="status_misc">Sonstiges</string>
+    <string name="status_version">Version</string>
+    <string name="status_time">Zeit</string>
+    <string name="status_host">Host</string>
+    <string name="status_status">Status</string>
+    <string name="status_authenticated">Authentifiziert</string>
+    <string name="status_encrypted">Verschlüsselt</string>
+    <string name="status_fast">Schnelle Verbindung</string>
+    <string name="status_reset">Erster Start zurücksetzen</string>
+    <string name="status_reset_info">Willkommens-Anleitung erneut anzeigen.</string>
+    <string name="status_last_error">Letzter Fehler</string>
+    <string name="status_clear_cache">Cache löschen</string>
+    <string name="status_clear_cache_info">Lösche den kompletten lokalen Cache.</string>
+    <string name="status_cache_size">Cache-Größe</string>
+    <string name="status_connect">Verbindung erzwingen</string>
+    <string name="status_connect_info">Erzwingt den Clienten eine Verbindung herzustellen.</string>
+    <string name="status_disconnect">Trennen erzwingen</string>
+    <string name="status_disconnect_info">Erzwingt den Clienten die Verbindung zu trennen.</string>
+    <string name="status_yes">Ja</string>
+    <string name="status_no">Nein</string>
+    <string name="status_compat">Kompatibilitätsmodus</string>
+    <string name="status_platform">Server-Plattform</string>
+    <string name="status_open_source">Open-Source Lizenzen</string>
+    <string name="status_open_source_info">Lizenzdetails für Open-Source Software.</string>
+
+    <!-- Evaluation -->
+    <string name="eval_expired">Evaluation abgelaufen</string>
+    <string name="eval_expired_message">Die Evaluationszeit für dieses Release ist abgelaufen. Nur Funktionen der kostenlosen Version sind ab sofort verfügbar. Bitte kontaktieren Sie uns auf www.unifiedremote.com wenn Sie eine neue Evaluationsversion wünschen.</string>
+
+    <!-- Shortcut -->
+    <string name="shortcut_title">Fernbedienung wählen</string>
+
+    <!-- Coach -->
+    <string name="coach_navigate_tablet">Das Tablet-Layout kann in den Einstellungen deaktiviert werden</string>
+    <string name="coach_quickswitch">Nach Rechts wischen für\nSchnelles Wechseln</string>
+    <string name="coach_gotit">Alles klar!</string>
+
+    <!-- Welcome - Extension -->
+    <string name="welcome2_extension_unified">All-in-one</string>
+    <string name="welcome2_extension_standalone">Standalone</string>
+    <string name="welcome2_extension_text">Scheinbar haben Sie bereits die Vollversion von Unified Remote installiert. Würden Sie gerne alle Apps in einer verwenden oder Unified TV lieber als eine eigenständige App nutzen?</string>
+
+    <!-- Welcome - Login -->
+    <string name="welcome2_login_title">@string/app_unified_remote</string>
+    <string name="welcome2_login_text">Das Anmelden erleichtet für Sie\nden Start mit %s\nWeitere Vorteile sind demnächst verfügbar!</string>
+    <string name="welcome2_login_google">Mit Google anmelden</string>
+    <string name="welcome2_login_skip">Schritt überspringen</string>
+
+    <!-- Welcome - Network -->
+    <string name="welcome2_network_title">WLAN / Bluetooth</string>
+    <string name="welcome2_network_continue">Fortfahren</string>
+    <string name="welcome2_network_enable_data">Daten aktivieren</string>
+    <string name="welcome2_network_enable_data_text">Für Mobile Daten sollten Sie sich vergewissern, dass der Server korrekt konfiguriert ist um externe Verbindungen zu erlauben.</string>
+    <string name="welcome2_network_enable_bluetooth">Bluetooth aktivieren</string>
+    <string name="welcome2_network_enable_bluetooth_text">Für Bluetooth sollten Sie sich vergewissern, dass Ihr Gerät und Computer gekoppelt sind.</string>
+    <string name="welcome2_network_enable_wifi">WLAN aktivieren</string>
+    <string name="welcome2_network_enable_wifi_text">Für WLAN sollten Sie sich vergewissern, dass Sie mit dem gleichen Netzwerk wie dem des Computers verbunden sind.</string>
+
+    <!-- Welcome - Install -->
+    <string name="welcome2_install_title">Server installieren</string>
+    <string name="welcome2_install_text">Legen Sie los und installieren Sie\nUnified Remote Server\nauf Ihrem Computer</string>
+    <string name="welcome2_install_check_inbox">Überprüfen Sie Ihren Posteingang</string>
+    <string name="welcome2_install_instructions">Anweisungen gesendet an:</string>
+    <string name="welcome2_install_installed">Ich habe den Server installiert</string>
+    <string name="welcome2_install_later">Später installieren</string>
+    <string name="welcome2_install_download">Download verfügbar unter:</string>
+    <string name="welcome2_install_url">www.unifiedremote.com</string>
+
+    <!-- Welcome - Scan -->
+    <string name="welcome2_scan_text">Suche nach Computer…</string>
+    <string name="welcome2_scan_ir_text">Suche nach IR-Geräte…</string>
+    <string name="welcome2_find_ir_text">Suche nach IR-Geräten auf %s…</string>
+
+    <!-- Welcome - Trouble -->
+    <string name="welcome2_trouble_title">Problembehebung</string>
+    <string name="welcome2_trouble_wifi">Für WLAN sollten Sie sich vergewissern, dass Sie mit dem gleichen Netzwerk wie dem des Computers verbunden sind.</string>
+    <string name="welcome2_trouble_bluetooth">Für Bluetooth sollten Sie sich vergewissern, dass Ihr Gerät und Computer gekoppelt sind.</string>
+    <string name="welcome2_trouble_data">Für Mobile Daten sollten Sie sich vergewissern, dass der Server korrekt konfiguriert ist um externe Verbindungen zu erlauben.</string>
+    <string name="welcome2_trouble_help_url">www.unifiedremote.com/help</string>
+    <string name="welcome2_trouble_try_again">Erneut versuchen</string>
+    <string name="welcome2_trouble_continue">Trotzdem fortfahren</string>
+    <string name="welcome2_trouble_ir"><b>Eingebaute IR-Sender</b>\n• LG G3/G4\n• HTC One M7/M8/M9\n• Samsung S4/S5/S6\n• Samsung Note 3/4/5 &amp; Tab Pro</string>
+    <string name="welcome2_trouble_network_blaster"><b>Network Blasters</b>\n• <a href='https://www.unifiedremote.com/keene'>Keene</a>\n• <a href='https://www.unifiedremote.com/globalcache'>GlobalCache iTach</a></string>
+    <string name="welcome2_trouble_computer_blasters"><b>Computer Blasters</b>\n• <a href='https://www.unifiedremote.com/usbuirt'>USB-UIRT</a></string>
+
+    <!-- Welcome - Done -->
+    <string name="welcome2_done_connected_to">Verbunden mit</string>
+    <string name="welcome2_done_get_started">Los geht\'s!</string>
+    <string name="welcome2_done_not_connected">Nicht verbunden</string>
+    <string name="welcome2_done_no_server">Keine Server</string>
+    <string name="welcome2_done_continue">Trotzdem fortfahren</string>
+    <string name="welcome2_done_ir_device">IR-Gerät gefunden</string>
+    <string name="welcome2_done_ir_no_device_text1">Kein IR-Gerät gefunden</string>
+    <string name="welcome2_done_ir_no_device_text2">Ihr Gerät wird möglicherweise nicht unterstützt</string>
+
+    <!-- Home / Menu -->
+    <string name="home_remotes">Fernbedienungen</string>
+    <string name="home_servers">Server</string>
+    <string name="home_preferences">Einstellungen</string>
+    <string name="home_editor">Editor</string>
+    <string name="home_widgets">Widgets</string>
+    <string name="home_quick_actions">Schnelle Aktionen</string>
+    <string name="home_help">Hilfe</string>
+    <string name="home_exit">Beenden</string>
+    <string name="home_upgrade">Upgrade</string>
+    <string name="home_status">Status</string>
+
+    <!-- Menus -->
+    <string name="menu_left_customize">Anpassen</string>
+    <string name="menu_left_servers">Gespeicherte Server</string>
+    <string name="menu_left_servers_none">Keine Server hinzugefügt</string>
+    <string name="menu_left_other">Sonstiges</string>
+    <string name="menu_left_share">Mit Freunden teilen</string>
+    <string name="menu_left_rate">App bewerten</string>
+
+    <!-- Buttons -->
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Abbrechen</string>
+    <string name="button_add">Hinzufügen</string>
+    <string name="button_remove">Entfernen</string>
+    <string name="button_toggle">Umschalten</string>
+    <string name="button_homepage">Webseite</string>
+    <string name="button_donate">Spenden</string>
+    <string name="button_close">Schließen</string>
+    <string name="button_save">Speichern</string>
+    <string name="button_prev">Vorherige</string>
+    <string name="button_next">Nächste</string>
+    <string name="button_yes">Ja</string>
+    <string name="button_no">Nein</string>
+    <string name="button_finish">Abschließen</string>
+    <string name="button_accept">Akzeptieren</string>
+    <string name="button_decline">Ablehnen</string>
+    <string name="button_rate">Bewerten</string>
+    <string name="button_edit">Bearbeiten</string>
+    <string name="button_send">Senden</string>
+    <string name="button_search">Suchen</string>
+    <string name="button_select">Wählen</string>
+    <string name="button_learnmore">Weitere anlernen</string>
+
+    <!-- Inhouse Ads -->
+    <string name="inhouse_remove"><u>Upgraden Sie zum Entfernen dieser Mitteilungen</u></string>
+    <string name="inhouse_buy">Vollversion kaufen</string>
+    <string name="inhouse_skip">Überspringen und fortfahren</string>
+
+    <!-- Preferences (Connection) -->
+    <string name="pref_cat_connection">Verbindung</string>
+    <string name="pref_host_title">Server</string>
+    <string name="pref_host_summary">Serververbindungen verwalten.</string>
+    <string name="pref_keep_alive_title">Keep-Alive</string>
+    <string name="pref_keep_alive_summary">Erlaube Verbindungen im Hintergrund.</string>
+    <string name="pref_errors_title">Fehler</string>
+    <string name="pref_errors_summary">Verbindungsfehler anzeigen.</string>
+    <string name="pref_auto_update_servers_title">Auto-Update Server</string>
+    <string name="pref_auto_update_servers_summary">Die Server IP-Adressen automatisch aktualisieren.</string>
+    <string name="pref_mouse_fast">Schnelle Verbindung</string>
+    <string name="pref_mouse_fast_summary">Schnelle Verbindung aktivieren (z.B. UDP).</string>
+
+    <!-- Preferences (General) -->
+    <string name="pref_cat_general">Allgemein</string>
+    <string name="pref_quick_actions_title">Schnelle Aktionen</string>
+    <string name="pref_quick_actions_summary">Schnelle Aktionen ändern.</string>
+    <string name="pref_widgets_title">Widgets</string>
+    <string name="pref_widgets_summary">Verwalte Deine Widgets.</string>
+    <string name="pref_default_remotes_list_title">Liste der Fernbedienungen</string>
+    <string name="pref_default_remotes_list_summary">Wähle eine Standardliste für Fernbedienungen und Aktionen.</string>
+    <string name="pref_theme_title">Themen</string>
+    <string name="pref_theme_summary">Die standardmäßige Themenfarbe festlegen.</string>
+    <string name="pref_theme_list_title">Theme wählen</string>
+    <string name="pref_remotes_title">Layout der Fernbedienungen</string>
+    <string name="pref_remotes_summary">Layout für Fernbedienungen festlegen.</string>
+    <string name="pref_remotes_list_title">Layout wählen</string>
+    <string name="pref_visible_title">Sichtbare Fernbedienungen</string>
+    <string name="pref_visible_summary">Wähle Fernbedienungen die in der Hauptliste sichtbar sind.</string>
+    <string name="pref_visible_dialog_title">Fernbedienungen wählen</string>
+    <string name="pref_switch_title">Schnelles Wechseln
+</string>
+    <string name="pref_switch_summary">Wähle Fernbedienungen für Schnelles Wechseln.</string>
+    <string name="pref_switch_dialog_title">Fernbedienungen wählen</string>
+    <string name="pref_orientation_title">Ausrichtung sperren</string>
+    <string name="pref_orientation_summary">Eine Ausrichtungssperre festlegen.</string>
+    <string name="pref_orientation_list_title">Sperre auswählen</string>
+    <string name="pref_haptic_title">Haptisches Feedback</string>
+    <string name="pref_haptic_summary">Aktiviere haptisches Feedback in Fernbedienungen.</string>
+    <string name="pref_fullscreen_title">Vollbild</string>
+    <string name="pref_fullscreen_summary">App im Vollbildmodus starten.</string>
+    <string name="pref_tablet_show_menu">Menü anzeigen</string>
+    <string name="pref_tablet_show_menu_summary">Menü bei Tablets immer anzeigen.</string>
+
+    <!-- Preferences (IR) -->
+    <string name="pref_cat_ir">IR (Wählen &amp; Anlernen)</string>
+
+    <!-- Preferences (Integration) -->
+    <string name="pref_cat_integration">Geräteintegration</string>
+    <string name="pref_volume_title">Lautstärke überschreiben</string>
+    <string name="pref_volume_summary">Steuere die Lautstärke der Fernbedienung mit den Hardwaretasten.</string>
+    <string name="pref_keyboard_title">System Tastatur</string>
+    <string name="pref_keyboard_summary">Verwende die Standardtastatur des Systems.</string>
+    <string name="pref_mouse_title">Mauseinstellungen</string>
+    <string name="pref_mouse_summary">Mauseinstellungen ändern.</string>
+    <string name="pref_events_title">Telefonereignisse</string>
+    <string name="pref_events_summary">Sende Telefonereignisse zum Server.</string>
+    <string name="pref_voice_title">Sprachbefehle aktivieren</string>
+    <string name="pref_voice_summary">Zeige Sprachbefehle in der Titelleiste.</string>
+    <string name="pref_nfc_title">NFC aktivieren</string>
+    <string name="pref_nfc_summary">NFC-Tags automatisch erkennen.</string>
+
+    <!-- Preferences (Power) -->
+    <string name="pref_cat_power">Energie</string>
+    <string name="pref_wifi_title">WLAN sperren</string>
+    <string name="pref_wifi_summary">WLAN aktiviert lassen während die App läuft.</string>
+    <string name="pref_wake_title">Wake-Lock</string>
+    <string name="pref_wake_summary">Gerät wach halten während die App läuft.</string>
+
+    <!-- Preferences (Other) -->
+    <string name="pref_cat_other">Sonstiges</string>
+    <string name="pref_analytics_title">Nutzungsstatistiken senden</string>
+    <string name="pref_analytics_summary">Nur anonyme Daten werden gesendet.</string>
+
+    <!-- Preferences (Mouse) -->
+    <string name="pref_cat_mouse">Maus</string>
+    <string name="pref_mouse_multitouch">Multi-Touch</string>
+    <string name="pref_mouse_multitouch_summary">Zwischen Single und Multi-Touch wechseln.</string>
+    <string name="pref_mouse_invert">Scrollen umkehren</string>
+    <string name="pref_mouse_invert_summary">Kehre die Scrollrichtung um.</string>
+    <string name="pref_mouse_switch">Maustasten tauschen</string>
+    <string name="pref_mouse_switch_summary">Tausche den Links- und Rechtsklick der Maus.</string>
+    <string name="pref_mouse_throttle">Mausgeschwindigkeit limitieren</string>
+    <string name="pref_mouse_throttle_summary">Limitiert die Anzahl der gesendeten Maus-Aktualisierungen.</string>
+    <string name="pref_mouse_throttle_title">Limit</string>
+    <string name="pref_pinch_zoom">Pinch-Zoom</string>
+    <string name="pref_pinch_zoom_summary">Aktiviere die Pinch-to-Zoom Geste.</string>
+    <string name="pref_mouse_sensitivity">Zeiger-Empfindlichkeit</string>
+    <string name="pref_mouse_sensitivity_summary">Empfindlichkeit des Mauszeigerns anpassen.</string>
+    <string name="pref_mouse_sensitivity_dialog_title">Zeiger-Empfindlichkeit</string>
+    <string name="pref_mouse_sensitivity_help">Verwende eine geringe Empfindlichkeit für langsamere Bewegungen oder eine hohe Empfindlichkeit für schnellere Bewegungen.\n</string>
+    <string name="pref_mouse_scroll_sensitivity">Scroll-Empfindlichkeit</string>
+    <string name="pref_mouse_scroll_sensitivity_summary">Empfindlichkeit des Mausscrolls anpassen.</string>
+    <string name="pref_mouse_scroll_sensitivity_dialog_title">Scroll-Empfindlichkeit</string>
+    <string name="pref_mouse_scroll_sensitivity_help">Verwende eine geringe Empfindlichkeit für langsameres Scrollen oder eine hohe Empfindlichkeit für schnelleres Scrollen.\n</string>
+    <string name="pref_mouse_disable_swipe">Menü-Wischen deaktivieren</string>
+    <string name="pref_mouse_disable_swipe_summary">Deaktiviert das Wischen für Menüs bei Verwendung der Maus.</string>
+    <string name="pref_mouse_test">Maus testen</string>
+    <string name="pref_mouse_test_summary">Teste Deine aktuellen Einstellungen.</string>
+
+    <!-- Dialogs (General) -->
+    <string name="diag_version_title">Versionen nicht übereinstimmend</string>
+    <string name="diag_version_message">Sie verwenden derzeit verschiede Versionen bei dem Client und Server. Stellen Sie sicher, dass beide auf die letzte Version aktualisiert wurden und versuchen Sie es erneut.</string>
+    <string name="diag_auth_title">Authentifikation fehlgeschlagen</string>
+    <string name="diag_auth_message">Der Server konnte Sie nicht authentifizieren. Stellen Sie sicher, dass Sie das korrekte Passwort in den Einstellungen für diese Serverbindung eingeben haben.</string>
+    <string name="diag_connection_error_title">Verbindung fehlgeschlagen</string>
+    <string name="diag_connection_error">Eine Verbindung zu Ihrem Server konnte nicht hergestellt werden. Bitte überprüfen Sie Ihren Server und Netzwerkeinstellungen und versuchen Sie es erneut.</string>
+    <string name="diag_compat_title">Kompatibilitätsmodus</string>
+    <string name="diag_compat_message">Kompatibilitätsmodus ist aktiviert. Einige Funktionen oder Fernbedienungen sind möglicherweise nicht verfügbar. Wir empfehlen Ihren Server auf die letzte Version zu aktualisieren.</string>
+    <string name="diag_new_remotes_title">Neue Fernbedienungen(en)</string>
+
+    <!-- Misc -->
+    <string name="bt_unnamed">&lt;Unbenannt&gt;</string>
+    <string name="more_remotes_title">Vollversion</string>
+    <string name="more_remotes_description">Erhalten Sie weitere Funktionen…</string>
+    <string name="locked_remotes_title">Gesperrt</string>
+    <string name="locked_remotes_description">Einige Fernbedienungen sind gesperrt…</string>
+    <string name="add_remotes_title">Erhalten Sie mehr</string>
+    <string name="add_remotes_description">Weitere Fernbedienung hinzufügen…</string>
+    <string name="remote_hidden">%s ist nun ausgeblendet…</string>
+    <string name="loading">Laden…</string>
+    <string name="updating">Aktualisieren…</string>
+    <string name="syncing">Synchronisieren…</string>
+    <string name="retrying">Wiederholen…</string>
+    <string name="full_version_only">Nur Vollversion</string>
+    <string name="uri">URI</string>
+    <string name="dark">Dunkel</string>
+    <string name="light">Hell</string>
+    <string name="connecting_to">Verbinden mit %1$s…</string>
+    <string name="changes_not_saved">Alle Änderungen die Sie durchgeführt haben sind nicht gespeichert. Möchten Sie wirklich fortfahren?</string>
+    <string name="no_items">Keine Einträge</string>
+    <string name="bluetooth">Bluetooth</string>
+
+    <!-- Notifications -->
+    <string name="notif_text">Wählen, um Keep-Alives für die Verbindung zu pausieren.</string>
+
+    <!-- Connection Status -->
+    <string name="conn_status_connected">Verbunden</string>
+    <string name="conn_status_connecting">Verbinden</string>
+    <string name="conn_status_initial">Initial</string>
+    <string name="conn_status_no_connectivity">Keine Verbindung</string>
+    <string name="conn_status_disconnected">Nicht verbunden</string>
+
+    <!-- Connection Errors -->
+    <string name="conn_error_unknown_host">Unbekannter Host Name.</string>
+    <string name="conn_error_bt_not_available">Bluetooth nicht unterstützt/verfügbar.</string>
+    <string name="conn_error_wifi_error">WLAN Verbindungsproblem.</string>
+    <string name="conn_error_bt_error">Bluetooth Verbindungsproblem.</string>
+    <string name="conn_error_no_servers">Keine Server hinzugefügt.</string>
+    <string name="conn_error_unknown_connection">Unbekannte Verbindung.</string>
+    <string name="conn_error_version_mismatch">Versionen nicht übereinstimmend</string>
+    <string name="conn_error_auth_failed">Authentifikation fehlgeschlagen.</string>
+    <string name="conn_error_retrying">Versuche erneut zu verbinden…</string>
+    <string name="conn_error_bt_no_paired">Sie haben bisher keine Bluetooth Geräte gepaart.</string>
+    <string name="conn_error_bt_no_selected">Sie müssen ein Bluetooth Gerät auswählen.</string>
+    <string name="conn_error_service_stopped">Dienst angehalten</string>
+
+    <!-- Servers -->
+    <string name="servers_none">Keine Server hinzugefügt.</string>
+    <string name="servers_searching">Suche nach Servern…</string>
+    <string name="servers_menu_select">Wählen</string>
+    <string name="servers_menu_edit">Bearbeiten</string>
+    <string name="servers_menu_remove">Entfernen</string>
+    <string name="servers_menu_refresh">Aktualisieren</string>
+    <string name="servers_add_title">Server hinzufügen</string>
+    <string name="servers_select_title">Server wählen</string>
+    <string name="servers_remove_title">Entfernte Server</string>
+    <string name="servers_found">Gefundene Server</string>
+    <string name="servers_saved">Gespeicherte Server</string>
+
+    <!-- Server -->
+    <string name="server_type">Typ</string>
+    <string name="server_tcp_name">Anzeigename</string>
+    <string name="server_tcp_name_hint">Unbenannt</string>
+    <string name="server_tcp_host">Host-IP / Addresse</string>
+    <string name="server_tcp_port">TCP Port</string>
+    <string name="server_udp_port">UDP Port</string>
+    <string name="server_tcp_mac">MAC</string>
+    <string name="server_tcp_mac_hint">Optional</string>
+    <string name="server_bt">Bluetooth Host</string>
+    <string name="server_login">Login (falls erforderlich)</string>
+    <string name="server_password">Passwort</string>
+    <string name="server_password_hint">Falls erforderlich</string>
+    <string name="server_username">Benutzername</string>
+    <string name="server_username_hint">Falls erforderlich</string>
+    <string name="server_wan">WAN IP</string>
+    <string name="server_wan_hint">Für Wake-On-WAN</string>
+
+    <!-- IR -->
+    <string name="ir_learn_error">Anlernen konnte nicht durchgeführt werden</string>
+    <string name="ir_send_error">Senden konnte nicht durchgeführt werden</string>
+    <string name="ir_invalid_format">Ungültiges IR-Format</string>
+    <string name="ir_invalid_code">Ungültiger IR-Code</string>
+    <string name="ir_not_supported">IR wird bei diesem Gerät nicht unterstützt.</string>
+    <string name="ir_send_not_supported">IR-Senden wird bei diesem Gerät nicht unterstützt.</string>
+    <string name="ir_learn_not_supported">IR-Anlernen wird bei diesem Gerät nicht unterstützt.</string>
+    <string name="ir_select_default">Standard IR-Gerät wählen</string>
+    <string name="ir_no_devices_yet">Bisher keine Geräte gefunden…</string>
+    <string name="ir_no_devices">Keine IR-Geräte gefunden…</string>
+    <string name="ir_no_default">Wähle ein Standard IR-Gerät…</string>
+    <string name="ir_test_code">Testen</string>
+    <string name="ir_learn_code">Anlernen</string>
+    <string name="ir_share_code">Teilen</string>
+    <string name="ir_learn_message_with_distance">Drücken Sie die Anlern-Taste. Halten Sie die Fernbedienung ungefähr %1$s entfernt von dem IR-Empfänger Ihres Gerätes und drücken Sie die Taste die Sie hinterlegen möchten.</string>
+    <string name="ir_paste">Finde Pronto-Codes mit Google oder z.B. www.remotecentral.com</string>
+    <string name="ir_learn_start_msg">Anlern-Taste drücken…</string>
+    <string name="ir_loading">Warten…</string>
+    <string name="ir_input_placeholder">&lt;Code eingeben&gt;</string>
+
+    <!-- Remotes -->
+    <string name="remotes_none">Keine Fernbedienungen verfügbar.</string>
+    <string name="remotes_all_added">Es sind bereits alle Fernbedienungen hinzugefügt.</string>
+    <string name="remotes_none_check">Keine Fernbedienungen verfügbar.\n\nBitte überprüfen Sie Ihre Server Installation.</string>
+    <string name="remotes_none_added">Keine Fernbedienungen hinzugefügt.</string>
+
+    <!-- Remote -->
+    <string name="remote_not_purchased">Fernbedienung nicht erworben.</string>
+    <string name="remote_not_found">Fernbedienung nicht gefunden.</string>
+    <string name="remote_layout_error">Layout kann nicht geladen werden.</string>
+
+    <!-- Remote Menu -->
+    <string name="remote_menu_keyboard">Tastatur</string>
+    <string name="remote_menu_mouse">Maus</string>
+    <string name="remote_menu_media">Media</string>
+    <string name="remote_menu_launch">Start</string>
+    <string name="remote_menu_share">Teilen</string>
+    <string name="remote_menu_edit">Bearbeiten</string>
+    <string name="remote_menu_voice">Sprachbefehl</string>
+    <string name="remote_menu_switch">Switch</string>
+    <string name="remote_menu_server">Server</string>
+    <string name="remote_menu_refresh">Aktualisieren</string>
+    <string name="remote_menu_remove">Entfernen</string>
+
+    <!-- Select Remotes Screen -->
+    <string name="select_select">Alle auswählen</string>
+    <string name="select_deselect">Alle abwählen</string>
+    <string name="select_recommended">Empfohlen</string>
+    <string name="select_not_installed">Nicht installiert</string>
+    <string name="select_query_hint">Suche Fernbedienungen</string>
+    <string name="select_back">Zurück</string>
+    <string name="select_done">Fertig</string>
+    <string name="select_next">Weiter</string>
+
+    <string name="category_input">Eingabe</string>
+    <string name="category_utility">Dienstprogramm</string>
+    <string name="category_media">Media</string>
+    <string name="category_gaming">Gaming</string>
+    <string name="category_browser">Browser</string>
+    <string name="category_presentation">Präsentation</string>
+
+    <!-- IR Select Screen -->
+    <string name="category_ir_tv">TV</string>
+    <string name="category_other">Sonstige</string>
+    <string name="category_ir_player">Mediaplayer</string>
+    <string name="category_ir_stb">Set-Top-Box</string>
+    <string name="category_ir_game">Spielkonsole</string>
+    <string name="category_ir_projector">Projektor</string>
+    <string name="category_ir_receiver">Receiver</string>
+
+    <!-- Sync -->
+    <string name="sync_unable">Sync. nicht möglich</string>
+    <string name="sync_wait">Bitte während dem Synchronsieren warten…</string>
+    <string name="sync_required">Sie haben bisher keine Fernbedienungen synchronisiert. Sie müssen Unified Remote starten und die Fernbedienungen ein erstes Mal laden.</string>
+    <string name="sync_required_title">Keine Fernbedienungen</string>
+
+    <!-- WOL -->
+    <string name="wol_sent">Wake on LAN gesendet.</string>
+    <string name="wol_failed">Wake on LAN konnte nicht ausgeführt werden. Vergewissern Sie sich, dass Sie eine MAC-Adresse in den Servereinstellungen festgelegt haben.</string>
+    <string name="wol_requires_tcp">Wake on LAN benötigt eine aktive TCP Verbindung.</string>
+
+    <!-- Mouse -->
+    <string name="mouse_touch_left">Touch verwenden, um Mausbewegungen zu simulieren:\n\nFür Linksklick mit einem Finger tippen.\n\n</string>
+    <string name="mouse_touch_multi">Für Rechtsklick mit zwei Fingern tippen.\n\nZum Scrollen mit zwei Fingern ziehen.\n\n</string>
+    <string name="mouse_touch_pinch">Zum Verkleinern oder Vergrößern zwei Finger zueinander oder voneinander weg ziehen.\n\n</string>
+    <string name="mouse_touch_drag">Gedrückt halten und bewegen zum Verschieben.\n\nEinmal Klicken, um Verschieben abzuschließen.</string>
+
+    <!-- Share -->
+    <string name="share_qr_open">Bild-URL öffnen</string>
+    <string name="share_browse_title">Durchsuchen</string>
+    <string name="share_copied_to_clipboard">In Zwischenablage kopiert</string>
+
+    <!-- NFC -->
+    <string name="nfc_unavailable_or_disabled">NFC ist nicht verfügbar oder deaktiviert.</string>
+    <string name="nfc_write">Auf NFC-Tag schreiben…</string>
+    <string name="nfc_touch">Tag berühren zum Schreiben</string>
+    <string name="nfc_wrote">Nachricht auf Tag geschrieben.</string>
+
+    <!-- Widgets -->
+    <string name="widget_config_layout">Layout</string>
+    <string name="widget_config_properties">Eigenschaften</string>
+    <string name="widget_config_import">Importieren</string>
+    <string name="widget_config_export">Exportieren</string>
+    <string name="widget_config_editable">Zeige \'Bearbeiten\' Taste im Widget-Layout.</string>
+    <string name="widget_config_none_added">Sie haben bisher keine Widgets hinzugefügt. Sobald Sie ein Unified Remote Widget auf Ihrem Startbildschirm platziert haben, können Sie es hier bearbeiten.</string>
+    <string name="widget_config_new">Neues Widget</string>
+    <string name="widget_config_edit_widget">Widget bearbeiten</string>
+    <string name="widget_config_load_error">Widget kann nicht geladen werden</string>
+    <string name="widget_select_icon">Symbol auswählen</string>
+    <string name="widget_select_color">Farbe auswählen</string>
+
+    <!-- Quick Actions -->
+    <string name="quick_actions_ticker">Ihre Schnelle Aktionen sind verfügbar…</string>
+    <string name="quick_actions_remove">Taste gedrückt halten zum Entfernen.</string>
+    <string name="quick_actions_enable">Benachrichtungen für Schnelle Aktionen aktivieren.</string>
+    <string name="quick_actions_edit">\'Bearbeiten\' Taste in Benachrichtungen anzeigen.</string>
+    <string name="quick_actions_lockscreen">Auf dem Sperrbildschirm anzeigen.</string>
+    <string name="quick_actions_notification_title">Schnelle Aktionen einrichten</string>
+    <string name="quick_actions_notification_message">Konfiguriere/Deaktiviere die Schnellen Aktionen.</string>
+
+    <!-- Requires -->
+    <string name="requires_2_2">Benötigt 2.2 oder höher…</string>
+    <string name="requires_2_3">Benötigt 2.3 oder höher…</string>
+    <string name="requires_3_0">Benötigt 3.0 oder höher…</string>
+    <string name="requires_newer_server">Benötigt neueren Server.\n\nBitte aktualisieren!</string>
+
+    <!-- Arrays -->
+    <string-array name="pref_theme_entries">
+        <item>Hell</item>
+        <item>Dunkel</item>
+    </string-array>
+    <string-array name="pref_remotes_entries">
+        <item>Liste</item>
+        <item>Raster</item>
+    </string-array>
+    <string-array name="pref_client_entries">
+        <item>WLAN/Daten</item>
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="pref_orientation_entries">
+        <item>Keine</item>
+        <item>Querformat</item>
+        <item>Porträt</item>
+        <item>Natürlich</item>
+    </string-array>
+    <string-array name="diag_server_scan_entries">
+        <item>Automatisch</item>
+        <item>Manuell</item>
+    </string-array>
+    <string-array name="uri_target_entries">
+        <item>Ziel auswählen</item>
+        <item>Fernbedienung</item>
+    </string-array>
+    <string-array name="share_entries">
+        <item>URI</item>
+        <item>NFC</item>
+        <item>QR</item>
+    </string-array>
+    <string-array name="pref_default_remotes_list">
+        <item>Alle Fernbedienungen</item>
+        <item>Meist verwendeten Fernbedienungen</item>
+        <item>Kürzlich verwendete Fernbedienungen</item>
+    </string-array>
+    <string-array name="pref_mouse_throttle_entries">
+        <item>Schnelle Netzwerke (Kein Limit)</item>
+        <item>Normale Netzwerke (Hohes Limit)</item>
+        <item>Langsame Netzwerke (Niedriges Limit)</item>
+    </string-array>
+
+</resources>

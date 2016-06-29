@@ -1,10 +1,10 @@
-Die mit Abstand funktionsreichste Fernbedienung für Ihren PC. Verwandelt Ihr WLAN- oder Bluetooth-Gerät in einer Universalfernbedienung für Ihren Windows-PC. Mac und Linux werden ebenfalls unterstützt. Steuern Sie häufig genutzte Programme sowie Maus und Tastatur.
+Die mit Abstand funktionsreichste Fernbedienung für Ihren PC. Verwandelt Ihr WLAN- oder Bluetooth-Gerät in eine Universalfernbedienung für Ihren Windows, Mac und Linux PC. Seien Sie bequem, Sie verdienen es! Steuern Sie über 90 häufig genutzte Programme, darunter Maus & Tastatur, Mediaplayer, Präsentationen, Screen-Mirroring, Energie, Dateiexplorer, Terminal und vieles mehr.
 
 Server: https://www.unifiedremote.com
 
 „Eine fantastische Fernsteuerung für alle, die gern auf ihrem PC fernsehen oder Musik hören.“ – Gizmodo
 
-Hauptfunktionen
+<b>Hauptfunktionen</b>
 • Einfache, mühelose Einrichtung von Server und App. 
 • Automatische Servererkennung – finden Sie ganz einfach Server in Ihrem Netzwerk. 
 • Server-Passwortschutz und Verschlüsselung für mehr Sicherheit. 
@@ -13,30 +13,32 @@ Hauptfunktionen
 • Mit hellen und dunklen Farbschemata. 
 • Server verfügbar für Windows, Mac und Linux. 
 • Steuern Sie andere Geräte wie Raspberry Pi und Arduino Yún. 
-• 18 Fernbedienungen gratis
+• 18 kostenfreie Fernbedienungen
 
 <% if (ANDROID) { %>
-In der Vollversion:
+<b>Funktionen der Vollversion</b>
 • Über 90 Fernbedienungen
+• Eigene Fernbedienungen
 • Widgets und Schnelle Aktionen
 • Sprachbefehle
-• Eigene Fernbedienungen
 • IR-Aktionen
 • NFC-Aktionen
+• Android Wear (Schnelle Aktionen, Sprachbefehle & Maus)
+• Keine Werbung
 <% } %>
 
 <% if (IOS) { %>
-Sie können sowohl die Unified-Remote-App als auch den Server kostenlos herunterladen und nutzen. Zusätzliche Funktionen und Fernbedienungen sind per In-App-Kauf erhältlich.
+Sie können sowohl die Unified Remote App als auch den Server kostenlos herunterladen und nutzen. Zusätzliche Funktionen und Fernbedienungen sind per In-App-Kauf erhältlich.
 
-• Sie erhalten zusätzliche Fernbedienungen für 0,99 USD. 
-• Sie erhalten zusätzliche Funktionen für 0,99 USD. 
 • Die Vollversion von Unified Remote mit allen Funktionen und Fernbedienungen kostet 3,99 USD.
+• Zusätzliche Fernbedienungen erhalten Sie für 0,99 USD. 
+• Zusätzliche Funktionen erhalten Sie für 0,99 USD. 
 <% } %>
 
 <b>Essentials</b>
-Mouse, Keyboard, Screen, Volume, and more.
+Maus, Tastatur, Bildschirm, Lautstärke und mehr.
 
-<b>Music</b>
+<b>Musik</b>
 Spotify, iTunes, Google Music, Winamp, etc.
 
 <b>Video</b>
@@ -48,16 +50,16 @@ Kodi (XBMC), Plex, Windows Media Center, Boxee, etc.
 <b>Streaming</b>
 YouTube, Netflix, Hulu
 
-<b>Presentations</b>
-PowerPoint, Keynote, Google Presentation
+<b>Präsentationen</b>
+PowerPoint, Keynote, Google Präsentationen
 
-<b>Browsers</b>
+<b>Browser</b>
 Chrome, Internet Explorer, Firefox, Opera
 
-<b>Other</b>
-Power, Monitor, Files, Task Manager, Commands, etc.
+<b>Sonstiges</b>
+Energie, Überwachung, Dateien, Task-Manager, Befehle, etc.
 
-<b>All Remotes</b>
+<b>Alle Fernbedienungen</b>
 https://www.unifiedremote.com/remotes
 
 Hinweis: Einige Fernbedienungen sind nur für bestimmte Betriebssysteme verfügbar.
