@@ -6,8 +6,8 @@
     "start": "node ./app.js"
   },
   "dependencies": {
-    "async": "^1.4.2",
-    "lodash": "^3.10.1",
-    "shelljs": "^0.5.3"
+    "async": "^3.2.0",
+    "lodash": "^4.17.19",
+    "shelljs": "^0.8.4"
   }
 }
