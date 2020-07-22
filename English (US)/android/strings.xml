@@ -3,7 +3,8 @@
 
     <!-- Upgrade -->
     <string name="upgrade_title">Full Version</string>
-    <string name="upgrade_text">✓ One-time upgrade
+    <string name="upgrade_text">✓ Floating remotes (new!)
+\n✓ One-time upgrade
 \n✓ Includes all future updates
 \n✓ No ads
 \n✓ Screen mirroring
@@ -18,8 +19,6 @@
     </string>
 
     <!-- Share Dialog -->
-    <string name="share_dialog_buynfc_title">Buy NFC Tags</string>
-    <string name="share_dialog_buynfc_text">Order from PhoneHomeProject.com. Use promo code \'unified\' for 10% off any purchase.</string>
     <string name="share_dialog_programnfc_title">Program NFC Tag</string>
     <string name="share_dialog_programnfc_text">Make an NFC tag trigger an action.</string>
     <string name="share_dialog_createqr_title">Create QR Image</string>
@@ -57,6 +56,10 @@
     <string name="title_ir_input">Enter IR Code</string>
     <string name="title_ir_test_remote">Test Remote</string>
     <string name="title_upgrade">Upgrade</string>
+    <string name="title_activity_status">Status</string>
+
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
 
     <!-- License Status -->
     <string name="license_status_free">Free Version</string>
@@ -220,6 +223,7 @@
     <string name="inhouse_remove"><u>Upgrade to remove these messages</u></string>
     <string name="inhouse_buy">Buy Full Version</string>
     <string name="inhouse_skip">Skip and continue</string>
+    <string name="inhouse_sponsored">Sponsored</string>
 
     <!-- Preferences (Connection) -->
     <string name="pref_cat_connection">Connection</string>
@@ -269,6 +273,8 @@
 
     <!-- Preferences (Integration) -->
     <string name="pref_cat_integration">Device Integration</string>
+    <string name="pref_wear_title">Android Wear</string>
+    <string name="pref_wear_summary">Connect with Android Wear devices.</string>
     <string name="pref_volume_title">Override Volume</string>
     <string name="pref_volume_summary">Control remote volume with hardware buttons.</string>
     <string name="pref_keyboard_title">System Keyboard</string>
@@ -317,6 +323,8 @@
     <string name="pref_mouse_scroll_sensitivity_help">Use low sensitivity for slower scroll, or a high sensitivity for faster scroll.\n</string>
     <string name="pref_mouse_disable_swipe">Disable Menu Swipe</string>
     <string name="pref_mouse_disable_swipe_summary">Disable swipe for menus when using mouse.</string>
+    <string name="pref_mouse_double_drag">Double-Tap-Hold Drag</string>
+    <string name="pref_mouse_double_drag_summary">Use double-tap and hold for dragging.</string>
     <string name="pref_mouse_test">Test Mouse</string>
     <string name="pref_mouse_test_summary">Try your current settings.</string>
 
@@ -354,7 +362,7 @@
     <string name="bluetooth">Bluetooth</string>
 
     <!-- Notifications -->
-    <string name="notif_text">Select to stop connection keep alive.</string>
+    <string name="notif_text">Server connection is active</string>
 
     <!-- Connection Status -->
     <string name="conn_status_connected">Connected</string>
@@ -433,7 +441,7 @@
     <string name="remotes_none">No remotes available.</string>
     <string name="remotes_all_added">All remotes already added.</string>
     <string name="remotes_none_check">No remotes available.\n\nPlease check your server installation.</string>
-    <string name="remotes_none_added">No remotes added.</string>
+    <string name="remotes_none_added">No remotes added. Tap here to add.</string>
 
     <!-- Remote -->
     <string name="remote_not_purchased">Remote not purchased.</string>
@@ -469,6 +477,7 @@
     <string name="category_gaming">Gaming</string>
     <string name="category_browser">Browser</string>
     <string name="category_presentation">Presentation</string>
+    <string name="category_stream">Stream</string>
 
     <!-- IR Select Screen -->
     <string name="category_ir_tv">TV</string>
@@ -529,6 +538,10 @@
     <string name="quick_actions_notification_title">Setup Quick Actions</string>
     <string name="quick_actions_notification_message">Configure/Disable quick actions.</string>
 
+    <!-- Tasker -->
+    <string name="tasker_notification_title">Enable full Tasker integration</string>
+    <string name="tasker_notification_message">Tap here to allow the \'Appear on top\' permission.</string>
+
     <!-- Requires -->
     <string name="requires_2_2">Requires 2.2 or higher…</string>
     <string name="requires_2_3">Requires 2.3 or higher…</string>
@@ -576,6 +589,11 @@
         <item>Fast Networks (No Limit)</item>
         <item>Medium Networks (High Limit)</item>
         <item>Slow Networks (Low Limit)</item>
+    </string-array>
+    <string-array name="trial_options">
+        <item>Buy Full Version</item>
+        <item>Invite Friends</item>
+        <item>Use Free Version</item>
     </string-array>
 
 </resources>

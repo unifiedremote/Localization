@@ -1,4 +1,4 @@
-﻿The one-and-only remote control app for your computer. Turns your device into a WiFi or Bluetooth universal remote control for Windows PC, Mac and Linux. Be lazy, you deserve it! Preloaded with support for 90+ programs including moue & keyboard, media players, presentations, screen mirroring, power control, file manager, terminal, and much more.
+﻿The one-and-only remote control app for your computer. Turns your device into a WiFi or Bluetooth universal remote control for Windows PC, Mac and Linux. Be lazy, you deserve it! Preloaded with support for 90+ programs including mouse & keyboard, media players, presentations, screen mirroring, power control, file manager, terminal, and much more.
 
 Server: https://www.unifiedremote.com
 
@@ -25,7 +25,7 @@ Server: https://www.unifiedremote.com
 • IR actions
 • NFC actions
 • Android Wear (Quick Actions, Voice & Mouse)
-• No ads
+• Floating Remotes (use remotes over other apps)
 <% } %>
 
 <% if (IOS) { %>

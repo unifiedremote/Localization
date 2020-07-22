@@ -80,6 +80,9 @@
     <string name="editor2_wizard_toaststring">Message that should be shown</string>
     <string name="editor2_wizard_changeserver">Change Server</string>
     <string name="editor2_wizard_openinapp">Open In App</string>
+    <string name="editor2_wizard_qa">Quick Actions</string>
+    <string name="editor2_wizard_qa_start">Start</string>
+    <string name="editor2_wizard_qa_stop">Stop</string>
     <string name="editor2_wizard_show">Show</string>
     <string name="editor2_wizard_next">Next</string>
     <string name="editor2_wizard_prev">Previous</string>
