@@ -1,0 +1,68 @@
+Jedyna aplikacja do zdalnego sterowania dla Twojego komputera. Podłącz urządzenie do sieci WiFi lub Bluetooth by zacząć używać uniwersalnego pilota do zdalnego sterowania komputera z systemem Microsoft Windows, Mac oraz Linux. Zasługujesz na lenistwo! Obsługujemy ponad 90 programów, w tym myszkę i klawiaturę, różne odtwarzacze multimedialne, programy do prezentacji, pulpit zdalny twojego ekranu, kontrolę zasilania, menedżery plików, terminal oraz o wiele więcej.
+Serwer: https://www.unifiedremote.com
+
+“Fantastyczne narzędzie dla chcących mieć pilota do oglądania telewizji jak również do słuchania muzyki” - Gizmodo
+
+Najważniejsze funkcje
+• Bardzo łatwa konfiguracja serwera oraz aplikacji, która naprawdę działa!
+• Automatyczne wykrywanie serwera w celu łatwego wyszukiwania urządzeń w sieci.
+• Ochrona oraz szyfrowanie haseł serwera w celu zwiększenia twojego bezpieczeństwa.
+• Obsługa myszy i klawiatury.
+• Obsługa wybudzania (Wake On LAN) dla łatwiejszego uruchomienia serwera.
+• Dwa motywy dzienny i nocny.
+• Serwer jest dostępny dla różnych systemów Microsoft Windows, Mac i Linux.
+• Obsługuje różne urządzenia w tym Raspberry Pi oraz Arduino Yún.
+• ponad 18 darmowych gotowych pilotów do zarządzania programami.
+
+<% if (ANDROID) { %>
+Funkcje Pełnej wersji
+• ponad 90 gotowych pilotów
+• Istnieje możliwość tworzenie własnego pilota
+• Widżety oraz inne szybkie działania
+• Obsługa komend głosowe
+• Zdalny pilot
+• obsługa podczerwieni IR (Internet Registry)
+• interakcja NFC
+• Zegarek z systemem Android (Android Wear) (szybkie akcje, głos oraz mysz)
+• Bez reklam
+<% } %>
+
+<% if (IOS) { %>
+Zarówno aplikację, jak i serwer Unified Remote można pobrać i używać, a dodatkowe funkcje oraz piloty są dostępne za pośrednictwem zakupów w aplikacji.
+• Unified Remote Full: Pełna wersja wraz ze wszystkimi funkcjami oraz pilotami za $3,99
+• Wykup dodatkowe piloty za $0,99
+• Wykup dodatkowe funkcje za $0,99
+<% } %>
+
+Essentials
+Mysz, Klawiatura, Ekran urządzenia, kontrola głosności oraz wiele innych możliwości.
+
+Muzyka
+Foobar2000, Spotify, iTunes, Google Music, Winamp, itp.
+
+Wideo
+VLC, BSPlayer, Windows Media Player, PotPlayer, itp.
+
+Centrum medialne
+Kodi (XBMC), Plex, Windows Media Center, Boxee, itp.
+
+Portale streamingowe
+YouTube, Netflix, Hulu
+
+Prezentacje
+Microsoft Office PowerPoint, Keynote, Google Presentation
+
+Przeglądarki internetowe
+Google Chrome, Microsoft Internet Explorer, Mozilla Firefox, Opera
+
+Inne
+Obsługa: wyłączania komputera, Monitora, Menadżera plików, Menadżera zadań, komend, itp.
+
+Wszystkie piloty
+https://www.unifiedremote.com/remotes
+
+Niektóre piloty są niedostępne dla wszystkich systemów operacyjnych.
+
+<% if (ANDROID) { %>
+<%= PERMISSIONS %>
+<% } %>
