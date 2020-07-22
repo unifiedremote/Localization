@@ -1,5 +1,6 @@
 <b>Permissions</b>
-• read phone status and identity: for auto-pause.
+• system alert window: for floating remotes.
+• read phone status: for auto-pause when receiving calls.
 • control NFC: for NFC actions.
 • full network access: for server connection.
 • view network connections: for server connection.
